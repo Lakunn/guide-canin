@@ -6,7 +6,7 @@ status: publish
 origin: new
 dek: "Tapez un aliment pour savoir s'il est sans danger, à donner avec précaution ou à éviter absolument, avec l'explication. Et que faire si votre chien a mangé un aliment toxique."
 seo_title: "Mon chien peut-il manger… ? Aliments autorisés et interdits"
-meta_description: "Chocolat, raisin, oignon, avocat, fromage, carotte : vérifiez en un instant si votre chien peut manger un aliment, et que faire en cas d'ingestion d'un aliment toxique."
+meta_description: "Chocolat, raisin, oignon, avocat, fromage, carotte : vérifiez en un instant si votre chien peut manger un aliment, et que faire en cas d'ingestion toxique."
 essentiel:
   - "Le **chocolat**, le **raisin** (frais ou sec), l'**oignon**, l'**ail**, le **xylitol** et les **noix de macadamia** font partie des aliments les plus dangereux pour le chien."
   - "Pour le raisin et le xylitol, **aucune quantité n'est considérée comme sûre**."

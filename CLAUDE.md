@@ -7,7 +7,7 @@ Ce dépôt pilote le site WordPress guide-canin.fr (guide pratique sur les chien
 - **Ne jamais changer un slug existant** (nom de fichier, champ `slug`, slug de rubrique). Pas de 301, jamais.
 - **Ne jamais changer la rubrique d'un article existant** : sur ce site, la rubrique fait partie de l'URL (`/sante/premiers-secours/slug/`). La synchro s'arrête si cela arrive.
 - Ne jamais supprimer un fichier de content/ dont l'URL figure dans urls.csv. Ne jamais éditer urls.csv à la main.
-- Toutes les pages statiques sont réécrites : une page `origin: import` bloque la mise en production.
+- Lancement progressif : un contenu `origin: import` n'est jamais envoyé vers WordPress, il reste en ligne tel quel jusqu'à sa réécriture. Réécrire par lots, les plus visités d'abord (export Search Console), les contenus hors sujet (chevaux, chats, voyages en Allemagne…) recentrés sur le chien en dernier.
 - Un doublon se consolide par `canonical_overrides` (config/site.yml), jamais par redirection.
 
 ## Écriture

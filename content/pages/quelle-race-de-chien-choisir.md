@@ -6,7 +6,7 @@ status: publish
 origin: new
 dek: "Logement, temps disponible, enfants, expérience, entretien : répondez à sept questions et découvrez les trois races les plus compatibles avec votre mode de vie."
 seo_title: "Quelle race de chien choisir ? Le test en 7 questions"
-meta_description: "Faites le test pour trouver la race de chien adaptée à votre logement, votre temps, vos enfants et votre expérience, avec les points de vigilance de chaque race."
+meta_description: "Faites le test pour trouver la race de chien adaptée à votre logement, votre temps, vos enfants et votre expérience, avec les points de vigilance de chacune."
 essentiel:
   - "Le bon chien est celui dont les **besoins d'activité** correspondent au temps que vous pouvez lui consacrer chaque jour."
   - "Pour un **premier chien**, privilégiez une race réputée facile à éduquer et sociable."

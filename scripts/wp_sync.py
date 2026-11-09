@@ -189,12 +189,12 @@ class Sync:
         if dupes:
             die(f"slugs en double dans le dépôt : {dupes}")
 
-        # Les pages statiques de l'ancien site ne sont jamais republiées telles quelles.
-        legacy = [d.path.name for d in docs if d.kind == "page" and d.meta.get("origin") == "import"]
-        if legacy and self.apply:
-            die(f"pages pas encore réécrites (origin: import) : {', '.join(legacy)} — déploiement bloqué")
-        for name in legacy:
-            warn(f"page à réécrire avant le lancement : {name}")
+        # Lancement progressif : les contenus pas encore réécrits (origin: import) ne sont
+        # jamais renvoyés vers WordPress. Ils restent en ligne tels quels jusqu'à leur réécriture.
+        legacy = [d for d in docs if d.meta.get("origin") == "import"]
+        if legacy:
+            print(f"laissés tels quels dans WordPress (pas encore réécrits) : {len(legacy)} contenus")
+        docs = [d for d in docs if d.meta.get("origin") != "import"]
         todo = [d.path.name for d in docs if "À COMPLÉTER" in d.body or "À COMPLÉTER" in str(d.meta)]
         if todo and self.apply:
             die(f"informations « À COMPLÉTER » dans : {', '.join(todo)} — déploiement bloqué")

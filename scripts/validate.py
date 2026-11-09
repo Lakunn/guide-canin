@@ -148,7 +148,7 @@ def main() -> None:
         if "À COMPLÉTER" in d.body:
             warn(f"{d.path.name} : contient « À COMPLÉTER » (le déploiement en production est bloqué)")
         if d.kind == "page" and d.meta.get("origin") == "import":
-            warn(f"{d.path.name} : page de l'ancien site, à réécrire (le déploiement en production est bloqué tant qu'elle ne l'est pas)")
+            pass  # lancement progressif : les pages importées restent en ligne telles quelles
 
     for flag in ("front_page", "posts_page"):
         n = sum(1 for d in docs if d.meta.get(flag))

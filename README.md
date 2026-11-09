@@ -9,12 +9,11 @@ Le site WordPress est entièrement piloté depuis ce dépôt : le thème, la con
 | Référentiel `urls.csv` | généré par l'import | liste de toutes les URL actuelles en 200 (articles, pages, rubriques, auteur, pagination, sitemap) |
 | `validate.py` | à chaque push / PR | échoue si un article ou une page du référentiel n'a plus de fichier avec le même slug |
 | `wp_sync.py` | au déploiement | s'arrête avant toute écriture si un slug existant devait changer ; ne supprime jamais rien |
-| Verrou pages statiques | au déploiement | refuse la mise en production tant qu'une page de l'ancien site (`origin: import`) n'a pas été réécrite |
+| Lancement progressif | au déploiement | les contenus pas encore réécrits (`origin: import`) ne sont jamais renvoyés vers WordPress : ils restent en ligne tels quels |
 | `check_urls.py` | après déploiement + chaque lundi | échoue si une URL du référentiel redirige, renvoie une erreur ou a une canonical différente |
 
 ## Verrous avant mise en production
 
-- une page encore issue de l'ancien site (`origin: import`) ;
 - un texte contenant « À COMPLÉTER ».
 
 Dans les deux cas, la simulation le signale et la production refuse de démarrer.
