@@ -11,8 +11,6 @@ meta_description: Hast du für Hunde giftige Pflanzen im Garten? Einige Pflanzen
 cover_id: 31190
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Quelles sont les plantes de jardin toxiques pour les chiens ?
 
 Chien et jardin – plantes toxiques pour les chiens – plantes toxiques
@@ -293,4 +291,4 @@ Centres antipoison des Länder
 
 Guide du chien – Plantes de jardin non toxiques
 
-*Les informations du portail d’information sur les chiens ne remplacent en aucun cas un conseil ou un traitement professionnel par un vétérinaire formé et reconnu. Par conséquent, le contenu de ce site ne doit pas être utilisé comme substitut à un traitement vétérinaire.*\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+*Les informations du portail d’information sur les chiens ne remplacent en aucun cas un conseil ou un traitement professionnel par un vétérinaire formé et reconnu. Par conséquent, le contenu de ce site ne doit pas être utilisé comme substitut à un traitement vétérinaire.*

@@ -12,11 +12,9 @@ cover_id: 31824
 parent_id: 32234
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Un chien de compagnie facile
 
-Le Bichon havanais est un chien intelligent et vif. Il est extrêmement gentil avec les enfants et adore être avec sa famille.\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1594380515820{background\-color : \#dcdcdc !important;} »]\[vc\_column]\[vc\_column\_text]
+Le Bichon havanais est un chien intelligent et vif. Il est extrêmement gentil avec les enfants et adore être avec sa famille.
 
 ### Fiche signalétique du havanais
 
@@ -34,7 +32,7 @@ Le Bichon havanais est un chien intelligent et vif. Il est extrêmement gentil a
 
 **Utilisation actuelle :** Chien de famille, chien de compagnie
 
-**Utilisation passée :** dans les cirques, démonstration de voltige\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]1\. caractère
+**Utilisation passée :** dans les cirques, démonstration de voltige1\. caractère
 
 2\. éducation
 
@@ -102,4 +100,4 @@ Ce chien est facile à éduquer et s’enthousiasme pour beaucoup de choses. Qu�
 
 Ici, sur le site du VDH, tu trouveras un grand aperçu de tous les éleveurs de Bichons havanais.
 
-Autres races de chiens de A à Z\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Autres races de chiens de A à Z

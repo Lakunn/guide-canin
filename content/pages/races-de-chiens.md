@@ -11,8 +11,6 @@ meta_description: Hier findest du alle Hunderassen mit Informationen zur Geschic
 cover_id: 30923
 ---
 
-\[vc\_row]\[vc\_column width\= »2/3″]\[vc\_column\_text]
-
 ### Toutes les races de chiens dans un aperçu compact
 
 Le chien était autrefois élevé comme un animal de rente qui surveillait la maison et la ferme, rassemblait les moutons ou était un compagnon dévoué à la chasse. Dans ce contexte, la race du chien joue un rôle décisif pour savoir si son caractère et sa taille sont à la hauteur de cette tâche. **En effet, la race ne détermine pas seulement l’apparence d’un chien. Elle détermine également les caractéristiques élémentaires de son caractère, son utilisation et les exigences de sa détention.** Aujourd’hui, le chien est généralement un compagnon fidèle et souvent un membre de la famille à part entière.
@@ -25,7 +23,7 @@ Dans notre rubrique « Races de chiens », tu trouveras des descriptions déta
 
 Tu es à la recherche de « petites races de chiens » ? Alors clique ici !
 
-Tu trouveras ici la liste de nos « races de chiens de taille moyenne »\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/3″ css\= ».vc\_custom\_1592943832867{background\-color : \#ededed !important;} »]\[vc\_column\_text]
+Tu trouveras ici la liste de nos « races de chiens de taille moyenne »
 
 ### Table des matières
 
@@ -41,7 +39,7 @@ Combien de races de chiens existe\-t\-il et lesquelles ?
 
 Les groupes et sections FCI des races de chiens
 
-Les lignées de spectacle et de travail chez les chiens de chasse und Hütehunden\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]\[mediagrid gid\= »10831″ title\_under\= »1″ filter\= »10832″ mobile\_tresh\= »800″ overlay\= »10827″]\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Les lignées de spectacle et de travail chez les chiens de chasse und Hütehunden\[mediagrid gid\= »10831″ title\_under\= »1″ filter\= »10832″ mobile\_tresh\= »800″ overlay\= »10827″]
 
 ## L’histoire des races de chiens
 
@@ -178,4 +176,4 @@ Les éleveurs de chiens font une distinction entre les chiens de chasse et les c
 
 Par rapport à ses congénères de la lignée de **travail**, un chien de la lignée de spectacle est plus petit, plus mince, plus sportif et plus léger. Cela le rend parfait pour la chasse ou le gardiennage.
 
-En revanche, dans la **lignée d’exposition**, l’élevage se concentre sur les caractéristiques esthétiques et sociales. Ces animaux sont généralement plus calmes, ce qui en fait des chiens de famille plus adaptés\[/vc\_column\_text]\[/vc\_column]\[/vc\_row].
+En revanche, dans la **lignée d’exposition**, l’élevage se concentre sur les caractéristiques esthétiques et sociales. Ces animaux sont généralement plus calmes, ce qui en fait des chiens de famille plus adaptés.

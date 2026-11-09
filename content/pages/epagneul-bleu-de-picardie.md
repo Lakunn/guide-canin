@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Epagneul Bl
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Epagneul Bleu de Picardie – Portrait de la race
 
 ### Ces noms désignent la même race :

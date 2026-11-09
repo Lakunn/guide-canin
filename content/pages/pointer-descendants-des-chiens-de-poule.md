@@ -12,8 +12,6 @@ cover_id: 32034
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Pointer – Portrait de la race
 
 ### FCI :
@@ -112,7 +110,6 @@ Malgré son besoin de mouvement, le pointer s’adapte très bien et peut être 
   **Que chasse le pointer ?** Ils sont spécialisés dans la chasse aux oiseaux.
 
   **Quel âge peuvent avoir les pointers ?** En moyenne, on peut dire qu’ils vivent entre 12 et 14 ans. Parfois, il y a des exceptions et les chiens peuvent vivre jusqu’à 17 ans.
-
 
 ### Sources
 

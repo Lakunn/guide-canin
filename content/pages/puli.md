@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Puli, so wi
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Puli – portrait de la race
 
 ### FCI :

@@ -12,8 +12,6 @@ cover_id: 31816
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Grand bouvier suisse – portrait de la race\>
 
 ### Ces noms désignent la même race :

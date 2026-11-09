@@ -12,11 +12,9 @@ cover_id: 31798
 parent_id: 32234
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Un chien câlin très spécial
 
-Le bouledogue français est un chien sympathique et joyeux qui se sent le mieux dans la famille et avec les enfants. Cette petite race de chien adore les câlins et les jeux\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1594199424523{background\-color : \#dcdcdc !important;} »]\[vc\_column]\[vc\_column\_text]Nomenclature des races : FCI n° 101, Gr.9, Sec.11
+Le bouledogue français est un chien sympathique et joyeux qui se sent le mieux dans la famille et avec les enfants. Cette petite race de chien adore les câlins et les jeuxNomenclature des races : FCI n° 101, Gr.9, Sec.11
 
 **Ces noms désignent la même race :** Bouledogue français, Frenchie, French Bulldog, Bully
 
@@ -34,7 +32,7 @@ les deux sexes
 
 **Poids :** 8 – 14 Kg
 
-les deux sexes (en fonction de la taille)\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]1\. caractère
+les deux sexes (en fonction de la taille)1\. caractère
 
 2\. éducation
 
@@ -194,4 +192,4 @@ Cette race ne supporte pas non plus très bien la chaleur excessive, il faut don
 
 En hiver, il faut veiller à ce que le chien reste en mouvement, car il a facilement froid à cause de son pelage fin et court.
 
-Autres races de chiens de A à Z\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Autres races de chiens de A à Z

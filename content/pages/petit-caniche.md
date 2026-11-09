@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Kleinpudel,
 parent_id: 32234
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Portrait de la race des petits caniches
 
 ### FCI

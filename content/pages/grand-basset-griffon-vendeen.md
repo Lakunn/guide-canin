@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Grand Basset Gr
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Grand Basset Griffon Vendéen – Portrait de la race
 
 ### Ces noms désignent la même race :

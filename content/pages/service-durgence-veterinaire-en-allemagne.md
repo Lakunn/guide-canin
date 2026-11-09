@@ -11,15 +11,13 @@ meta_description: Sie suchen einen Tierarzt Notdienst in Deutschland? Dann sind 
 cover_id: 31257
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Vous trouverez ici les services d’urgence vétérinaires en Allemagne, classés par Land.
 
 **L’aide pour votre chien est garantie jour et nuit en Allemagne.
 
 Le service médical d’urgence du jour en question peut également être appelé au numéro suivant
 
-peut être consulté au : 11 88 0 (1,38 € /minute)**\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_btn title\= »Berlin » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Ftieraerztlicher\-notdienst\-berlin%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Bayern » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url :https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fbayern%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Bade\-Wurtemberg » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fbaden\-wuerttemberg%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Brandebourg » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Fbrandenburg%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Brême » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fland\-bremen%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Hambourg » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Service d’urgence vétérinaire%2Service d’urgence vétérinaire à Hambourg%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Hesse » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Fhessen%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Mecklembourg\-Poméranie occidentale » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url :https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fmecklenburg\-vorpommern%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Basse\-Saxe » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Ftieraerztlicher\-notdienst\-niedersachsen%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Rhénanie\-du\-Nord\-Westphalie » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Fnordrhein\-westfalen%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Rhénanie\-Palatinat » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url :https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Frheinland\-pfalz%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Sarre » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fsaarland%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Saxe » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fsachsen%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Saxe\-Anhalt » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Connaissances canines%2Aide vétérinaire d’urgence%2Fsachsen\-anhalt%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Schleswig\-Holstein » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Fschleswig\-holstein%2F\|\|\| »]\[/vc\_column]\[vc\_column width\= »1/3″]\[vc\_btn title\= »Thuringe » style\= »flat » size\= »sm » align\= »center » button\_block\= »true » el\_class\= »beihilfestellen » link\= »url:https%3A%2F%2Fguide\-canin.fr%2Fhundewissen%2Ftierarzt\-notdienst\-hilfe%2Fthueringen%2F\|\|\| »]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+peut être consulté au : 11 88 0 (1,38 € /minute)**
 
 ### Liste des services vétérinaires d’urgence en Allemagne
 
@@ -33,7 +31,7 @@ Les frais de traitement du service d’urgence vétérinaire doivent généralem
 
 Les cliniques vétérinaires, ou cliniques pour petits animaux, sont à votre disposition jour et nuit en cas d’urgence.
 
-Un ou une vétérinaire s’occupera de votre chien même la nuit en cas d’urgence\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Un ou une vétérinaire s’occupera de votre chien même la nuit en cas d’urgence
 
 ### Service d’urgence vétérinaire à Berlin
 
@@ -73,7 +71,7 @@ Clinique pour petits animaux
 
 Dr. Löwe
 
-Märkische Allee 258 (Marzahn) Tél. : 932 20 93\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Märkische Allee 258 (Marzahn) Tél. : 932 20 93
 
 ### Service d’urgence vétérinaire du Bade\-Wurtemberg
 
@@ -301,7 +299,7 @@ Clinique vétérinaire Dr. Zöller, Heidenheim, 07321\-918590
 
 Anicura Centre médical pour petits animaux Hüttig, Reutlingen, 07121\-93210
 
-Page d’accueil de la clinique vétérinaire pour petits animaux à Ulm \[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique vétérinaire pour petits animaux à Ulm 
 
 ### Service d’urgence vétérinaire du Brandebourg
 
@@ -414,8 +412,6 @@ Numéro d’urgence **0 33 75/ 50 21 39**
 Service d’urgence jour et nuit
 
 Page d’accueil de la clinique vétérinaire de Berlin
-
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
 
 ### Service d’urgence vétérinaire de Hesse
 
@@ -719,8 +715,6 @@ Veuillez vous inscrire par téléphone afin que tout puisse être préparé.
 
 Page d’accueil de la clinique vétérinaire de Wiesbaden
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 **Service d’urgence vétérinaire dans la ville hanséatique de Brême**
 
 Numéro d’appel
@@ -767,7 +761,7 @@ Vous pouvez venir immédiatement – sans rendez\-vous téléphonique préalable
 
 *Source Clinique vétérinaire de Brême*
 
-Vous trouverez la **page d’accueil de la clinique pour petits animaux de Brême** *…ici*\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]Service d’urgences vétérinaires dans la ville hanséatique de Brême
+Vous trouverez la **page d’accueil de la clinique pour petits animaux de Brême** *…ici*Service d’urgences vétérinaires dans la ville hanséatique de Brême
 
 Numéro d’appel
 
@@ -813,7 +807,7 @@ Vous pouvez venir immédiatement – sans rendez\-vous téléphonique préalable
 
 Source Clinique vétérinaire de Brême
 
-Page d’accueil de la clinique pour petits animaux de Brême\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique pour petits animaux de Brême
 
 ### Service d’urgence vétérinaire en Bavière
 
@@ -1051,7 +1045,7 @@ Numéro d’urgence : 0931/ 32 93 09 80
 
 Urgences à tout moment ! Service d’urgence 24h/24 sur rendez\-vous téléphonique.
 
-Page d’accueil de la clinique vétérinaire de Lengfeld\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]Service d’urgence vétérinaire à Hambourg
+Page d’accueil de la clinique vétérinaire de LengfeldService d’urgence vétérinaire à Hambourg
 
 Plan des services vétérinaires d’urgence à Hambourg
 
@@ -1169,8 +1163,6 @@ Numéro d’urgence 040/ 520 90 96
 
 Page d’accueil de la clinique vétérinaire Lademannbogen
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Service d’urgence vétérinaire du Mecklembourg\-Poméranie occidentale
 
 ### Service d’urgence vétérinaire à Rostock et Stralsund
@@ -1235,7 +1227,7 @@ Veuillez appeler avant !
 
 Page d’accueil de la clinique vétérinaire de Schwerin
 
-Que faire en attendant l’arrivée du vétérinaire ?\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Que faire en attendant l’arrivée du vétérinaire ?
 
 ## Service d’urgence vétérinaire de Basse\-Saxe
 
@@ -1459,7 +1451,7 @@ Page d’accueil
 
 La liste des vétérinaires et cliniques de garde à Salzgitter
 
-Que faire en attendant l’arrivée du vétérinaire ?\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Que faire en attendant l’arrivée du vétérinaire ?
 
 ## Service d’urgence vétérinaire de Rhénanie du Nord\-Westphalie
 
@@ -1941,7 +1933,7 @@ Numéro d’urgence 02129/ 37 50 70
 
 Service d’urgence 24h/24 sur rendez\-vous téléphonique
 
-Page d’accueil de la clinique vétérinaire Neandertal\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique vétérinaire Neandertal
 
 ## Service d’urgence vétérinaire de la Sarre
 
@@ -2051,7 +2043,7 @@ Annoncez impérativement votre venue à l’avance par téléphone !
 
 En appelant le (06894\) 89 50 50 – 1, vous pouvez demander à ce que l’on vienne chercher votre animal malade à la clinique vétérinaire de St. Ingbert, après avoir pris rendez\-vous par téléphone. Le cas échéant, le service de transport est complet. Bien entendu, nous nous efforcerons alors d’organiser le transport de votre patient dans les plus brefs délais. Ingbert, il n’y a pas de traitement sur place.
 
-Page d’accueil de la clinique vétérinaire Scholz\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique vétérinaire Scholz
 
 ## Service d’urgence vétérinaire de Saxe
 
@@ -2217,7 +2209,7 @@ La page d’accueil de la clinique vétérinaire pour petits animaux de Stolpen
 
 ### Service d’urgence vétérinaire à Zwickau
 
-Liste des vétérinaires de garde à Zwickau\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Liste des vétérinaires de garde à Zwickau
 
 ## Service d’urgence vétérinaire de Saxe\-Anhalt
 
@@ -2311,7 +2303,7 @@ Service d’urgence 24h/24 – La clinique vétérinaire est ouverte jour et nui
 
 Si vous êtes devant la porte avec une urgence, utilisez l’interphone.
 
-La page d’accueil de la clinique vétérinaire de Wittenberg\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+La page d’accueil de la clinique vétérinaire de Wittenberg
 
 ## Service d’urgence vétérinaire du Schleswig\-Holstein
 
@@ -2455,7 +2447,7 @@ Numéro d’urgence 04321/ 660 06
 
 Service d’urgence 24h/24
 
-Page d’accueil de la clinique vétérinaire pour petits animaux à Wasbek\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique vétérinaire pour petits animaux à Wasbek
 
 ## Service d’urgence vétérinaire de Thuringe
 
@@ -2565,7 +2557,7 @@ Le site de la ville de Suhl publie les vétérinaires de garde.
 
 sous service d’urgence vétérinaire Suhl pour chaque week\-end actuel
 
-Service d’urgence vétérinaire de Suhl\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Service d’urgence vétérinaire de Suhl
 
 ## Service d’urgence vétérinaire de Rhénanie\-Palatinat
 
@@ -2719,13 +2711,11 @@ Numéro d’urgence
 
 Disponible 24 heures sur 24 – Il est indispensable de prendre rendez\-vous par téléphone
 
-Page d’accueil de la clinique pour petits animaux de Trèves\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+Page d’accueil de la clinique pour petits animaux de Trèves
 
 ### Lexique des premiers secours
 
 #### Que faire en attendant l’arrivée du vétérinaire ?
-
-\[/vc\_column\_text]\[vc\_column\_text]
 
 ### A
 
@@ -3055,4 +3045,4 @@ Tique sur la peau, morsure de tique rouge.
 
 Retirer la tique avec une pince à tiques, désinfecter la morsure. Si la rougeur persiste, consulter un vétérinaire.
 
-*Les informations du portail d’information sur les chiens ne remplacent en aucun cas un conseil ou un traitement professionnel par un vétérinaire formé et reconnu. Par conséquent, le contenu de ce site ne doit pas être utilisé comme substitut à un traitement vétérinaire.*\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+*Les informations du portail d’information sur les chiens ne remplacent en aucun cas un conseil ou un traitement professionnel par un vétérinaire formé et reconnu. Par conséquent, le contenu de ce site ne doit pas être utilisé comme substitut à un traitement vétérinaire.*

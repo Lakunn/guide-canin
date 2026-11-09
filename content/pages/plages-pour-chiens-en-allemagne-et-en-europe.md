@@ -12,25 +12,23 @@ cover_id: 31587
 parent_id: 31277
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Plages pour chiens en Allemagne et en Europe – un paradis pour les chiens
 
 Les plages pour chiens sont un paradis pour les chiens. Ici, nos chiens peuvent creuser à cœur joie dans le sable, patauger dans la mer et se défouler avec d’autres chiens. Pour la plupart des chiens, c’est le plus grand bonheur.
 
-Pour que les vacances à la mer soient un moment agréable pour tous, il faut faire attention à certaines choses au préalable\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_separator]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_column\_text]
+Pour que les vacances à la mer soient un moment agréable pour tous, il faut faire attention à certaines choses au préalable
 
 ### Plages pour chiens en mer du Nord
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »13819″ img\_size\= »medium »]\[vc\_column\_text]vous trouverez …ici\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_column\_text]
+vous trouverez …ici
 
 ### Plages pour chiens sur l’île de Sylt
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »13834″ img\_size\= »medium »]\[vc\_column\_text]vous trouverez …ici\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_column\_text]
+vous trouverez …ici
 
 ### Plages pour chiens sur la mer Baltique
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »13841″ img\_size\= »medium »]\[vc\_column\_text]vous trouverez …ici\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[/vc\_column]\[/vc\_row]\[vc\_column]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]**Nous avons quelques conseils pour vous ici :**
+vous trouverez …ici**Nous avons quelques conseils pour vous ici :**
 
 #### Peur de l’eau
 
@@ -86,7 +84,7 @@ vous trouverez … ici
 
 #### Guide du chien – Vacances avec un chien
 
-vous trouverez …ici\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_separator]\[vc\_column\_text]
+vous trouverez …ici
 
 ### Plages pour chiens en Europe
 
@@ -128,4 +126,4 @@ Le site
 
 vous trouverez …ici
 
-haut de page\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+haut de page

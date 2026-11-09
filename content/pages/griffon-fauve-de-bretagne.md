@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Griffon Fauve d
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Griffon Fauve de Bretagne – Portrait de la race
 
 ### FCI

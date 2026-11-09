@@ -12,8 +12,6 @@ cover_id: 31407
 parent_id: 31391
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Fleurs de Bach pour chiens
 
 Les fleurs de Bach pour chiens jouissent aujourd’hui d’une grande popularité.
@@ -24,13 +22,13 @@ La thérapie des fleurs de Bach a été développée dans les années 30 par le 
 
 Grâce à ses recherches approfondies, le Dr Bach a découvert un lien entre l’état psychique et la flore bactérienne de l’intestin. Il a ainsi découvert une forme de bactéries intestinales spéciales qui apparaissaient dans certaines maladies chroniques. En 1929, Bach a traité avec succès les premiers patients avec ses fleurs de Bach.
 
-Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de source. Il était convaincu qu’en utilisant ses fleurs de Bach, il pouvait traiter les états d’âme qu’il avait observés sans effets secondaires. La thérapie des fleurs de Bach est également utilisée avec succès chez les chiens.\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row disable\_element\= »yes »]\[vc\_column]\[vc\_tta\_tabs]\[vc\_tta\_section title\= »Agrimony » tab\_id\= »1544257078161\-ef0a76d2\-3887″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Aspen » tab\_id\= »1544257187593\-cabbd2f6\-9d58″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Bleech » tab\_id\= »1544257284728\-6b46b0d6\-033a »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Cherry Plum » tab\_id\= »1544257407549\-3a6bf46a\-cf18″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Centauri » tab\_id\= »1544257078174\-c906c0d9\-5db7″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Cerato » tab\_id\= »1544257200005\-f2b33468\-5861″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Clematis » tab\_id\= »1544257128077\-58f125c2\-a4e1″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Crab Apple » tab\_id\= »1544257105974\-ebfbdf4d\-ab1a »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »First Aid » tab\_id\= »1544257417324\-f3d7b7df\-6dbf »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Gentian » tab\_id\= »1544257327181\-ca87aa11\-6d38″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Heather » tab\_id\= »1544257239558\-d3c2a997\-2170″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Holly » tab\_id\= »1544257161661\-2a094e02\-7661″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Honeysuckle » tab\_id\= »1544257377509\-a66721e7\-0a0d »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Impatiens » tab\_id\= »1544257212455\-2f40b6d6\-4c64″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Oak » tab\_id\= »1544257251250\-95063cef\-0b45″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Olive » tab\_id\= »1544257136671\-7efa7f74\-0f0e »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Hornbeam » tab\_id\= »1544257271261\-ba2c9842\-4b9d »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Mimulus » tab\_id\= »1544257350894\-14848688\-6580″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Pine » tab\_id\= »1544257315933\-d14de12a\-fc50″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Rock Rose » tab\_id\= »1544257294173\-bfdc709a\-fad1″]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Rock Water » tab\_id\= »1544257398061\-db30e96a\-95af »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Scleranthus » tab\_id\= »1544257173045\-01e115ea\-9c4d »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Star of Bethlehem » tab\_id\= »1544257228349\-335a8048\-a3de »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Sweet Chestnut » tab\_id\= »1544257337540\-de322848\-82ce »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Remedy » tab\_id\= »1544257428013\-7a12d85f\-663a »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Vine » tab\_id\= »1544257147250\-25b81cc1\-963c »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Walnut » tab\_id\= »1544257259085\-9a968627\-b89a »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »White Chestnut » tab\_id\= »1544257361311\-ddcd914a\-445f »]\[/vc\_tta\_section]\[vc\_tta\_section title\= »Wild Rose » tab\_id\= »1544257305311\-0ee594c2\-5e80″]\[/vc\_tta\_section]\[/vc\_tta\_tabs]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de source. Il était convaincu qu’en utilisant ses fleurs de Bach, il pouvait traiter les états d’âme qu’il avait observés sans effets secondaires. La thérapie des fleurs de Bach est également utilisée avec succès chez les chiens.
 
 ### Fleur de Bach Aigremoine
 
 #### \[Aigremoine]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14503″ img\_size\= »medium »]\[vc\_column\_text**]Distrayant** quand le chien se laisse facilement distraire, est inattentif
+Distrayant** quand le chien se laisse facilement distraire, est inattentif
 
 **Abcès** En cas de faiblesse immunitaire contre les maladies
 
@@ -48,13 +46,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **Déséquilibre** si le chien est très déséquilibré.
 
-**Agitation** si le chien est très agité\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+**Agitation** si le chien est très agité
 
 ### Fleur de Bach Aspen
 
 #### \[Peuplier trembleur]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14505″ img\_size\= »medium »]\[vc\_column\_text**]Seul** quand le chien se sent généralement seul
+Seul** quand le chien se sent généralement seul
 
 **Peurs** pour les chiens qui ont peur sans raison
 
@@ -90,13 +88,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **Sensibilité aux intempéries**
 
-**Tremblements** Le chien tremble de peur\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+**Tremblements** Le chien tremble de peur
 
 ### Fleur de Bach Beech
 
 #### \[Hêtre rouge]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14526″ img\_size\= »full »]\[vc\_column\_text**]Attaque** lorsque le chien fait preuve d’intolérance envers ses congénères
+Attaque** lorsque le chien fait preuve d’intolérance envers ses congénères
 
 **Apaisement** pour calmer le chien
 
@@ -116,12 +114,12 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **Malpropreté** si la malpropreté représente un comportement de protestation du chien
 
-**Comportements compulsifs** contre l’intolérance que le chien manifeste contre des conditions existantes\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+**Comportements compulsifs** contre l’intolérance que le chien manifeste contre des conditions existantes
 
 #### Fleur de Bach Prunier Cerisier
 \[Prune cerise]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14529″ img\_size\= »medium »]\[vc\_column\_text**]Tension** en cas d’agitation interne du chien
+Tension** en cas d’agitation interne du chien
 
 **asthme** si le chien souffre d’asthme
 
@@ -145,13 +143,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **tensions** si le chien est tendu
 
-**contractions**\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+**contractions**
 
 ### Fleur de Bach Centaury
 
 #### \[Centaurée]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14719″ img\_size\= »medium »]\[vc\_column\_text**]Abcès** quand le chien a des abcès
+Abcès** quand le chien a des abcès
 
 **Affections respiratoires** si le chien a des affections respiratoires récurrentes
 
@@ -185,13 +183,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **Faiblesse de la volonté** si le chien a tendance à être faible de volonté
 
-**vers** après une vermifugation du chien\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text]
+**vers** après une vermifugation du chien
 
 ### Fleur de Bach Chicory
 
 #### \[Chicorée sauvage]
 
-\[/vc\_column\_text]\[vc\_single\_image image\= »14720″ img\_size\= »medium »]\[vc\_column\_text**]Manque d’appétit** quand on soupçonne que le manque d’appétit du chien est dû à un trouble psychique (comme stimulant)
+Manque d’appétit** quand on soupçonne que le manque d’appétit du chien est dû à un trouble psychique (comme stimulant)
 
 **l’arrivisme** lorsque le chien s’impose constamment au centre de l’attention
 
@@ -203,13 +201,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **maladie du foie** si le chien souffre d’une maladie du foie
 
-**troubles gastro\-intestinaux** \[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**troubles gastro\-intestinaux** 
 
 ### Fleur de Bach Cerato
 
 #### \[Racine de plomb]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14527″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Seul** si le chien a le « mal du pays » quand il est placé ailleurs
+Seul** si le chien a le « mal du pays » quand il est placé ailleurs
 
 **le mal du pays** peut être utilisé de manière générale si le chien souffre du mal du pays
 
@@ -219,13 +217,13 @@ Pour terminer son étude des fleurs, il a recensé 37 fleurs avec de l’eau de 
 
 **l’inertie** renforce la confiance en soi chez le chien
 
-**insécurité** si le chien est très peu sûr de lui\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**insécurité** si le chien est très peu sûr de lui
 
 ### Fleur de Bach Clématite
 
 #### \[Clématite blanche]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14624″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Abcès** quand le chien a des abcès
+Abcès** quand le chien a des abcès
 
 **Apathie** quand le chien manque de vitalité et de joie de vivre
 
@@ -253,13 +251,13 @@ le**système immunitaire** sert à le renforcer
 
 **maladresse** soutient une meilleure coordination et concentration
 
-**Constipation** si le chien souffre de constipation\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Constipation** si le chien souffre de constipation
 
 ### Fleur de Bach Crab Apple
 
 #### \[Pomme de bois]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14625″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Abcès** quand le chien a des abcès
+Abcès** quand le chien a des abcès
 
 **Abcès** pour éliminer les toxines
 
@@ -319,13 +317,13 @@ le**système immunitaire** sert à le renforcer
 
 **inertie** si une maladie semble s’annoncer chez la chienne pendant la gestation
 
-**empoisonnement** pour que les toxines soient rapidement éliminées\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**empoisonnement** pour que les toxines soient rapidement éliminées
 
 ### Fleur de Bach Elm
 
 #### \[Orme anglais/crucifix]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14722″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Dépression** en cas de baisse de moral momentanée
+Dépression** en cas de baisse de moral momentanée
 
 **épuisement** après avoir surmonté une maladie
 
@@ -343,13 +341,13 @@ le**système immunitaire** sert à le renforcer
 
 **Insuffisance de participation** si le chien est incapable de participer après une maladie ou en raison de son âge.
 
-**La maladresse** favorise une meilleure coordination et concentration\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**La maladresse** favorise une meilleure coordination et concentration
 
 ### Mélange de fleurs de Bach First Aid
 
 #### \[Mélange : Cherry Plum – Clematis – Impatiens – Rock Rose – Star of Bethlehem]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Peur** de l’orage
+Peur** de l’orage
 
 **L’asthme** quand le chien souffre d’asthme
 
@@ -397,13 +395,13 @@ donner**la castration** avant la castration
 
 **douleur de la séparation** si le chien souffre de la douleur de la séparation
 
-**Accident** si le chien a eu un accident\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Accident** si le chien a eu un accident
 
 ### Fleur de Bach Gentian
 
 #### \[Gentiane frangée]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14626″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Les peurs** pour surmonter la peur et renforcer la confiance en soi
+Les peurs** pour surmonter la peur et renforcer la confiance en soi
 
 **Les peurs** lorsque le chien souffre d’une peur constante en raison de mauvaises expériences.
 
@@ -421,13 +419,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **timidité** peur de tout ce qui est inconnu
 
-**Le régime stuporeux** aide le chien à s’engager dans de nouvelles expériences et à ne pas abandonner si vite\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Le régime stuporeux** aide le chien à s’engager dans de nouvelles expériences et à ne pas abandonner si vite
 
 ### Fleur de Bach Gorse
 
 #### \[Ajonc d’Europe]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14630″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Apathie** quand le chien souffre de pertes et donc se résigne
+Apathie** quand le chien souffre de pertes et donc se résigne
 
 **le diabète** pour stimuler la volonté de guérir
 
@@ -443,13 +441,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Inertie** lorsque le chien est blasé
 
-**malpropreté** si le chien est malpropre et refuse de manger\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**malpropreté** si le chien est malpropre et refuse de manger
 
 ### Fleur de Bach Heather
 
 #### \[Bruyère, bruyère à balais]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14631″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Troubles liés à l’âge** purement préventifs quand le chien est vieux
+Troubles liés à l’âge** purement préventifs quand le chien est vieux
 
 **intrusif** lorsque le chien s’impose constamment au centre de l’attention
 
@@ -469,11 +467,11 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **L’hypersensibilité** aide les chiens qui ne se sentent en sécurité que lorsqu’ils sont caressés.
 
-**La pleurnicherie** lorsque le chien gémit à chaque occasion\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**La pleurnicherie** lorsque le chien gémit à chaque occasion
 
 ### Fleur de Bach Holly
 
-\[Houx]\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14632″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Agression** lorsque le chien agit de manière incontrôlée
+\[Houx]Agression** lorsque le chien agit de manière incontrôlée
 
 **morsure de peur**
 
@@ -515,13 +513,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **douleur** contre l’agressivité qui peut survenir chez le chien à cause de la douleur
 
-**La rage destructrice** lorsque le chien détruit des objets par plaisir ou par colère\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**La rage destructrice** lorsque le chien détruit des objets par plaisir ou par colère
 
 ### Fleur de Bach Honeysuckle
 
 #### \[Chèvrefeuille]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14633″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Apathie** quand l’animal ne peut pas s’adapter à son environnement car il regrette le passé
+Apathie** quand l’animal ne peut pas s’adapter à son environnement car il regrette le passé
 
 **changement de propriétaire** lorsque le chien ne supporte pas le changement de propriétaire
 
@@ -533,13 +531,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Inertie** lorsque le chien est blasé
 
-**tristesse** en cas de perte d’un proche de la famille ou en cas de perte de l’animal partenaire\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**tristesse** en cas de perte d’un proche de la famille ou en cas de perte de l’animal partenaire
 
 ### Fleur de Bach Impatiens
 
 #### \[Impatiente glanduleuse]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14635″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Allergies** alimentaires
+Allergies** alimentaires
 
 **morsures de peur**
 
@@ -577,13 +575,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Rage destructrice** en cas d’instinct de rongeur exagéré du chien
 
-**Comportements compulsifs** contre une réaction exagérée chez le chien\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Comportements compulsifs** contre une réaction exagérée chez le chien
 
 ### Fleur de Bach Larch
 
 #### \[Mélèze]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14636″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Apaiser** pour rassurer le chien
+Apaiser** pour rassurer le chien
 
 **Solitaire** pour renforcer la confiance en soi du chien
 
@@ -599,13 +597,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Constipation** si le chien souffre de constipation
 
-**pleurnicherie** si le chien gémit à chaque occasion\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**pleurnicherie** si le chien gémit à chaque occasion
 
 ### Fleur de Bach Oak
 
 #### \[Chêne]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14637″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Troubles liés à l’âge** lorsque le chien est plus fatigué mais autrement encore en bonne condition physique
+Troubles liés à l’âge** lorsque le chien est plus fatigué mais autrement encore en bonne condition physique
 
 **Troubles liés à l’âge** pour augmenter la force du chien
 
@@ -625,13 +623,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **tensions musculaires** si le chien est tendu
 
-**blessures** lorsque le chien veut ignorer les blessures et se fait ainsi du mal\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**blessures** lorsque le chien veut ignorer les blessures et se fait ainsi du mal
 
 ### Fleur de Bach Olive
 
 #### \[Olive]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14645″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Abcès** quand le chien a des abcès
+Abcès** quand le chien a des abcès
 
 **troubles liés à l’âge** pour augmenter la force du chien
 
@@ -701,13 +699,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **constipation** si le chien souffre de constipation
 
-**plaies** pour renforcer les défenses immunitaires du chien en général\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**plaies** pour renforcer les défenses immunitaires du chien en général
 
 ### Fleur de Bach Hornbeam
 
 #### \[Charme]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14646″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Les troubles liés à l’âge** pour augmenter la force du chien
+Les troubles liés à l’âge** pour augmenter la force du chien
 
 **L’apathie** donne de la vitalité aux chiens vieillissants
 
@@ -753,13 +751,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **indécision** contre le manque d’envie et la paresse
 
-**blessures** pour renforcer les défenses immunitaires du chien en général\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**blessures** pour renforcer les défenses immunitaires du chien en général
 
 ### Fleur de Bach Mustard
 
 #### \[Moutarde sauvage]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14723″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Dépression** en cas de perte soudaine de la joie de vivre
+Dépression** en cas de perte soudaine de la joie de vivre
 
 **morsure du pelage** lorsque le chien mord son pelage
 
@@ -769,13 +767,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Inertie** si une maladie semble s’annoncer chez la chienne pendant la gestation.
 
-**tristesse** en cas de perte d’un proche de la famille ou en cas de perte de l’animal partenaire\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**tristesse** en cas de perte d’un proche de la famille ou en cas de perte de l’animal partenaire
 
 ### Fleur de Bach Mimulus
 
 #### \[Fleur de saule tachetée]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14724″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Peurs** quand le chien a peur de certains objets ou de certaines actions
+Peurs** quand le chien a peur de certains objets ou de certaines actions
 
 **morsure de peur**
 
@@ -803,13 +801,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **pleurnicherie** lorsque le chien gémit à chaque occasion
 
-**Tremblements** Le chien tremble de peur\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Tremblements** Le chien tremble de peur
 
 ### Fleur de Bach Pine
 
 #### \[Pin]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14725″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Peur** quand le chien sursaute au moindre bruit
+Peur** quand le chien sursaute au moindre bruit
 
 **la dépression** lorsqu’une réprimande entraîne une dépression chez le chien en raison d’un manque de confiance en soi
 
@@ -819,27 +817,27 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Inertie** lorsque le chien est blasé
 
-**la destructivité** lorsque le chien détruit des objets par plaisir ou par colère\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**la destructivité** lorsque le chien détruit des objets par plaisir ou par colère
 
 ### Fleur de Bach Red Chestnut
 
 #### \[Marronnier rouge]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14731″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Excitation** quand le chien est excité d’être seul
+Excitation** quand le chien est excité d’être seul
 
-**grossesse apparente** si la chienne est en état de grossesse apparente\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**grossesse apparente** si la chienne est en état de grossesse apparente
 
 ### Mélange de fleurs de Bach Remedy / Rescue
 
 #### \[un mélange de Cherry Plum / Clematis / Impatiens / Rock Rose / Star of Bethlehem]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Maladies respiratoires** en cas de rhume avec écoulement\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+Maladies respiratoires** en cas de rhume avec écoulement
 
 ### Fleur de Bach Rock Rose
 
 #### \[Hélianthème jaune]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14732″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Craintes** pour les animaux qui entrent en état de choc lorsqu’ils ont peur
+Craintes** pour les animaux qui entrent en état de choc lorsqu’ils ont peur
 
 **bronchite** si le chien souffre de bronchite
 
@@ -855,13 +853,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Hypersensibilité** en cas d’agitation et de panique.
 
-**Tremblements** Le chien tremble de peur\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Tremblements** Le chien tremble de peur
 
 ### Fleur de Bach Eau de roche
 
 #### \[Eau chargée d’énergie solaire provenant d’une source rocheuse]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Tension** si le chien souffre de tension permanente
+Tension** si le chien souffre de tension permanente
 
 **arthrite/arthrose** si le chien souffre de raideurs articulaires
 
@@ -871,13 +869,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **l’euthanasie** facilite la transition du chien et l’aide à s’endormir paisiblement
 
-**tensions** en cas de tensions chez le chien\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**tensions** en cas de tensions chez le chien
 
 ### Fleur de Bach Scléranthe
 
 #### \[Pelote annuelle]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14733″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Agressivité** quand l’agressivité est due à un déséquilibre
+Agressivité** quand l’agressivité est due à un déséquilibre
 
 **le mal du pays** aide le chien à s’ouvrir à la nouveauté
 
@@ -891,13 +889,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Sensibilité aux intempéries**
 
-**blessures** renforce les capacités de guérison du corps\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**blessures** renforce les capacités de guérison du corps
 
 ### Fleur de Bach Star of Bethlehem
 
 #### \[Étoile de lait ombellée]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Allergies** quand la réaction allergique chez le chien survient après un événement choquant
+Allergies** quand la réaction allergique chez le chien survient après un événement choquant
 
 **apathie** à la suite d’un état de choc chez le chien
 
@@ -907,13 +905,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **agitation** si le chien est frénétique par peur
 
-**Malpropreté** si le chien a tendance à être malpropre\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Malpropreté** si le chien a tendance à être malpropre
 
 ### Fleur de Bach Sweet Chestnut
 
 #### \[Châtaignier]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14342″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Perte d’appétit** quand le chien souffre de perte d’appétit
+Perte d’appétit** quand le chien souffre de perte d’appétit
 
 **maladie chronique** pour renforcer l’état général
 
@@ -925,21 +923,21 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **empoisonnement** contre le désespoir, la résignation du chien
 
-**blessures** en cas d’aggravation soudaine de la situation\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**blessures** en cas d’aggravation soudaine de la situation
 
 ### Fleur de Bach Vervain
 
 #### \[Verveine]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14342″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Comportement vicieux** pour les chiens qui veulent toujours avoir la position de leader
+Comportement vicieux** pour les chiens qui veulent toujours avoir la position de leader
 
-**Tensions** lorsque le chien est tendu\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Tensions** lorsque le chien est tendu
 
 ### Fleur de Bach Vine
 
 #### \[Vigne]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14734″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Agressivité** quand le chien veut absolument imposer sa volonté
+Agressivité** quand le chien veut absolument imposer sa volonté
 
 **Agression** lorsque le chien a tendance à attaquer en raison d’une grande dominance
 
@@ -955,13 +953,13 @@ les**morsures de peur** renforcent la confiance en soi du chien
 
 **Disputes** lorsque le chien a un besoin exagéré de s’affirmer
 
-**malpropreté de la chambre** lorsque le chien veut imposer quelque chose par son comportement\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**malpropreté de la chambre** lorsque le chien veut imposer quelque chose par son comportement
 
 ### Fleur de Bach Noyer
 
 #### \[Noyer]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14735″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Troubles liés au vieillissement** pour augmenter la force du chien
+Troubles liés au vieillissement** pour augmenter la force du chien
 
 **perte d’appétit** si le chien souffre d’une perte d’appétit
 
@@ -993,25 +991,25 @@ donner après la**castration**
 
 **L’hypersensibilité** assure la stabilisation
 
-**Comportements compulsifs** doit favoriser l’ouverture à de nouvelles réactions chez le chien\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Comportements compulsifs** doit favoriser l’ouverture à de nouvelles réactions chez le chien
 
 ### Fleur de Bach Water Violet
 
 #### \[Plume d’eau des marais]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Solitaire** si l’animal n’est pas capable d’établir des contacts
+Solitaire** si l’animal n’est pas capable d’établir des contacts
 
 **Isolement** si le chien s’isole par fierté
 
 **Dispute** si le chien a tendance à être solitaire, incapable d’établir des contacts
 
-**Inertie** pour le plaisir/le contact social du chien\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Inertie** pour le plaisir/le contact social du chien
 
 ### Fleur de Bach Willow
 
 #### \[Saule]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14729″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Apaiser** pour calmer le chien
+Apaiser** pour calmer le chien
 
 **Dépression** si le chien boude après une punition
 
@@ -1025,13 +1023,13 @@ donner après la**castration**
 
 **Irritabilité** si le chien est aigri
 
-**La rage destructrice** lorsque le chien détruit des objets par plaisir ou par colère\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**La rage destructrice** lorsque le chien détruit des objets par plaisir ou par colère
 
 ### Fleur de Bach White Chestnut
 
 #### \[Marron d’Inde]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14728″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Morsure de peur**
+Morsure de peur**
 
 **obstination** pour rendre le chien plus flexible par rapport à un changement de comportement
 
@@ -1055,13 +1053,13 @@ donner après la**castration**
 
 **Rage destructrice** en cas d’instinct de rongeur exacerbé du chien
 
-**Comportements compulsifs** contre le caractère addictif\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Comportements compulsifs** contre le caractère addictif
 
 ### Fleur de Bach Wild Oat
 
 #### \[Bourdaine des bois]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Endurance** en cas de manque d’endurance du chien
+Endurance** en cas de manque d’endurance du chien
 
 **cancer** pour que les tissus qui prolifèrent reprennent leurs tâches et fonctions initiales
 
@@ -1073,13 +1071,13 @@ donner après la**castration**
 
 **Gestation** pour renforcer chez la chienne la joie de la « nouveauté ».
 
-**Comportements compulsifs** pour favoriser l’ouverture à de nouveaux modes de réaction chez le chien\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text]
+**Comportements compulsifs** pour favoriser l’ouverture à de nouveaux modes de réaction chez le chien
 
 ### Fleur de Bach Rose sauvage
 
 #### \[Rose des haies]
 
-\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/3″]\[vc\_single\_image image\= »14727″ img\_size\= »medium »]\[/vc\_column\_inner]\[vc\_column\_inner width\= »2/3″]\[vc\_column\_text**]Angoisse** quand la peur se transforme en désespoir
+Angoisse** quand la peur se transforme en désespoir
 
 **Apathie** lorsque le chien est apathique par peur
 
@@ -1099,7 +1097,7 @@ donner après la**castration**
 
 **la maladresse** favorise une meilleure coordination et concentration
 
-**constipation** si le chien souffre de constipation\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[/vc\_column]\[/vc\_row]\[vc\_row disable\_element\= »yes »]\[vc\_column]\[vc\_tta\_tabs color\= »white » gap\= »2″ alignment\= »center » active\_section\= »1″]\[vc\_tta\_section title\= »A » tab\_id\= »Fleurs de Bach\-pour les chiens selon les symptômes\-A »]\[vc\_column\_text]
+**constipation** si le chien souffre de constipation
 
 ### Fleurs de Bach pour chiens selon les symptômes – A
 
@@ -1247,7 +1245,7 @@ trouble psychique (comme stimulant).
 
 **Fleur de Bach First Aid**, lorsque le chien ne supporte pas de conduire.
 
-**Fleur de Bach Aspen** contre les vomissements du chien\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »B \& C » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes\-B\-et\-C »]\[vc\_column\_text]
+**Fleur de Bach Aspen** contre les vomissements du chien
 
 ### Fleurs de Bach pour chiens selon les symptômes – B \& C
 
@@ -1301,7 +1299,7 @@ Fleurs de Bach Beech, Gentian, Olive, Rock Rose \+ Hornbeam, si le chien souffre
 
 Fleur de Bach Wild Rose \+ Vine, Sweet Chestnut, Olive, Centaury pour renforcer l’état général.
 
-Fleur de Bach Chestnut Bud si le chien a tendance à rechuter\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »D \& E » tab\_id\= »Fleurs de Bach pour chiens\-selon\-symptômes\-D\-et\-E »]\[vc\_column\_text]
+Fleur de Bach Chestnut Bud si le chien a tendance à rechuter
 
 ### Fleurs de Bach pour chiens selon les symptômes – D \& E
 
@@ -1437,7 +1435,7 @@ Fleur de Bach Olive pour augmenter la force.
 
 Fleur de Bach Crap Apple pour l’élimination des toxines.
 
-Fleur de Bach Olive\+Hornbeam en cas de repli sur soi et d’isolement\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »F \& G » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes\-F\-et\-G »]\[vc\_column\_text]
+Fleur de Bach Olive\+Hornbeam en cas de repli sur soi et d’isolement
 
 ### Fleurs de Bach pour chiens selon les symptômes – F \& G
 
@@ -1537,7 +1535,7 @@ Fleur de Bach Crap Apple, First Aid Remedy, pour l’élimination des toxines.
 
 **Le chien fait preuve d’une (trop grande) docilité**
 
-Fleur de Bach Centaury, si le chien est trop docile\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »H \& I » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes H \& I »]\[vc\_column\_text]
+Fleur de Bach Centaury, si le chien est trop docile
 
 ### Fleurs de Bach pour chiens selon les symptômes – H \& I
 
@@ -1619,7 +1617,7 @@ Fleur de Bach Sweet Chestnut, en raison de l’épuisement dû à la maladie.
 
 Fleur de Bach Water Violet, lorsque le chien s’isole par fierté.
 
-Fleur de Bach Beech\+ Villow, lorsque le chien s’isole du groupe\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »J \& K » tab\_id\= »Fleurs de Bach pour chiens selon symptômes\-J\-et\-K »]\[vc\_column\_text]
+Fleur de Bach Beech\+ Villow, lorsque le chien s’isole du groupe
 
 ### Fleurs de Bach pour chiens selon les symptômes – J \& K
 
@@ -1673,7 +1671,7 @@ Fleur de Bach Wild Oat, pour que les tissus qui prolifèrent reprennent leurs t�
 
 Fleur de Bach Hornbeam, favorise chez le chien l’optimisme et l’acceptation des circonstances de la vie.
 
-Fleur de Bach Clematis, lorsque le chien est indifférent à tout\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »L \& M » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes\-L\-et\-M »]\[vc\_column\_text]
+Fleur de Bach Clematis, lorsque le chien est indifférent à tout
 
 ### Fleurs de Bach pour chiens selon les symptômes – L \& M
 
@@ -1727,7 +1725,7 @@ Fleur de Bach Oak, si le chien souffre de tensions musculaires.
 
 **Le chien est découragé – découragement**
 
-Fleur de Bach Mimulus\+Pine, Larch si le chien est découragé\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »N \& R » tab\_id\= »Fleurs de Bach pour chiens selon symptômes\-N\-et\-R »]\[vc\_column\_text]
+Fleur de Bach Mimulus\+Pine, Larch si le chien est découragé
 
 ### Fleurs de Bach pour chiens selon les symptômes – N \& R
 
@@ -1799,7 +1797,7 @@ Fleur de Bach Aspen, contre l’agitation nocturne du chien.
 
 Fleur de Bach Impatiens, lorsque le chien est agité à cause de l’impatience et de l’agitation.
 
-Fleur de Bach Cherry Plum, lorsque le chien a tendance à être agité en raison d’une pression intérieure\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »S \& T » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes S \& T »]\[vc\_column\_text]
+Fleur de Bach Cherry Plum, lorsque le chien a tendance à être agité en raison d’une pression intérieure
 
 ### Fleurs de Bach pour chiens selon les symptômes – S \& T
 
@@ -1969,7 +1967,7 @@ Fleur de Bach First Aid\+Walnut, lorsque le chien souffre de la séparation.
 
 Fleur de Bach Hornbeam, Clematis, Agrimony.
 
-*Uniquement en soutien de la thérapie vétérinaire*\[/vc\_column\_text]\[/vc\_tta\_section]\[vc\_tta\_section title\= »U \& Z » tab\_id\= »Fleurs de Bach pour chiens selon les symptômes\-U\-et\-Z »]\[vc\_column\_text]
+*Uniquement en soutien de la thérapie vétérinaire*
 
 ### Fleurs de Bach pour chiens selon les symptômes – U \& Z
 
@@ -2099,8 +2097,8 @@ Fleur de Bach White Chestnut\+Chestnut Bud, contre le caractère addictif.
 
 Fleur de Bach Impatiens, contre les réactions excessives chez le chien.
 
-Fleur de Bach Beech, contre l’intolérance du chien à des conditions existantes\[/vc\_column\_text]\[/vc\_tta\_section]\[/vc\_tta\_tabs]\[/vc\_column]\[/vc\_row]\[vc\_column]\[vc\_column\_text]**Guide du chien – médecine naturelle pour les chiens**, vous trouverez …ici
+Fleur de Bach Beech, contre l’intolérance du chien à des conditions existantes**Guide du chien – médecine naturelle pour les chiens**, vous trouverez …ici
 
 **Guide du chien – Maladies canines de A à Z** vous trouverez …ici
 
-Vous trouverez l’**aperçu des thèmes sur les chiens sur Hundeinfoportal**…ici\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Vous trouverez l’**aperçu des thèmes sur les chiens sur Hundeinfoportal**…ici

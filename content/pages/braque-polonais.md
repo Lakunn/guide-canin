@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Polnische Brack
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Braque polonais – Portrait de la race
 
 ### FCI :

@@ -12,11 +12,9 @@ cover_id: 32124
 parent_id: 31278
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Un chien de berger hautement spécialisé
 
-Le border collie a été élevé à l’origine comme chien de berger et est aujourd’hui volontiers gardé comme chien de famille. Ce chien a besoin d’une famille très active qui le sollicite suffisamment physiquement et le stimule mentalement.\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1594121865595{background\-color : \#dcdc !important;} »]\[vc\_column]\[vc\_column\_text]
+Le border collie a été élevé à l’origine comme chien de berger et est aujourd’hui volontiers gardé comme chien de famille. Ce chien a besoin d’une famille très active qui le sollicite suffisamment physiquement et le stimule mentalement.
 
 ### Fiche signalétique du border collie
 
@@ -32,7 +30,7 @@ FCI n° 297, groupe 1, sec. 1
 
 **Utilisation aujourd’hui** Chien de berger, chien de famille
 
-**Utilisation autrefois** chien de berger, chien de berger\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]1\. caractère
+**Utilisation autrefois** chien de berger, chien de berger1\. caractère
 
 2\. éducation
 
@@ -128,4 +126,4 @@ Les chiens apprennent vite et doivent être occupés intensivement chaque jour. 
 
 ###
 
-Tu trouveras toutes les races de chiens de A à Z ici\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Tu trouveras toutes les races de chiens de A à Z ici

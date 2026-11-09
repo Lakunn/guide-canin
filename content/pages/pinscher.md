@@ -11,8 +11,6 @@ meta_description: Pinscher, FCI Nr.186, Gr.2 Sek.1, Rasseportrait zu Charakter, 
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Pinscher – Portrait de la race
 
 **FCI :**

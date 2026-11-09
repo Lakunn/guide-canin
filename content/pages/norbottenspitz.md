@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Norbottensp
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Norbottenspitz – Portrait de la race
 
 ### FCI :

@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Karelischer Bä
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Chien d’ours de Carélie – Portrait de la race
 
 ### FCI

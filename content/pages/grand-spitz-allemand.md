@@ -12,8 +12,6 @@ cover_id: 31764
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Grand spitz allemand – portrait de la race
 
 ### Ces noms désignent la même race :
@@ -138,7 +136,6 @@ De nos jours, il n’y a malheureusement plus beaucoup de ces chiens, surtout av
   Les **Grands Spitz allemands sont\-ils aussi des chiens de famille ?** Tout à fait ! Ces quadrupèdes très dociles conviennent aussi bien comme chiens de débutants que comme chiens de famille.
 
   **Le grand spitz allemand est\-il facile à éduquer ?** Les chiens sont connus pour être très ouverts, curieux et dociles, ce qui ne rend pas leur éducation particulièrement difficile.
-
 
 ### Sources
 

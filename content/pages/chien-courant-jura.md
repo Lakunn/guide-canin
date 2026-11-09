@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Jura-Laufhu
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Chien courant du Jura – portrait de la race
 
 Ces noms désignent la même race : Bruno du Jura, Jura Hound, Sabueso del Jura, Chien courant suisse variété Jura Laufhund

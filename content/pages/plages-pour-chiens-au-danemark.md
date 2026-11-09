@@ -12,8 +12,6 @@ cover_id: 31686
 parent_id: 31579
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_single\_image image\= »13816″ img\_size\= »full »]\[vc\_column\_text]
-
 ## Plages pour chiens au Danemark
 
 ### Informations générales sur les plages pour chiens au Danemark
@@ -94,4 +92,4 @@ Le site
 
 vous trouverez …ici
 
-haut de page\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+haut de page

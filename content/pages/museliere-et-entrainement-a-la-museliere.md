@@ -12,11 +12,9 @@ cover_id: 31194
 parent_id: 30893
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Muselière et entraînement à la muselière pour chiens
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text**]Ajuster la muselière – dimensions de la muselière**
+Ajuster la muselière – dimensions de la muselière**
 
 Si possible, la muselière devrait pouvoir être essayée.
 
@@ -24,9 +22,9 @@ Si possible, la muselière devrait pouvoir être essayée.
 
 La circonférence du museau au niveau du stop (il s’agit de l’endroit où le nez du chien rejoint le museau) et la longueur du museau.
 
-**Les différents types de muselières**\[/vc\_column\_text]\[vc\_column\_text]
+**Les différents types de muselières**
 
-\[/vc\_column\_text]\[vc\_tabs]\[vc\_tab title\= »Kunststoffmaulkorb » tab\_id\= »1428771029\-1\-88″]\[vc\_column\_text]Material des Maulkorbs
+Material des Maulkorbs
 
 Plastique
 
@@ -38,7 +36,7 @@ Le chien peut bien haleter, ce qui permet un bon échange de chaleur.
 
 Inconvénient
 
-En cas de réaction de défense, le chien peut accrocher ses griffes dans la muselière\[/vc\_column\_text]\[/vc\_tab]\[vc\_tab title\= »Muselière en cuir » tab\_id\= »1428771029\-2\-52″]\[vc\_column\_text]Matériau de la muselière
+En cas de réaction de défense, le chien peut accrocher ses griffes dans la muselièreMatériau de la muselière
 
 Cuir
 
@@ -48,7 +46,7 @@ Bon ajustement car il existe de nombreuses formes différentes.
 
 Inconvénient
 
-La muselière n’est pas facile à nettoyer. Il est important de veiller à la sécurité\[/vc\_column\_text]\[/vc\_tab]\[vc\_tab title\= »Muselière en métal » tab\_id\= »1428771125986\-2\-3″]\[vc\_column\_text]Matériau de la muselière
+La muselière n’est pas facile à nettoyer. Il est important de veiller à la sécuritéMatériau de la muselière
 
 Métal
 
@@ -60,7 +58,7 @@ Inconvénient
 
 La muselière en métal est assez lourde.
 
-En cas de réaction de défense, le chien peut accrocher ses griffes dans la muselière\[/vc\_column\_text]\[/vc\_tab]\[vc\_tab title\= »Muselière Mikki » tab\_id\= »1428771141827\-3″]\[vc\_column\_text]Matériau de la muselière
+En cas de réaction de défense, le chien peut accrocher ses griffes dans la muselièreMatériau de la muselière
 
 La muselière Mikki est en matière plastique noire et a l’apparence d’un sac qui est ouvert en bas.
 
@@ -76,7 +74,7 @@ Il est particulièrement frappant que le chien ne puisse pas haleter suffisammen
 
 Adéquation
 
-La muselière Mikki ne convient que pour une très courte période d’utilisation, par exemple lors d’une visite chez le vétérinaire\[/vc\_column\_text]\[/vc\_tab]\[/vc\_tabs]\[vc\_column\_text]
+La muselière Mikki ne convient que pour une très courte période d’utilisation, par exemple lors d’une visite chez le vétérinaire
 
 ### Habitude à la muselière – entraînement à la muselière
 
@@ -122,4 +120,4 @@ L’étape de la fermeture de la muselière a peut\-être été effectuée trop 
 
 **Erreur**
 
-Le propriétaire du chien retire la muselière au moment où le chien montre une réaction de défense. Cela conduit à un lien non souhaité chez le chien. Il faut essayer d’éviter l’apparition de telles réactions de défense par un entraînement consciencieux et lent. Si des réactions de défense se produisent malgré tout chez le chien, la muselière ne devrait être retirée que lorsque le chien est calme et ne montre aucune réaction de défense\[/vc\_column\_text]\[/vc\_column]\[/vc\_row].
+Le propriétaire du chien retire la muselière au moment où le chien montre une réaction de défense. Cela conduit à un lien non souhaité chez le chien. Il faut essayer d’éviter l’apparition de telles réactions de défense par un entraînement consciencieux et lent. Si des réactions de défense se produisent malgré tout chez le chien, la muselière ne devrait être retirée que lorsque le chien est calme et ne montre aucune réaction de défense.

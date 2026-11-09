@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Epagneul du
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Epagneul du Pont Audemer – Portrait de race
 
 ### Ces noms désignent la même race :

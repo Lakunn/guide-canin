@@ -12,11 +12,9 @@ cover_id: 31609
 parent_id: 31278
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Une véritable boule d’énergie : le beagle
 
-Malgré ses courtes pattes, le beagle est un chien très actif, de stature compacte, qui aime la compagnie et n’aime pas être seul. De par son passé de chien de meute, il s’adapte volontiers à la dynamique de sa meute et à ses particularités. La coopération n’est pas forcément son point fort, mais ses compétences sociales en font néanmoins l’un des chiens de famille les plus appréciés\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1595245203273{background\-color : \#dcdcdc !important;} »]\[vc\_column]\[vc\_column\_text]
+Malgré ses courtes pattes, le beagle est un chien très actif, de stature compacte, qui aime la compagnie et n’aime pas être seul. De par son passé de chien de meute, il s’adapte volontiers à la dynamique de sa meute et à ses particularités. La coopération n’est pas forcément son point fort, mais ses compétences sociales en font néanmoins l’un des chiens de famille les plus appréciés
 
 ### Fiche signalétique du beagle
 
@@ -32,7 +30,7 @@ Malgré ses courtes pattes, le beagle est un chien très actif, de stature compa
 
 **Utilisation actuelle :** chien de famille, chien de chasse
 
-**Utilisation passée :** chien de meute pour la chasse à courre\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+**Utilisation passée :** chien de meute pour la chasse à courre
 
 1\. caractère
 2\. éducation
@@ -133,7 +131,7 @@ Le beagle est un chien de course, un chien de meute et un chien de chasse. Cette
 
 ### \>\>Notre conseil de lecture : « Beagle : histoire, détention, éducation, occupation » de Sophie Strodtbeck\<\<\<
 
-Autres races de chiens de A à Z\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Autres races de chiens de A à Z
 
 ## Foire aux questions
 

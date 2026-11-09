@@ -12,11 +12,9 @@ cover_id: 31762
 parent_id: 31278
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Le dogue allemand – un chien de tous les superlatifs
 
-Les dogues allemands ne sont pas seulement grands, ils sont aussi superbes. Cela concerne non seulement leur apparence particulière, mais aussi les nombreuses autres caractéristiques impressionnantes de cette race de chien. Si, en tant qu’amateur de chiens, vous avez déjà fait connaissance de près avec de vrais dogues allemands, vous pouvez certainement le confirmer. Vous trouverez ci\-dessous des détails importants sur cette race de chiens\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1594121865595{background\-color : \#dcdcdc !important;} »]\[vc\_column]\[vc\_column\_text]
+Les dogues allemands ne sont pas seulement grands, ils sont aussi superbes. Cela concerne non seulement leur apparence particulière, mais aussi les nombreuses autres caractéristiques impressionnantes de cette race de chien. Si, en tant qu’amateur de chiens, vous avez déjà fait connaissance de près avec de vrais dogues allemands, vous pouvez certainement le confirmer. Vous trouverez ci\-dessous des détails importants sur cette race de chiens
 
 ### Fiche signalétique Dogue allemand
 
@@ -32,7 +30,7 @@ FCI n° 235, groupe 2, sec. 2\.1
 
 **Utilisation aujourd’hui** Chien d’accompagnement, de garde et de défense
 
-**Utilisation autrefois** chien d’accompagnement, de garde et de défense\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]
+**Utilisation autrefois** chien d’accompagnement, de garde et de défense
 
 ### L’histoire intéressante du Dogue allemand
 
@@ -74,4 +72,4 @@ Le soin des poils et du pelage est simple. Une brosse en caoutchouc pour le peig
 
 En conclusion, on peut dire que : Le dogue allemand est un chien de famille idéal s’il est bien éduqué, bien tenu et surtout s’il est suivi consciencieusement !
 
-Tu trouveras toutes les races de chiens de A à Z ici\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+Tu trouveras toutes les races de chiens de A à Z ici

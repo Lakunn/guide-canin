@@ -11,8 +11,6 @@ meta_description: Er braucht eine konsequente, ruhige und liebevolle Erziehung. 
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Cao da Serra de Aires – Portrait de la race
 
 ### Ces noms désignent la même race :

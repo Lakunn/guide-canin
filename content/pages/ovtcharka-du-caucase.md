@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Kaukasische
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Ovtcharka du Caucase – Portrait de la race
  FCI
  N° 328, Groupe2, Sec.2\.2

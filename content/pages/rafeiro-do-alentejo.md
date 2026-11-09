@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Rafeiro Do 
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Rafeiro Do Alentejo – Portrait de la race
 
 ### FCI :

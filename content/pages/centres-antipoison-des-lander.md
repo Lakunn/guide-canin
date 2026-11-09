@@ -11,8 +11,6 @@ meta_description: Hier finden Sie die Giftnotrufzentralen der Bundesländer. Sol
 cover_id: 31185
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ![gift-notruf-zentralen-alle-bundeslaender](https://guide-canin.fr/wp-content/uploads/2023/03/gift-notruf-zentralen-alle-bundeslaender.jpg)
 
 gift\-notruf\-zentralen\-alle\-bundeslaender
@@ -133,4 +131,4 @@ Vers le site web
 
 – Plantes d’intérieur toxiques, à fleurs et vertes
 
-– Animaux toxiques\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]
+– Animaux toxiques

@@ -12,19 +12,15 @@ cover_id: 32227
 parent_id: 32234
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ### Portrait de la race : Yorkshire Terrier
 
-\[/vc\_column\_text]\[vc\_column\_text**]Standard FCI n° 86 / Groupe 3 :** Terriers / **Section 4 :** Terriers nains. Sans épreuve de travail
+Standard FCI n° 86 / Groupe 3 :** Terriers / **Section 4 :** Terriers nains. Sans épreuve de travail
 
 Le Yorkshire Terrier est l’un des plus petits chiens du monde. Il est reconnu par la plus grande organisation canine du monde, la Fédération Cynologique Internationale (FCI), ainsi que par le Verband für das Deutsche Hundewesen (VDH). Le Yorkshire Terrier est un beau chien très intéressant.
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1547746294915{background\-color: \#f9f9f9 !important;} »]\[vc\_column]\[vc\_column\_text]
-
 ### Fiche signalétique du Yorkshire Terrier
 
-\[/vc\_column\_text]\[vc\_row\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text**]Taille (garrot) :** 18 – 23 cm
+Taille (garrot) :** 18 – 23 cm
 
 **Poids :** 2,4 – 3,2 kg
 
@@ -32,13 +28,13 @@ Le Yorkshire Terrier est l’un des plus petits chiens du monde. Il est reconnu 
 
 **Âge :** 10 – 15 ans
 
-**Caractère :** intelligent, sûr de lui, vigilant\[/vc\_column\_text]\[/vc\_column\_inner]\[vc\_column\_inner width\= »1/2″]\[vc\_column\_text**]Besoin de mouvement :** fort
+**Caractère :** intelligent, sûr de lui, vigilantBesoin de mouvement :** fort
 
 **instinct de chasse :** xxx
 
 **Entretien du pelage :** exigeant si le poil est long
 
-**Chien de débutant :** si cohérence oui\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_row\_inner]\[vc\_row\_inner]\[vc\_column\_inner]\[vc\_column\_text**]Prix :** 900 – 1000 euros\[/vc\_column\_text]\[/vc\_column\_inner]\[/vc\_column\_inner]\[/vc\_row]\[/vc\_row]\[vc\_column]\[vc\_column\_text]
+**Chien de débutant :** si cohérence ouiPrix :** 900 – 1000 euros
 
 ### Le Yorkshire Terrier – Histoire et origine
 
@@ -164,4 +160,3 @@ Le Yorkshire Terrier est désormais un compagnon plein de vie, fidèle, vigilant
 
 un terrier typique avec toutes ses qualités.
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]

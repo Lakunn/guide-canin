@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Dansk Svens
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Dansk Svensk Gardhund – Portrait de la race
 
 ### Ces noms désignent la même race :

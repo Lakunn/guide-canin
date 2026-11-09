@@ -11,8 +11,6 @@ meta_description: Ratgeber zu Einreisebestimmungen, Reisekrankheiten, Hundesträ
 cover_id: 30919
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Vacances avec un chien
 
 ### Cliquez simplement sur le thème souhaité :
@@ -91,4 +89,3 @@ comme par exemple
 - et bien d’autres choses encore
 ### …ici
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]

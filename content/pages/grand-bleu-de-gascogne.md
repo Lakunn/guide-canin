@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Grand bleu de G
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Grand bleu de Gascogne – Portrait de race
 
 ### FCI :

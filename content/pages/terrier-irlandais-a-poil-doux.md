@@ -12,8 +12,6 @@ cover_id: 31842
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Irish Soft Coated Wheaten Terrier – Portrait de la race
 
 L’Irish Soft Coated Wheaten Terrier est un chien actif qui donne une impression de puissance.

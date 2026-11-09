@@ -11,8 +11,6 @@ meta_description: Hunderassen, Rasseportrait zu Alter, Charakter des Tibet Terri
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ### Terrier du Tibet – Portrait de la race
 
 ### FCI :

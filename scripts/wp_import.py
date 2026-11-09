@@ -170,7 +170,7 @@ def page_head(url: str) -> dict:
 
 
 def clean_html(html: str) -> str:
-    html = re.sub(r"\[/?et_pb_[^\]]*\]", "", html)  # shortcodes Divi non rendus
+    html = re.sub(r"\[/?(?:et_pb_|vc_|tdm?_|the_ad)[^\]]*\]", "", html)  # shortcodes de constructeurs (Divi, WPBakery, tagDiv) non rendus
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style", "noscript", "form", "iframe", "button"]):
         tag.decompose()

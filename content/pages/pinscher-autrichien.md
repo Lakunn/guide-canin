@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Österreichisch
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Pinscher autrichien – Portrait de la race
 
 ### FCI :

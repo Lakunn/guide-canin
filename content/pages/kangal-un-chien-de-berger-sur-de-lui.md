@@ -16,17 +16,9 @@ parent_id: 31278
 
 **Le Kangal est\-il le chien le plus fort du monde ?** Le Kangal est un chien très fort, mais il n’existe pas de liste officielle des chiens les plus forts du monde. Pour en savoir plus, cliquez ici.
 
-
-
 **Un loup est\-il plus fort qu’un kangal ?** La force du loup et celle du kangal s’équilibrent à peu près. Pour en savoir plus, cliquez ici.
 
-
-
 **Peut\-on avoir un kangal en Allemagne ?** Dans la plupart des Länder, les kengals sont autorisés. En Hesse et à Hambourg, il est considéré comme un chien répertorié. Apprends ici plus sur la légalité des kangalas en Allemagne.
-
-
-
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
 
 ## Le chien de berger turc Kangal
 
@@ -45,8 +37,6 @@ Le chien Kangal est un chien de protection de troupeau grand et impressionnant. 
 **Couleur de la robe :** unie – généralement crème avec un masque noir.
 **Autres grandes races de chiens**: Irish Wolfhound, Mastiff et Dogue allemand.
 
-
-
 ### Histoire et origine
 
 Les historiens ne sont pas d’accord sur l’origine de cette grande race de chiens. Certains chercheurs supposent que les premiers ancêtres du chien étaient déjà utilisés par les nomades pour **protéger les troupeaux de moutons** il y a plus de 10 000 ans. L’homonymie avec la ville turque de Kangal indique une origine de ce pays.
@@ -58,8 +48,6 @@ Pendant des siècles, les chiens Kangal ont été utilisés en Anatolie oriental
 La situation géographique et les conditions arides exigeaient beaucoup des chiens de berger. Sans accompagnement humain, ils étaient chargés de surveiller le troupeau et étaient souvent livrés à eux\-mêmes pendant des semaines. Si l’on se remémore l’origine des chiens, on comprend vite comment cette grande race de chiens a acquis sa **robustesse** et ses caractéristiques typiques, comme l’indépendance et la séparation vis\-à\-vis des étrangers.
 
 Aujourd’hui, le chien Kangal est de plus en plus utilisé comme chien de garde, en plus de son activité de chien **de protection des troupeaux**. Depuis quelques décennies, l’armée turque entraîne également le chien à des fins militaires.
-
-
 
 ### Apparence
 
@@ -82,16 +70,9 @@ Leur attitude est donc confiante et indépendante. Les autres chiens de protecti
 
 ![](https://guide-canin.fr/wp-content/uploads/2023/03/kangal-hirtenhund-1-1-1024x678.jpg)
 
-
-
-
 **Kangal vs loup**
 
-
-
 Tu te demandes si un Kangal est plus fort qu’un loup ? Les loups sont connus pour être de grands chasseurs de proies et pour disposer d’une force et d’une endurance impressionnantes. Cependant, les kangals ont été élevés pour protéger les troupeaux de moutons des loups et autres prédateurs, et sont donc connus pour être des défenseurs forts et courageux. En comparaison, on peut argumenter qu’un Kangal a un avantage sur un loup lorsqu’il s’agit de protéger un troupeau. Il est toutefois important de noter qu’il s’agit de différences individuelles et qu’il n’existe pas de réponse générale à la question de savoir lequel des deux est le plus fort.
-
-
 
 ### Attitude
 
@@ -111,11 +92,7 @@ La cohabitation avec d’autres animaux sera également **source de conflits**. 
 
 Avant d’introduire un Kangal dans la maison, le futur propriétaire devrait avoir suffisamment réfléchi à la manière de le détenir. Rien que par ses dimensions et son caractère particulier, ce chien représente un défi pour chaque propriétaire de chien et son entourage. La cohabitation ne peut être réussie que si l’environnement, l’expérience et la volonté d’une éducation cohérente sont réunis.
 
-
-
 **Information supplémentaire :** les Kangals sont des chiens grands et puissants qui ne conviennent pas aux débutants ou aux propriétaires de chiens inexpérimentés. Il est important qu’ils soient éduqués et entraînés par des propriétaires expérimentés afin d’éviter tout comportement indésirable.
-
-
 
 ## Un chien fort ?
 
@@ -127,15 +104,11 @@ Tu veux savoir si le Kangal est le chien le plus fort du monde ? Les Kangals son
 
 L’éducation doit commencer lentement, mais toujours **de manière disciplinée**. Une connaissance préalable du comportement typique de la race est ici impérative. L’instruction d’un chien de protection demande beaucoup de temps. Et généralement encore plus de patience. Les ordres du maître ne sont pas toujours suivis immédiatement, les Kangals peuvent être très volontaires.
 
-
-
 **Conseil :**
 
 1. Les Kangals **ont besoin de beaucoup d’exercice et d’activité** physique pour rester en bonne santé et heureux. Il est important de les promener suffisamment chaque jour et de leur donner la possibilité de dépenser leur énergie.
 2. Les Kangals sont des chiens très **intelligents** et ont besoin de **défis mentaux réguliers** pour stimuler leurs capacités intellectuelles. Des jeux d’occupation et des activités d’entraînement cérébral peuvent les aider à rester mentalement stimulés.
 3. Les Kangals ont un **fort instinct de protection** et peuvent défendre leurs maîtres et leur territoire. Il est important de les éduquer et de les socialiser en profondeur afin de contrôler et d’éviter leur comportement agressif.
-
-
 
 ### Maladies et espérance de vie
 
@@ -145,8 +118,6 @@ Le Kangal est considéré comme **extrêmement robuste**. On ne connaît pas de 
 
 En bonne santé et avec des soins appropriés, un Kangal peut **vivre entre 9 et 11 ans**.
 
-
-
 **Remarque :**
 
 1. Les Kangals ont un **fort instinct de protection** et peuvent rapidement devenir agressifs s’ils se sentent menacés. Il est important de bien les socialiser et de les entraîner dès leur plus jeune âge afin d’éviter les comportements indésirables.
@@ -154,8 +125,6 @@ En bonne santé et avec des soins appropriés, un Kangal peut **vivre entre 9 et
 3. Les Kangals peuvent être affectueux et fidèles à leurs maîtres, mais ils peuvent aussi souffrir d’anxiété de séparation. Il est important de leur consacrer suffisamment de temps et d’attention pour s’assurer qu’ils se sentent en sécurité et aimés.
 
 .
-
-
 
 ### Le Kangal est\-il un chien dangereux ?
 
@@ -167,11 +136,7 @@ C’est pourquoi certains spécialistes demandent une **attestation de compéten
 
 S’il est éduqué de manière cohérente et s’il est élevé conformément à ses origines, le Kangal est un chien amical, sensible, frugal et durable qui ne pose aucun problème à son environnement. Néanmoins, le chien de berger Kangal a beaucoup de tempérament.
 
-
-
 **Attention :** le Kangal est un chien protégé dans son pays d’origine, la Turquie, et il existe des règles et des lois qui réglementent son exportation. Il est important de s’assurer que l’on dispose des documents et des autorisations nécessaires avant d’importer un Kangal dans un autre pays, au risque d’enfreindre la loi. Il est également important de noter que tous les pays n’autorisent pas l’importation de Kangals et qu’il est essentiel de se renseigner à l’avance sur les lois et réglementations du pays de destination.
-
-
 
 ## En bref
 
@@ -183,26 +148,15 @@ Malgré leurs caractéristiques exigeantes, les Kangals sont très appréciés c
 
 **Le Kangal est\-il un chien dangereux ?**
 
-
 En raison de leur grand instinct de protection et de leur méfiance envers les étrangers, les Kangals ont besoin d’un environnement qui leur convient et d’un maître qui connaît bien l’éducation de cette race. S’il est éduqué de manière cohérente et s’il est élevé conformément à ses origines, le Kangal est un chien amical, sensible, frugal et durable qui ne pose aucun problème à son environnement.
-
-
 
 **Qu’est\-ce qui caractérise la race de chien Kangal ?**
 
-
 Le Kangal est connu pour être un chien très fort et endurant, qui a été élevé à l’origine pour garder les moutons et le bétail. Ce sont également des chiens intelligents qui apprennent vite. Cependant, en raison de leur taille et de leur force, les Kangals ne conviennent pas à tout le monde et nécessitent généralement une éducation et une socialisation minutieuses.
-
-
 
 **À qui convient la détention d’un kangal ?**
 
-
 En règle générale, la détention d’un Kangal ne convient pas à tout le monde. Les Kangals sont des chiens grands et forts qui nécessitent une éducation et une socialisation minutieuses. Ce sont également des chiens très actifs qui ont besoin de beaucoup d’exercice et d’exercice quotidien. Il est important de noter que les Kangals sont considérés comme dangereux dans certaines régions et qu’il peut y avoir des restrictions concernant leur détention.
-
-
-
-
 
 ### Sources
 
@@ -210,4 +164,3 @@ En règle générale, la détention d’un Kangal ne convient pas à tout le mon
 - Chien de berger Kangal – diehundezeitung.com
 - Kangal Cöban Köpegi – infohund.de
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]

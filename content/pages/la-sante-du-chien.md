@@ -11,8 +11,6 @@ meta_description: Tipps und Informationen zur Gesundheit des Hundes. Informieren
 cover_id: 30915
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Informations sur la santé du chien
 
 ### La santé du chien
@@ -173,4 +171,4 @@ Il s’agit d’un type particulier de travail corporel, dans lequel des contact
 
 **Thérapie par le froid pour les chiens**
 
-La thérapie par le froid pour les chiens consiste à utiliser des packs de glace, des glaçons ou des sprays glacés pour soulager la douleur, les inflammations, les gonflements et les hématomes\[/vc\_column\_text]\[/vc\_column]\[/vc\_row].
+La thérapie par le froid pour les chiens consiste à utiliser des packs de glace, des glaçons ou des sprays glacés pour soulager la douleur, les inflammations, les gonflements et les hématomes.

@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des Löwchen, s
 parent_id: 32234
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Lion – Portrait de la race
 
 ### FCI

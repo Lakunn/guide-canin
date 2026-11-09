@@ -12,7 +12,7 @@ cover_id: 31754
 parent_id: 31278
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]Surnommé affectueusement « le doux géant » par les gens, l’Irish Wolfhound est un chien incroyablement agréable, paisible et amical qui possède une communauté de fans importante et active dans le monde entier. Il fait partie des plus grandes races de chiens au monde, avec un garrot pouvant atteindre le chiffre incroyable de 82 cm. Apprenez à mieux connaître l’Irish Wolfhound dans notre portrait de race\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row css\= ».vc\_custom\_1594643300777{background\-color : \#dcdcdc !important;} »]\[vc\_column]\[vc\_column\_text]
+Surnommé affectueusement « le doux géant » par les gens, l’Irish Wolfhound est un chien incroyablement agréable, paisible et amical qui possède une communauté de fans importante et active dans le monde entier. Il fait partie des plus grandes races de chiens au monde, avec un garrot pouvant atteindre le chiffre incroyable de 82 cm. Apprenez à mieux connaître l’Irish Wolfhound dans notre portrait de race
 
 ### Fiche signalétique
 
@@ -28,7 +28,7 @@ parent_id: 31278
 
 **Garrot** mâle : 79 cm / femelle : 71 cm
 
-**Poids** Mâles : 54 kg / Femelles : 40,5 kg\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_column\_text]1\. caractère
+**Poids** Mâles : 54 kg / Femelles : 40,5 kg1\. caractère
 
 2\. éducation
 
@@ -136,4 +136,3 @@ Pour un Irish Wolfhound, il faut compter entre 1200 et 2000 euros. Les caractér
 
 ### 11\. livres
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]

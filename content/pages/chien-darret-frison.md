@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter Friesischer Vor
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Chien d’arrêt frison – portrait de race
 
 ### Ces noms désignent la même race :

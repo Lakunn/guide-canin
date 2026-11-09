@@ -11,79 +11,45 @@ meta_description: Hier finden Sie verschiedene Themen rund um den Hund. Urlaub m
 cover_id: 31072
 ---
 
-\[vc\_row]\[vc\_column]\[vc\_column\_text]
-
 ## Aperçu des sujets sur les chiens sur Hundeinfoportal.de
 
 Tu trouveras ici une grande sélection de nos différents thèmes canins sur le portail d’information sur les chiens.
 
 *Ou cherches\-tu notre page Connaissance des chiens ?*
 
-*Sur la page Connaissance des chiens, tu trouveras tout ce qu’il faut savoir sur l’élevage des chiens.* Par exemple,*la bonne alimentation, tout sur la santé et les soins de ton chien, un ouvrage de référence sur les maladies canines et bien plus encore*\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6082″ img\_size\= »medium » onclick\= »custom\_link » link\= »https://guide\-canin.fr/hundethemen/irische\-wolfshunde/ »]\[vc\_column\_text]
+*Sur la page Connaissance des chiens, tu trouveras tout ce qu’il faut savoir sur l’élevage des chiens.* Par exemple,*la bonne alimentation, tout sur la santé et les soins de ton chien, un ouvrage de référence sur les maladies canines et bien plus encore*
 
 ### L’Irish Wolfhound
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6197″ img\_size\= »medium »]\[vc\_column\_text]
-
 ### Vacances avec un chien
-
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6156″ img\_size\= »medium »]\[vc\_column\_text]
 
 ### Les chiens sur la route
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6195″ img\_size\= »medium »]\[vc\_column\_text]
-
 ### Livres pour chiens
-
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
 
 ### Chiens d’attaque
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6194″ img\_size\= »medium »]\[vc\_column\_text]
-
 ### Noms de chiens
-
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6196″ img\_size\= »medium »]\[vc\_column\_text]
 
 ### Chiens de travail
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image image\= »6198″ img\_size\= »medium »]\[vc\_column\_text]
-
 ### Assurances
-
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
 
 ### Races de chiens
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
-
 ### Chiens de berger
-
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
 
 ### Chiens de chasse
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
-
 ### Chiens de protection
-
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
 
 ### Zones de sortie
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
-
 ### Plages pour chiens
-
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
 
 ### Sport canin
 
-\[/vc\_column\_text]\[/vc\_column]\[vc\_column width\= »1/4″]\[vc\_single\_image img\_size\= »medium »]\[vc\_column\_text]
-
 ### Chiens de protection
-
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]\[vc\_row]\[vc\_column]\[vc\_separator]\[vc\_column\_text]
 
 ### L’Irish Wolfhound
 
@@ -123,4 +89,3 @@ Par ici
 
 ### Sports canins
 
-\[/vc\_column\_text]\[/vc\_column]\[/vc\_row]

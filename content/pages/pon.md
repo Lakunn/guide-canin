@@ -11,8 +11,6 @@ meta_description: Hunderassen, Informationen zu Alter, Charakter des PON - Polsk
 parent_id: 31278
 ---
 
-\[the\_ad id\= »11765″]
-
 ## Polski Owczarek Nizinny – Portrait de la race
 
 ### FCI :
