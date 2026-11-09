@@ -38,7 +38,7 @@ C'est la méthode la plus utilisée par les vétérinaires pour expliquer l'âge
 
 ## Méthode 2 : la formule épigénétique (2020)
 
-En 2020, une équipe de l'université de Californie à San Diego a comparé l'évolution de la méthylation de l'ADN (une marque chimique qui change avec l'âge) chez des labradors et chez l'humain. Elle en a tiré la formule **âge humain = 16 × ln(âge du chien) + 31**, où ln est le logarithme népérien.
+En 2020, une équipe de l'université de Californie à San Diego a comparé l'évolution de la méthylation de l'ADN (une marque chimique qui change avec l'âge) chez des labradors et chez l'humain. Elle en a tiré la formule âge humain = 16 × ln(âge du chien) + 31, où ln est le logarithme népérien.
 
 Selon cette formule, un chien d'un an correspond à 31 ans humains, et un chien de 4 ans à environ 53 ans. Elle reflète bien le vieillissement très rapide du début de vie. Sa limite : elle a été établie sur une seule race, de taille moyenne à grande.
 

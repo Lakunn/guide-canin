@@ -43,7 +43,7 @@ Les races à museau court (bouledogue français, carlin) souffrent fréquemment 
 
 ## Avant d'adopter
 
-Depuis le 1er octobre 2022, toute personne qui acquiert un chien pour la première fois doit signer un **certificat d'engagement et de connaissance des besoins de l'animal**, au moins sept jours avant l'adoption ou l'achat. Ce délai sert justement à réfléchir à ces questions.
+Depuis le 1er octobre 2022, toute personne qui acquiert un chien pour la première fois doit signer un certificat d'engagement et de connaissance des besoins de l'animal, au moins sept jours avant l'adoption ou l'achat. Ce délai sert justement à réfléchir à ces questions.
 
 Pensez aussi aux refuges : on y trouve des chiens de toutes races et de nombreux croisés, souvent déjà adultes, dont le caractère est connu.
 

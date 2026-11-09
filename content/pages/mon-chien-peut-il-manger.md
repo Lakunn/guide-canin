@@ -34,7 +34,9 @@ sources:
 
 ## Votre chien a mangé un aliment toxique
 
-1. **Appelez immédiatement** votre vétérinaire, le service de garde, ou le CNITV (centre antipoison vétérinaire de Lyon), joignable par téléphone.
+1. **Appelez immédiatement** votre vétérinaire ou le service de garde, ou l'un des deux centres antipoison vétérinaires, joignables de 8 h 30 à minuit :
+   - CNITV (VetAgro Sup, Lyon) : 04 78 87 10 40 ;
+   - CAPAE-Ouest (Oniris, Nantes) : 02 40 68 77 40.
 2. **Notez** ce qu'il a mangé, la quantité approximative, l'heure, et gardez l'emballage.
 3. **Ne le faites pas vomir vous-même** : selon le produit, c'est inutile ou dangereux. Seul un vétérinaire peut décider de provoquer un vomissement.
 4. **N'attendez pas les symptômes** : pour le raisin ou le xylitol, ils apparaissent quand les dégâts sont déjà faits.
@@ -71,4 +73,4 @@ Mieux vaut éviter : ils sont souvent salés, gras et assaisonnés (oignon, ail)
 ## Sources
 
 - ASPCA Animal Poison Control Center, « People Foods to Avoid Feeding Your Pets ».
-- CNITV, Centre national d'informations toxicologiques vétérinaires, VetAgro Sup.
+- CNITV, Centre national d'informations toxicologiques vétérinaires, VetAgro Sup ; CAPAE-Ouest, Oniris (coordonnées vérifiées le 9 novembre 2026).

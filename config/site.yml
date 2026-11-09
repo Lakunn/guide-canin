@@ -123,7 +123,7 @@ analytics: false
 # Encadré d'urgence affiché sur les articles de ces rubriques.
 urgence_categories: [sante, premiers-secours]
 urgence:
-  texte: "Intoxication, difficulté à respirer, saignement important, convulsions : contactez immédiatement votre vétérinaire ou le service de garde le plus proche."
+  texte: "Intoxication, difficulté à respirer, saignement important, convulsions : contactez immédiatement votre vétérinaire ou le service de garde. Intoxication : centres antipoison vétérinaires CNITV 04 78 87 10 40 ou CAPAE-Ouest 02 40 68 77 40 (8 h 30 – minuit)."
 
 newsletter:
   action: ""

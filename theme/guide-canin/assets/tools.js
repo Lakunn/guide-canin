@@ -185,7 +185,7 @@
       html += '<div class="gc-food gc-' + a[1] + '"><p><strong>' + esc(a[0].charAt(0).toUpperCase() + a[0].slice(1)) + '</strong> · <span class="gc-badge">' + LABEL[a[1]] + '</span></p><p>' + esc(a[2]) + '</p></div>';
     });
     if (hits.some(function (a) { return a[1] === 'no'; })) {
-      html += '<p class="gc-alert">Votre chien en a mangé ? N\'attendez pas les symptômes et ne le faites pas vomir vous-même : appelez immédiatement votre vétérinaire ou un centre antipoison vétérinaire.</p>';
+      html += '<p class="gc-alert">Votre chien en a mangé ? N\'attendez pas les symptômes et ne le faites pas vomir vous-même : appelez immédiatement votre vétérinaire ou un centre antipoison vétérinaire : CNITV 04 78 87 10 40, CAPAE-Ouest 02 40 68 77 40 (8 h 30 – minuit).</p>';
     }
     box.innerHTML = html;
   }
