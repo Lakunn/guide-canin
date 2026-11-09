@@ -1,0 +1,140 @@
+# Configuration de guide-canin.fr — source de vérité.
+# Le déploiement la convertit en theme/guide-canin/site.json (lu par le thème).
+#
+# RÈGLES D'OR (zéro 301) :
+# - un slug existant ne change jamais (articles, pages, rubriques) ;
+# - sur ce site les URL contiennent la rubrique (/sante/premiers-secours/mon-article/) :
+#   un article existant ne change JAMAIS de rubrique.
+
+site_url: https://guide-canin.fr
+category_in_url: true      # active le verrou « rubrique = URL » dans la synchro
+posts_page_slug: ""        # l'accueil liste les articles (pas de page « blog » séparée)
+
+brand:
+  name: Guide Canin
+  tagline: Le guide pratique pour vivre avec son chien
+  wp_blogname: Guide Canin
+  wp_blogdescription: Santé, alimentation, éducation et vie quotidienne avec un chien, avec des sources vérifiées
+
+home:
+  seo_title: "Guide Canin : santé, alimentation et éducation du chien"
+  meta_description: "Guide Canin : des réponses claires et sourcées sur la santé, l'alimentation, l'éducation et la vie quotidienne avec un chien, plus des outils gratuits."
+  h1: Guide Canin, le guide pratique pour vivre avec son chien
+  manifesto_title: Notre façon de travailler
+
+# La signature de tous les contenus (pas d'auteur individuel inventé).
+author:
+  name: La rédaction de Guide Canin
+  role: Rédaction indépendante
+  page: /guide/comment-nous-travaillons/
+  bio: "Nos articles s'appuient sur des sources vétérinaires et officielles, citées en fin de page. Ils ne remplacent pas l'avis d'un vétérinaire, à consulter dès qu'un doute concerne la santé de votre chien."
+  photo: ""
+  links: []
+  knows_about: []
+publisher_type: Organization
+
+# Rubriques. slug = slug WordPress existant (NE PAS MODIFIER). parent = rubrique mère.
+categories:
+  - slug: sante
+    name: Santé
+    on_home: true
+    tagline: Maladies, soins du quotidien, prévention.
+    intro: "Comprendre les problèmes de santé les plus fréquents, savoir quand consulter et soigner son chien au quotidien. Nos articles ne remplacent pas un vétérinaire."
+  - slug: premiers-secours
+    parent: sante
+    name: Premiers secours
+    on_home: false
+    intro: "Les bons gestes en attendant le vétérinaire : intoxication, coup de chaleur, plaie, piqûre."
+  - slug: alimentation
+    name: Alimentation
+    on_home: true
+    tagline: Rations, croquettes, aliments interdits.
+    intro: "Bien nourrir son chien selon son âge, sa taille et son activité, et savoir ce qu'il ne doit jamais manger."
+  - slug: fourrage
+    parent: alimentation
+    name: Croquettes et rations
+    on_home: false
+  - slug: education
+    name: Éducation
+    on_home: true
+    tagline: Apprentissages, comportement, sociabilisation.
+    intro: "Éduquer son chien avec des méthodes positives, comprendre son comportement et résoudre les problèmes du quotidien."
+  - slug: formation
+    parent: education
+    name: Apprentissages
+    on_home: false
+  - slug: chiens
+    name: Races et profils
+    on_home: true
+    tagline: Choisir et connaître son chien.
+    intro: "Caractère, besoins et santé des races, et conseils pour choisir le chien adapté à son mode de vie."
+  - slug: races-de-chiens
+    parent: chiens
+    name: Races de chiens
+    on_home: false
+  - slug: detention-de-chiens
+    name: Vivre avec un chien
+    on_home: true
+    tagline: Démarches, voyages, vie quotidienne.
+    intro: "Les règles, démarches et conseils pratiques pour vivre, voyager et partir en vacances avec son chien."
+  - slug: droit
+    parent: detention-de-chiens
+    name: Droit et démarches
+    on_home: false
+  - slug: vacances
+    parent: detention-de-chiens
+    name: Voyages et vacances
+    on_home: false
+  - slug: generalites
+    name: Généralités
+    on_home: false
+  - slug: guide
+    name: Le site
+    on_home: false
+
+canonical_overrides: {}
+legacy_redirects: []
+
+nav:
+  - { label: Santé, url: /sante/ }
+  - { label: Alimentation, url: /alimentation/ }
+  - { label: Éducation, url: /education/ }
+  - { label: Races, url: /chiens/races-de-chiens/ }
+  - { label: Vivre avec un chien, url: /detention-de-chiens/ }
+  - { label: Outils gratuits, url: /outils/ }
+
+footer_nav:
+  - { label: Calculateur de ration, url: /outils/calculateur-ration-chien/ }
+  - { label: Âge du chien en âge humain, url: /outils/age-chien-age-humain/ }
+  - { label: "Quelle race pour moi ?", url: /outils/quelle-race-de-chien-choisir/ }
+  - { label: Budget annuel d'un chien, url: /outils/budget-chien/ }
+  - { label: "Mon chien peut-il manger… ?", url: /outils/mon-chien-peut-il-manger/ }
+  - { label: Comment nous travaillons, url: /guide/comment-nous-travaillons/ }
+  - { label: Mentions légales, url: /guide/mentions-legales/ }
+  - { label: Confidentialité, url: /guide/declaration-de-confidentialite/ }
+
+footer:
+  about: "Un guide indépendant, sans publicité ni liens commerciaux, pour prendre soin de son chien avec des informations vérifiées."
+  legal: "Guide indépendant, sans publicité. Nos contenus ne remplacent pas l'avis d'un vétérinaire."
+
+# Mesure d'audience : passer à true si Google Analytics (Site Kit) est actif → bandeau de consentement.
+analytics: false
+
+# Encadré d'urgence affiché sur les articles de ces rubriques.
+urgence_categories: [sante, premiers-secours]
+urgence:
+  texte: "Intoxication, difficulté à respirer, saignement important, convulsions : contactez immédiatement votre vétérinaire ou le service de garde le plus proche."
+
+newsletter:
+  action: ""
+  field: EMAIL
+  title: La lettre de Guide Canin
+  text: ""
+  button: Je m'abonne
+
+default_share_image: ""
+
+per_page:
+  blog: 10      # à recalculer après l'import (validate.py vérifie les URL paginées)
+  archive: 10
+  author: 10

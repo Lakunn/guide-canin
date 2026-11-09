@@ -1,0 +1,24 @@
+# Veille de guide-canin.fr : flux lus chaque semaine par scripts/veille.py.
+# filter: false = tout garder (source déjà ciblée) ; sinon seuls les éléments contenant un mot-clé sont gardés.
+
+keywords: [chien, chiens, canin, canine, chiot, vétérinaire, animal de compagnie, animaux de compagnie, fourrière, morsure, i-cad, identification, rage, leishmaniose, tique, chenille processionnaire, maltraitance animale]
+exclude: [chat errant uniquement]
+
+feeds:
+  # Recherches Google Actualités (format RSS public), une par grand thème
+  - name: "Actualités : réglementation des chiens"
+    url: "https://news.google.com/rss/search?q=chien+(loi+OR+d%C3%A9cret+OR+r%C3%A9glementation+OR+obligation)&hl=fr&gl=FR&ceid=FR:fr"
+    filter: false
+  - name: "Actualités : santé canine"
+    url: "https://news.google.com/rss/search?q=chien+(maladie+OR+v%C3%A9t%C3%A9rinaire+OR+%C3%A9pid%C3%A9mie+OR+parasite)&hl=fr&gl=FR&ceid=FR:fr"
+    filter: false
+  - name: "Actualités : alertes et rappels d'aliments pour animaux"
+    url: "https://news.google.com/rss/search?q=rappel+croquettes+OR+%22aliment+pour+chien%22+rappel&hl=fr&gl=FR&ceid=FR:fr"
+    filter: false
+  # Sources officielles et institutionnelles
+  - name: "Service-public.fr (actualités)"
+    url: "https://www.service-public.fr/abonnements/rss/actu-actu-part.rss"
+  - name: "ANSES (actualités)"
+    url: "https://www.anses.fr/fr/flux-actualites.rss"
+  - name: "Ministère de l'Agriculture"
+    url: "https://agriculture.gouv.fr/rss.xml"
