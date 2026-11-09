@@ -105,7 +105,7 @@ SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
 | Variable | `FTP_PORT` | `65002` (port SFTP Hostinger, visible dans hPanel > Avancé > Accès SSH) |
 | Secret | `FTP_HOST` | IP ou hôte SSH indiqué dans hPanel |
 | Secret | `FTP_USER` / `FTP_PASSWORD` | identifiants SSH/SFTP Hostinger |
-| Variable | `FTP_THEME_DIR` | ex. `domains/guide-canin.fr/public_html/wp-content/themes/vr-media` |
+| Variable | `FTP_THEME_DIR` | ex. `domains/guide-canin.fr/public_html/wp-content/themes/guide-canin` |
 | Variable | `DEPLOY_ENABLED` | laisser **vide** jusqu'au lancement, puis `true` |
 
 Créer aussi un environnement `production` (*Settings > Environments*) : on peut y exiger une validation manuelle avant chaque déploiement.
