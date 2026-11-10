@@ -143,10 +143,7 @@ add_action(
 	'wp_head',
 	function () {
 		if ( vr_seo_plugin_active() ) {
-			if ( function_exists( 'rel_canonical' ) ) {
-				rel_canonical();
-			}
-			return;
+			return; // L'extension SEO gère canonical et meta : pas de doublon.
 		}
 		$desc      = vr_meta_description();
 		$canonical = vr_canonical();
@@ -198,4 +195,32 @@ add_filter(
 		);
 		return $args;
 	}
+);
+
+/*
+ * Lancement progressif : tant qu'une extension SEO (Yoast, Rank Math) reste active pour les contenus importés,
+ * les contenus publiés depuis git imposent leur titre, leur description et leur canonical à l'extension.
+ */
+function vr_git_meta( $key ) {
+	if ( ! is_singular() ) {
+		return '';
+	}
+	return (string) get_post_meta( get_queried_object_id(), $key, true );
+}
+foreach ( array( 'wpseo_title', 'rank_math/frontend/title', 'wpseo_opengraph_title', 'rank_math/opengraph/facebook/og_title' ) as $vr_hook ) {
+	add_filter( $vr_hook, function ( $v ) { $t = vr_git_meta( 'vr_seo_title' ); return '' !== $t ? $t : $v; }, 99 );
+}
+foreach ( array( 'wpseo_metadesc', 'rank_math/frontend/description', 'wpseo_opengraph_desc', 'rank_math/opengraph/facebook/og_description' ) as $vr_hook ) {
+	add_filter( $vr_hook, function ( $v ) { $d = vr_git_meta( 'vr_meta_description' ); return '' !== $d ? $d : $v; }, 99 );
+}
+foreach ( array( 'wpseo_canonical', 'rank_math/frontend/canonical' ) as $vr_hook ) {
+	add_filter( $vr_hook, function ( $v ) { $c = vr_git_meta( 'vr_canonical' ); return '' !== $c ? home_url( $c ) : $v; }, 99 );
+}
+add_filter(
+	'pre_get_document_title',
+	function ( $title ) {
+		$t = vr_git_meta( 'vr_seo_title' );
+		return ( vr_seo_plugin_active() && '' !== $t ) ? $t : $title;
+	},
+	999
 );
