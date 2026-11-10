@@ -190,7 +190,51 @@
     box.innerHTML = html;
   }
 
-  var HANDLERS = { ration: ration, age: age, race: race, budget: budget, aliments: aliments };
+
+  /* ------------------------------------------------------------------ Eau */
+  function eau(form, box) {
+    var w = num(form, 'poids');
+    if (!w || w <= 0 || w > 100) return error(box, 'Indiquez un poids entre 0,5 et 100 kg.');
+    var r = form.elements.repas.value;
+    var lo = w * 50, hi = w * 60;
+    var html = '<p class="gc-big">Environ ' + fmt(Math.round(lo / 10) * 10) + ' à ' + fmt(Math.round(hi / 10) * 10) + ' ml par jour</p>'
+      + '<p>Repère pour un chien adulte en bonne santé, au repos et par temps tempéré : 50 à 60 ml par kilo et par jour, toutes sources confondues.</p>';
+    if (r === 'humide') html += '<p>Avec une alimentation humide (près de 80 % d\'eau), une bonne part de ce besoin est déjà couverte par les repas : il est normal que la gamelle se vide moins vite.</p>';
+    if (r === 'mixte') html += '<p>La pâtée apporte une partie de l\'eau : votre chien boira un peu moins que ce repère à la gamelle.</p>';
+    html += '<p>Chaleur, effort, allaitement et croissance augmentent nettement le besoin.</p>';
+    var m = num(form, 'mesure');
+    if (m) {
+      var perKg = m / w;
+      html += '<p><strong>Votre mesure : ' + fmt(Math.round(perKg)) + ' ml par kilo et par jour.</strong></p>';
+      if (perKg > 100) html += '<p class="gc-alert">Au-delà de 100 ml par kilo et par jour, on parle de polydipsie : la consommation est anormale. Prenez rendez-vous chez votre vétérinaire, surtout si votre chien urine aussi davantage.</p>';
+      else if (perKg < 20 && r === 'sec') html += '<p class="gc-alert">C\'est peu pour un chien nourri aux croquettes. S\'il boit moins que d\'habitude, mange moins ou semble abattu, consultez votre vétérinaire.</p>';
+      else html += '<p>C\'est dans une fourchette habituelle.</p>';
+    }
+    html += '<p class="gc-note">Sources : repères de consommation du Manuel vétérinaire MSD (Merck) ; seuil de polydipsie de 100 ml/kg/jour. Laissez toujours de l\'eau fraîche à disposition : un chien en bonne santé boit ce dont il a besoin.</p>';
+    box.innerHTML = html;
+  }
+
+  /* ---------------------------------------------------------- Poids idéal */
+  function poids(form, box) {
+    var w = num(form, 'poids');
+    if (!w || w <= 0 || w > 100) return error(box, 'Indiquez un poids entre 0,5 et 100 kg.');
+    var n = parseInt(form.elements.note.value, 10), html;
+    if (n <= 3) {
+      html = '<p class="gc-big">Votre chien semble trop maigre</p><p>Une note de 3 sur 9 ou moins indique une maigreur. Avant de modifier sa ration, faites-le examiner : une perte de poids peut révéler des parasites, un problème dentaire ou une maladie.</p>';
+    } else if (n <= 5) {
+      html = '<p class="gc-big">Poids idéal : environ ' + fmt(w, 1) + ' kg</p><p>Une note de 4 ou 5 sur 9 correspond à l\'état corporel idéal. Gardez cette ration et vérifiez la note une fois par mois.</p>';
+    } else {
+      var over = (n - 5) * 0.10, ideal = w / (1 + over), kg = w - ideal;
+      html = '<p class="gc-big">Poids idéal estimé : environ ' + fmt(ideal, 1) + ' kg</p>'
+        + '<p>Avec une note de ' + n + ' sur 9, votre chien pèse environ <strong>' + Math.round(over * 100) + ' % de plus</strong> que son poids idéal, soit près de ' + fmt(kg, 1) + ' kg à perdre.</p>'
+        + '<p>Une perte de 1 à 2 % du poids par semaine est le rythme généralement visé : comptez plusieurs semaines à plusieurs mois. '
+        + (n >= 8 ? 'À ce stade, on parle d\'obésité : le régime doit être encadré par votre vétérinaire.' : 'Parlez-en à votre vétérinaire avant de réduire la ration, et calculez-la sur le poids idéal avec le <a href="/outils/calculateur-ration-chien/">calculateur de ration</a>.') + '</p>';
+    }
+    html += '<p class="gc-note">Méthode : échelle d\'état corporel en 9 points de la WSAVA ; au-dessus de 5, chaque point correspond à environ 10 % de poids en trop (repère de l\'AAHA). C\'est une estimation : seul un examen par votre vétérinaire donne une note fiable.</p>';
+    box.innerHTML = html;
+  }
+
+  var HANDLERS = { ration: ration, age: age, race: race, budget: budget, aliments: aliments, eau: eau, poids: poids };
 
   document.querySelectorAll('.gc-tool').forEach(function (tool) {
     var id = tool.getAttribute('data-tool');

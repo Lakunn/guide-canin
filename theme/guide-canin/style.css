@@ -296,3 +296,34 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
 .tools-grid a { display: block; border: 1px solid var(--rule); border-radius: var(--r); padding: 1.1rem; text-decoration: none; background: var(--paper-2); }
 .tools-grid a:hover { border-color: var(--accent); }
 .tools-grid strong { display: block; font: 700 1.1rem var(--serif); color: var(--accent); margin-bottom: .3rem; }
+
+/* Carte d'origine des races ------------------------------------------------- */
+.gc-map { margin: 2rem 0; }
+.gc-map-tools { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin-bottom: 1rem; }
+.gc-map-search, .gc-map-group { font: inherit; font-size: .95rem; padding: .55rem .75rem; border: 1px solid var(--rule); border-radius: var(--r); background: #fff; color: var(--ink); }
+.gc-map-search { flex: 1 1 220px; }
+.gc-map-group { flex: 0 1 320px; max-width: 100%; }
+.gc-map-count { font-size: .82rem; color: var(--muted); }
+.gc-map-layout { display: grid; grid-template-columns: minmax(0, 1fr) 270px; gap: 1.2rem; align-items: start; }
+.gc-map-stage { position: sticky; top: 1rem; }
+.gc-map-svg { width: 100%; height: auto; display: block; background: #eef4f1; border: 1px solid var(--rule); border-radius: var(--r); }
+.gc-map-svg path { fill: #dfe5e1; stroke: #fff; stroke-width: .5; transition: fill .15s; }
+.gc-map-svg path.has-breed { fill: #b9d3c4; cursor: pointer; }
+.gc-map-svg path:hover { fill: #8fbba2; }
+.gc-map-svg path.is-on { fill: var(--warm); stroke: #7a3412; stroke-width: 1; }
+.gc-map-info { margin-top: .8rem; min-height: 5.5rem; background: #fff; border: 1px solid var(--rule); border-left: 4px solid var(--warm); border-radius: var(--r); padding: .8rem 1rem; font-size: .95rem; }
+.gc-map-info p { margin: 0 0 .35rem; }
+.gc-map-name { font: 700 1.15rem/1.3 var(--serif); color: var(--ink); }
+.gc-map-list { list-style: none; margin: 0; padding: 0; max-height: 640px; overflow-y: auto; border: 1px solid var(--rule); border-radius: var(--r); background: #fff; }
+.gc-map-list li { margin: 0; border-bottom: 1px solid var(--rule); }
+.gc-map-list li:last-child { border-bottom: 0; }
+.gc-map-list button { display: block; width: 100%; text-align: left; background: none; border: 0; padding: .5rem .8rem; font: 600 .92rem/1.3 var(--sans); color: var(--ink); cursor: pointer; }
+.gc-map-list button span { display: block; font-weight: 400; font-size: .78rem; color: var(--muted); }
+.gc-map-list button:hover, .gc-map-list button:focus-visible, .gc-map-list button.is-on { background: var(--warm-soft); }
+.gc-map-list button.is-on { box-shadow: inset 4px 0 0 var(--warm); }
+@media (max-width: 860px) {
+  .gc-map-layout { grid-template-columns: 1fr; }
+  .gc-map-stage { position: static; }
+  .gc-map-list { max-height: 360px; }
+}
+.tools-section { font: 700 .78rem/1 var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 2.4rem 0 -1rem; }

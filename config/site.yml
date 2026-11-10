@@ -79,13 +79,16 @@ nav:
   - { label: Accessoires, url: /category/accessoires-chien/ }
   - { label: Races, url: /category/race-de-chien/ }
   - { label: Tous les articles, url: /blog/ }
-  - { label: Outils gratuits, url: /outils/ }
+  - { label: Ressources, url: /outils/ }
 
 footer_nav:
   - { label: Calculateur de ration, url: /outils/calculateur-ration-chien/ }
   - { label: Âge du chien en âge humain, url: /outils/age-chien-age-humain/ }
   - { label: "Quelle race pour moi ?", url: /outils/quelle-race-de-chien-choisir/ }
   - { label: Budget annuel d'un chien, url: /outils/budget-chien/ }
+  - { label: Besoin en eau, url: /outils/besoin-eau-chien/ }
+  - { label: Poids idéal, url: /outils/poids-ideal-chien/ }
+  - { label: Carte d'origine des races, url: /outils/carte-origine-races-chien/ }
   - { label: "Mon chien peut-il manger… ?", url: /outils/mon-chien-peut-il-manger/ }
   - { label: À propos, url: /about/ }
   - { label: Contact, url: /contact/ }

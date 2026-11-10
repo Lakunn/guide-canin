@@ -1,6 +1,6 @@
 <?php
 /**
- * Outils interactifs : [gc_ration], [gc_age], [gc_race], [gc_budget], [gc_aliments].
+ * Outils interactifs : [gc_ration], [gc_age], [gc_race], [gc_budget], [gc_aliments], [gc_eau], [gc_poids], [gc_carte_races].
  * Chaque shortcode affiche un formulaire accessible ; le calcul est fait par assets/tools.js
  * (chargé uniquement sur les pages qui utilisent un outil). Sans JavaScript, un message l'indique.
  */
@@ -134,5 +134,59 @@ add_shortcode(
 		$f  = gc_field( 'q', 'Aliment', '<input id="{id}" type="search" name="q" list="gc-aliments-list" autocomplete="off" placeholder="ex. raisin, carotte, chocolat">' );
 		$f .= '<datalist id="gc-aliments-list"></datalist>';
 		return gc_tool_wrap( 'aliments', 'Mon chien peut-il manger… ?', $f );
+	}
+);
+
+/* Besoin en eau ------------------------------------------------------------ */
+add_shortcode(
+	'gc_eau',
+	function () {
+		$f  = gc_field( 'poids', 'Poids du chien (kg)', gc_number( 'poids', 'min="0.5" max="100" step="0.1" placeholder="ex. 12"' ) );
+		$f .= gc_field( 'repas', 'Alimentation', gc_select( 'repas', array( 'sec' => 'Croquettes (aliment sec)', 'mixte' => 'Mélange croquettes et pâtée', 'humide' => 'Pâtée ou ration ménagère (aliment humide)' ) ) );
+		$f .= gc_field( 'mesure', 'Ce que boit votre chien en 24 h (ml, facultatif)', gc_number( 'mesure', 'min="0" max="20000" step="10" placeholder="ex. 900"' ), 'Remplissez la gamelle avec une quantité mesurée et relevez le reste le lendemain à la même heure.' );
+		$f .= '<button class="btn" type="submit">Calculer</button>';
+		return gc_tool_wrap( 'eau', 'Combien d\'eau mon chien doit-il boire ?', $f );
+	}
+);
+
+/* Poids idéal et état corporel --------------------------------------------- */
+add_shortcode(
+	'gc_poids',
+	function () {
+		$f  = gc_field( 'poids', 'Poids actuel (kg)', gc_number( 'poids', 'min="0.5" max="100" step="0.1" placeholder="ex. 14"' ) );
+		$f .= gc_field(
+			'note',
+			'Ce que vous constatez',
+			gc_select(
+				'note',
+				array(
+					'3' => '3 · Côtes, colonne et os du bassin visibles ou très faciles à sentir, taille très marquée',
+					'4' => '4 · Côtes faciles à sentir sous une fine couche de graisse, taille bien visible',
+					'5' => '5 · Côtes sensibles au toucher sans excès de graisse, taille visible, ventre remonté',
+					'6' => '6 · Côtes sensibles sous un léger excès de graisse, taille peu marquée',
+					'7' => '7 · Côtes difficiles à sentir, graisse sur les reins et la base de la queue, taille absente',
+					'8' => '8 · Côtes impossibles à sentir sans forte pression, ventre arrondi',
+					'9' => '9 · Gros dépôts de graisse sur le cou, le dos et la queue, ventre distendu',
+				)
+			),
+			'Échelle d\'état corporel en 9 points (WSAVA). Regardez votre chien de profil et de dessus, puis palpez ses côtes du plat de la main.'
+		);
+		$f .= '<button class="btn" type="submit">Estimer</button>';
+		return gc_tool_wrap( 'poids', 'Poids idéal de votre chien', $f );
+	}
+);
+
+/* Carte d'origine des races ------------------------------------------------- */
+add_shortcode(
+	'gc_carte_races',
+	function () {
+		wp_enqueue_script( 'gc-carte-races', get_template_directory_uri() . '/assets/carte-races.js', array(), (string) filemtime( get_template_directory() . '/assets/carte-races.js' ), array( 'strategy' => 'defer', 'in_footer' => true ) );
+		$svg = (string) file_get_contents( get_template_directory() . '/assets/carte-monde.svg' );
+		return '<div class="gc-map" id="carte">'
+			. '<div class="gc-map-tools"><label class="screen-reader-text" for="gc-map-q">Chercher une race ou un pays</label><input id="gc-map-q" class="gc-map-search" type="search" placeholder="Chercher une race ou un pays" autocomplete="off">'
+			. '<label class="screen-reader-text" for="gc-map-g">Groupe FCI</label><select id="gc-map-g" class="gc-map-group"></select><span class="gc-map-count"></span></div>'
+			. '<div class="gc-map-layout"><div class="gc-map-stage">' . $svg . '<div class="gc-map-info" aria-live="polite"></div></div>'
+			. '<ul class="gc-map-list" aria-label="Races de chiens"></ul></div>'
+			. '<noscript><p>La carte interactive nécessite JavaScript.</p></noscript></div>';
 	}
 );
