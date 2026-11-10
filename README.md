@@ -1,4 +1,4 @@
-# guide-canin.fr — média SEO & GEO piloté par git
+# guidecanin.fr — média SEO & GEO piloté par git
 
 Le site WordPress est entièrement piloté depuis ce dépôt : le thème, la configuration, chaque page et chaque article. On modifie un fichier, on pousse sur `main`, GitHub Actions déploie.
 
@@ -97,14 +97,14 @@ SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
 
 | Type | Nom | Valeur |
 |---|---|---|
-| Variable | `WP_URL` | `https://guide-canin.fr` |
+| Variable | `WP_URL` | `https://guidecanin.fr` |
 | Secret | `WP_USER` | identifiant WordPress |
 | Secret | `WP_APP_PASSWORD` | mot de passe d'application |
 | Variable | `FTP_PROTOCOL` | `sftp` |
 | Variable | `FTP_PORT` | `65002` (port SFTP Hostinger, visible dans hPanel > Avancé > Accès SSH) |
 | Secret | `FTP_HOST` | IP ou hôte SSH indiqué dans hPanel |
 | Secret | `FTP_USER` / `FTP_PASSWORD` | identifiants SSH/SFTP Hostinger |
-| Variable | `FTP_THEME_DIR` | ex. `domains/guide-canin.fr/public_html/wp-content/themes/guide-canin` |
+| Variable | `FTP_THEME_DIR` | ex. `domains/guidecanin.fr/public_html/wp-content/themes/guide-canin` |
 | Variable | `DEPLOY_ENABLED` | laisser **vide** jusqu'au lancement, puis `true` |
 
 Créer aussi un environnement `production` (*Settings > Environments*) : on peut y exiger une validation manuelle avant chaque déploiement.
@@ -134,7 +134,7 @@ Ensuite, chaque push sur `main` déploie automatiquement.
 pip install -r requirements.txt
 python scripts/validate.py                      # contrôles hors ligne + génère site.json
 WP_URL=… WP_USER=… WP_APP_PASSWORD=… python scripts/wp_sync.py   # simulation
-python scripts/check_urls.py --base https://guide-canin.fr
+python scripts/check_urls.py --base https://guidecanin.fr
 ```
 
 ## Ce que fait le thème

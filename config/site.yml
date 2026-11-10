@@ -1,4 +1,4 @@
-# Configuration de guide-canin.fr — source de vérité.
+# Configuration de guidecanin.fr — source de vérité.
 # Le déploiement la convertit en theme/guide-canin/site.json (lu par le thème).
 #
 # RÈGLES D'OR (zéro 301) :
@@ -6,8 +6,8 @@
 # - sur ce site les URL contiennent la rubrique (/sante/premiers-secours/mon-article/) :
 #   un article existant ne change JAMAIS de rubrique.
 
-site_url: https://guide-canin.fr
-category_in_url: true      # active le verrou « rubrique = URL » dans la synchro
+site_url: https://guidecanin.fr
+category_in_url: false     # guidecanin.fr sert ses articles en /slug/ (à confirmer après l'import)
 posts_page_slug: ""        # l'accueil liste les articles (pas de page « blog » séparée)
 
 brand:

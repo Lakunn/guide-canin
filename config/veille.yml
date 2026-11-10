@@ -1,4 +1,4 @@
-# Veille de guide-canin.fr : flux lus chaque semaine par scripts/veille.py.
+# Veille de guidecanin.fr : flux lus chaque semaine par scripts/veille.py.
 # filter: false = tout garder (source déjà ciblée) ; sinon seuls les éléments contenant un mot-clé sont gardés.
 
 keywords: [chien, chiens, canin, canine, chiot, vétérinaire, animal de compagnie, animaux de compagnie, fourrière, morsure, i-cad, identification, rage, leishmaniose, tique, chenille processionnaire, maltraitance animale]

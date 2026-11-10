@@ -6,7 +6,7 @@ status: publish
 origin: new
 dek: "Adoption, équipement, alimentation, vétérinaire, assurance, garde : listez vos propres montants et obtenez le coût réel d'un chien, la première année puis chaque année."
 seo_title: "Budget d'un chien : calculateur du coût annuel"
-meta_description: "Calculez le budget de votre chien poste par poste : frais de départ, alimentation, soins vétérinaires, assurance, toilettage, garde, la première année et ensuite."
+meta_description: "Calculez le budget de votre chien poste par poste : frais de départ, alimentation, soins vétérinaires, assurance, toilettage, garde, puis les années suivantes."
 essentiel:
   - "Le coût d'un chien se divise en **frais de départ** (adoption, équipement, identification, stérilisation) et en **frais récurrents** (alimentation, soins, assurance, garde)."
   - "La **première année** est la plus chère : frais de départ et série de vaccins du chiot s'ajoutent aux dépenses courantes."
