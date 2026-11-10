@@ -277,3 +277,22 @@ add_filter(
 	},
 	9
 );
+
+/** Vide le cache de page (LiteSpeed) quand le thème change, pour servir la nouvelle feuille de style. */
+add_action(
+	'init',
+	function () {
+		$vr_rev = '';
+		foreach ( array( '/style.css', '/assets/site.js', '/assets/tools.js' ) as $vr_f ) {
+			$vr_rev .= file_exists( VR_DIR . $vr_f ) ? filemtime( VR_DIR . $vr_f ) . '-' : '';
+		}
+		if ( get_option( 'vr_theme_rev' ) === $vr_rev ) {
+			return;
+		}
+		update_option( 'vr_theme_rev', $vr_rev, true );
+		do_action( 'litespeed_purge_all' );
+		if ( ! headers_sent() ) {
+			header( 'X-LiteSpeed-Purge: *' );
+		}
+	}
+);
