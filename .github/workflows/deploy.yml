@@ -52,7 +52,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
-      - run: pip install -r requirements.txt && sudo apt-get install -y -qq lftp
+      - run: pip install -r requirements.txt && sudo apt-get install -y -qq lftp sshpass
       - run: python scripts/validate.py
 
       - name: Envoi du thème
@@ -70,6 +70,22 @@ jobs:
             set sftp:auto-confirm yes; set ssl:verify-certificate yes; set net:max-retries 3;
             mirror --reverse --delete --verbose --parallel=4 theme/guide-canin $FTP_THEME_DIR;
             bye"
+
+      - name: Activation du thème
+        if: env.LIVE == 'true'
+        env:
+          FTP_HOST: ${{ secrets.FTP_HOST }}
+          FTP_USER: ${{ secrets.FTP_USER }}
+          SSHPASS: ${{ secrets.FTP_PASSWORD }}
+          FTP_PORT: ${{ vars.FTP_PORT }}
+          FTP_THEME_DIR: ${{ vars.FTP_THEME_DIR }}
+        run: |
+          if [ -z "$FTP_HOST" ]; then echo "Pas d'accès SSH : thème à activer depuis l'administration WordPress"; exit 0; fi
+          WP_ROOT="${FTP_THEME_DIR%/wp-content/themes/*}"
+          THEME="$(basename "$FTP_THEME_DIR")"
+          # wp-cli (fourni par Hostinger) : active le thème s'il ne l'est pas, puis régénère les permaliens (llms.txt).
+          sshpass -e ssh -o StrictHostKeyChecking=accept-new -p "${FTP_PORT:-22}" "$FTP_USER@$FTP_HOST" \
+            "cd ~/$WP_ROOT && (wp theme is-active $THEME || wp theme activate $THEME) && wp rewrite flush && wp theme list --status=active --field=name"
 
       - name: Synchro des contenus
         run: |
