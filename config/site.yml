@@ -118,3 +118,14 @@ per_page:
   blog: 10      # vérifié par validate.py contre les URL paginées de urls.csv
   archive: 10
   author: 10
+
+# Maillage vers les outils : encadré « Pour aller plus loin » sous les articles qui traitent du sujet (au plus deux).
+tool_links:
+  - { match: "croquettes?|ration|gamelle|alimentation|nourrir|pâtée", title: "Calculateur de ration", url: /outils/calculateur-ration-chien/, text: "Les calories et la quantité de croquettes par jour, selon le poids et le profil de votre chien." }
+  - { match: "poids|surpoids|obès|maigr|régime", title: "Poids idéal du chien", url: /outils/poids-ideal-chien/, text: "L'état corporel sur l'échelle vétérinaire en 9 points, et le poids idéal estimé." }
+  - { match: "\\beau\\b|boire|boit|hydrat|chaleur|déshydrat", title: "Besoin en eau", url: /outils/besoin-eau-chien/, text: "Ce que votre chien devrait boire par jour, et quand une soif excessive doit alerter." }
+  - { match: "races?|chiot|adopt|choisir un chien", title: "Quelle race de chien choisir ?", url: /outils/quelle-race-de-chien-choisir/, text: "Sept questions sur votre mode de vie pour trouver les races les plus compatibles." }
+  - { match: "races?|origine|berger|terrier|lévrier", title: "Carte de l'origine des races", url: /outils/carte-origine-races-chien/, text: "Survolez une race pour voir d'où elle vient sur la carte du monde." }
+  - { match: "âge|vieux|vieillesse|senior|âgé", title: "Âge du chien en âge humain", url: /outils/age-chien-age-humain/, text: "La conversion selon les deux méthodes reconnues, et le stade de vie de votre chien." }
+  - { match: "chocolat|raisin|toxique|intoxication|manger|aliments?", title: "Mon chien peut-il manger… ?", url: /outils/mon-chien-peut-il-manger/, text: "Plus de quarante aliments classés : autorisés, à éviter, dangereux." }
+  - { match: "budget|coût|prix|assurance|dépenses?", title: "Budget d'un chien", url: /outils/budget-chien/, text: "Le coût de la première année et des suivantes, poste par poste." }
