@@ -224,3 +224,19 @@ add_filter(
 	},
 	999
 );
+
+/*
+ * Deux extensions SEO actives (Yoast et Rank Math, constaté le 17/11/2026) : chacune imprimait son <title>, son
+ * canonical, ses Open Graph et ses données structurées, soit deux titres et deux graphes par page. Yoast est gardé
+ * (sitemap déclaré dans robots.txt) ; Rank Math reste actif pour ses autres modules (redirections éventuelles)
+ * mais n'écrit plus rien dans le <head>.
+ */
+add_action(
+	'wp_head',
+	function () {
+		if ( defined( 'WPSEO_VERSION' ) && class_exists( 'RankMath' ) ) {
+			remove_all_actions( 'rank_math/head' ); // appelé par Rank Math sur wp_head, priorité 1 : on passe avant
+		}
+	},
+	0
+);

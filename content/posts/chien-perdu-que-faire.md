@@ -1,125 +1,133 @@
 ---
-title: 'Chien perdu : Que faire pour retrouver votre chien ou son propriétaire ?'
+title: "Chien perdu : que faire heure par heure pour le retrouver"
 slug: chien-perdu-que-faire
 status: publish
 date: '2024-04-30T12:54:47'
-origin: import
+origin: rewrite
 wp_id: 234
 url: https://guidecanin.fr/chien-perdu-que-faire/
-seo_title: 'Chien perdu : Que faire pour retrouver votre chien ou son propriétaire ? - Guide Canin'
-meta_description: Ne paniquez pas et suivez ces étapes, les chiens, mêmes perdus, sont intelligents et débrouillard, vous avez de grande chances de le retrouver.
+seo_title: "Chien perdu : que faire, qui appeler, affiche à imprimer"
+meta_description: "Chien perdu : les gestes des premières heures, la déclaration I-CAD, la fourrière (8 jours ouvrés) et un modèle d'affiche gratuit à imprimer."
 categories:
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 243
+dek: "Restez sur place et laissez-y une affaire qui porte votre odeur, déclarez la perte sur I-CAD dans la journée, puis appelez la mairie, la fourrière et les vétérinaires du secteur. Un chien identifié en fourrière y est gardé 8 jours ouvrés."
+essentiel:
+  - "Dans la première heure : ne courez pas après votre chien, revenez à l'endroit où il a disparu et laissez-y un vêtement porté."
+  - "Déclarez la perte dans votre **espace détenteur I-CAD** : il faut le numéro de puce ou de tatouage. Vétérinaires, refuges et fourrières consultent ce fichier."
+  - "Appelez la mairie et la fourrière du lieu de perte chaque jour : un chien non réclamé est considéré comme abandonné après **8 jours ouvrés**."
+  - "Une affiche lisible de loin, avec une seule photo et un numéro en très grand, fonctionne mieux qu'un long texte. Modèle gratuit ci-dessous."
+sources:
+  - "I-CAD, J'ai perdu mon animal : quelles sont les démarches : https://www.i-cad.fr/articles/animal_perdu"
+  - "Service-public.fr, Que faire quand on trouve un chien ou un chat errant ? (vérifié le 11 septembre 2026) : https://www.service-public.gouv.fr/particuliers/vosdroits/F32338"
+  - "Code rural et de la pêche maritime, article L211-25 (délai de garde en fourrière), sur legifrance.gouv.fr"
 ---
 
-La perte d’un chien est une expérience angoissante pour tout propriétaire. Heureusement, il existe des étapes essentielles à suivre pour augmenter les chances de retrouver votre fidèle compagnon. Voici un guide complet sur les démarches à suivre si votre chien est perdu. Si votre chien à tendance à fuguer et donc se perdre, vous pouvez consulté notre [**article dédié**](https://guidecanin.fr/fugue-chien/).
+Si votre chien vient de disparaître, ne partez pas en courant dans toutes les directions. Restez où il a été vu pour la dernière fois, appelez-le d'une voix calme, et laissez sur place un vêtement que vous avez porté. Puis faites les démarches dans l'ordre ci-dessous : les premières heures et la déclaration au fichier I-CAD comptent le plus.
 
-## J’ai perdu mon chien : où le chercher ?
+## Dans la première heure : les gestes qui changent tout
 
-La première chose à faire lorsque vous égarez votre chien est de **rester calme** et d’agir rapidement. Ensuite :
+1. **Ne le poursuivez pas.** Un chien qui se sent poursuivi accélère, surtout s'il a peur (pétard, orage, chasse). Accroupissez-vous, appelez-le avec le mot qu'il aime (« promenade », « gamelle ») plutôt qu'avec un ton fâché.
+2. **Laissez une odeur familière** à l'endroit de la disparition : un vêtement porté, son panier, sa couverture, avec de l'eau. Beaucoup de chiens reviennent sur leurs pas.
+3. **Si quelqu'un peut rester à la maison**, qu'il y reste, porte ou portail ouvert sur un espace sûr : un chien qui connaît le quartier rentre souvent seul.
+4. **Prévenez les gens présents** : promeneurs, commerçants, gardiens de parking. Montrez une photo sur votre téléphone et donnez votre numéro.
+5. **Pensez aux pièges proches** : garages et caves ouverts, chantiers, abris de jardin. Un chien paniqué se cache souvent à quelques centaines de mètres et ne répond pas.
 
-1. **Explorer les lieux familiers** Commencez par explorer les environs immédiats de la disparition de votre chien. Visitez les endroits que vous fréquentez habituellement lors des promenades, comme les parcs, les bois ou les chemins de promenade préférés de votre chien. N’oubliez pas d’appeler calmement votre chien par son nom pour ne pas l’effrayer.
-2. **Impliquer votre voisinage** Environ **50 % des chiens perdus sont retrouvés dans leur propre quartier**. Parlez avec vos voisins, montrez\-leur une photo récente de votre chien et demandez\-leur de surveiller leur jardin. N’hésitez pas à leur fournir votre numéro de téléphone en cas de signalement.
+Un chien parti sur une odeur ou derrière une chienne en chaleur revient souvent dans les heures qui suivent. Un chien qui a fui une peur peut, lui, rester caché longtemps. Pour comprendre les fugues à répétition, voyez notre article [Pourquoi mon chien fugue](/fugue-chien/).
 
-![affiche chien perdu](https://guidecanin.fr/wp-content/uploads/2024/10/affiche-chien-perdu.jpg)
-## Retrouver son chien : les étapes à suivre
+## Dans la journée : déclarer la perte à I-CAD
 
-### **Contactez les refuges locaux et vétérinaires** :
+Si votre chien est identifié (puce ou tatouage, obligatoire en France pour les chiens de plus de 4 mois), déclarez sa perte sur le site du fichier national, **i-cad.fr**, dans votre espace détenteur.
 
-Si vos recherches dans les environs immédiats n’aboutissent pas, contactez les **refuges pour animaux**, les **vétérinaires**, et même les services **municipaux**. Ils sont souvent les premiers à être informés lorsqu’un animal **perdu est trouvé**. Transmettez\-leur une description précise de votre chien : *race, taille, couleur, identification* (collier, puce électronique), et laissez vos **coordonnées**.
+- Il vous faut le **numéro d'identification** : il figure sur la carte d'identification de votre chien, et votre vétérinaire peut vous le redonner.
+- À la première connexion, vous créez un mot de passe avec l'adresse e-mail que vous aviez donnée à votre vétérinaire.
+- La déclaration fait le lien entre vous et votre chien : les vétérinaires, refuges et fourrières qui scannent un chien trouvé consultent ce fichier.
 
-### Diffusez des avis de recherche :
+**Vous venez d'adopter ou d'acheter votre chien** et le changement de propriétaire n'est pas encore fait ? I-CAD propose un enregistrement temporaire de vos coordonnées pendant 2 mois : écrivez à contact@i-cad.fr avec vos nom, prénom, adresse et le numéro d'identification du chien.
 
-Les **réseaux sociaux** sont un excellent moyen de mobiliser la communauté locale. Publiez des annonces avec une photo récente de votre chien sur des groupes **Facebook** locaux ou alerte chien perdu Facebook, des plateformes pour animaux perdus, et sur vos comptes personnels. Soyez précis sur l’**endroit** où il a disparu, l’**heure** et les **signes distinctifs** (collier, comportement spécifique). N’oubliez pas de mentionner si votre chien est sociable ou craintif, cela peut aider les gens à l’approcher avec plus de précaution. De nombreuses plateformes en ligne comme « **[Pet Alert](https://www.petalertfrance.com/)**« , « [**Pawboost**](https://www.pawboost.com/)« , ou « [**Chien Perdu**](https://www.chien-perdu.org/fr-fr/) » permettent aux gens de signaler les animaux retrouvés. Consultez\-les fréquemment pour voir si quelqu’un a signalé votre chien.
+Vérifiez aussi que votre numéro de téléphone est à jour dans le fichier. Un chien scanné dont le propriétaire ne répond plus au numéro enregistré reste en fourrière.
 
-En plus des réseaux sociaux, **imprimez des affiches** avec une photo claire de votre chien, se/s **caractéristiques** et vos **coordonnées**. Placez\-les dans les **commerces** locaux, les **parcs** pour chiens, et partout où des gens pourraient passer et/ou votre chien pourrait se réfugier. Les panneaux d’affichage communautaire ou les bureaux vétérinaires sont également de bons points de diffusion.
+## Qui appeler, et dans quel ordre
 
-![chien perdu médaille](https://guidecanin.fr/wp-content/uploads/2024/10/medaille-chien.jpg)
-### **Vérifiez la puce électronique** :
+| Qui | Pourquoi | Quand |
+|---|---|---|
+| **Mairie du lieu de perte** (et des communes voisines) | Elle sait quelle fourrière prend en charge les chiens trouvés sur son territoire | Dès le premier jour, puis tous les jours |
+| **Fourrière animale** | C'est là que vont les chiens trouvés par la police municipale ou les habitants | Tous les jours, et passez-y si vous pouvez |
+| **Vétérinaires du secteur** | Un chien trouvé y est souvent apporté pour lire sa puce | Dès le premier jour |
+| **Refuges et associations** (SPA, refuges locaux) | Certains recueillent des chiens trouvés | Dès le premier jour |
+| **Police municipale, commissariat ou gendarmerie** | Si la mairie est injoignable, le soir ou le week-end | Selon l'heure |
 
-Si votre chien est équipé d’une **puce électronique**, assurez\-vous que les informations de contact associées sont à jour. En cas de doute, contactez le service d’enregistrement pour vérifier ou mettre à jour vos **coordonnées**. Les **refuges** et **vétérinaires** peuvent scanner la puce pour retrouver rapidement le propriétaire.
+Le délai à connaître : un chien conduit en fourrière y est gardé **8 jours ouvrés et francs**, à compter du lendemain de son arrivée. Passé ce délai sans que personne ne le réclame, il est considéré comme abandonné et la fourrière peut le confier à un refuge (article L211-25 du Code rural). Pour le récupérer, vous paierez des frais de garde, fixés par la commune et affichés en mairie.
 
-Même si les premières heures sont cruciales, il n’est pas rare que des chiens perdus soient retrouvés **plusieurs jours** ou **semaines** après leur **disparition**. Continuez de partager les **avis de recherche**, contactez régulièrement les **refuges**, et gardez espoir. Perdre son chien peut être très stressant, mais avec des actions rapides et organisées, vous augmentez considérablement les chances de le retrouver. Agir dès les **premières heures**, mobiliser les voisins et la **communauté**, et utiliser les ressources locales et en ligne sont des étapes clés. Et surtout, n’oubliez pas de vous préparer à l’avance en équipant votre chien d’une **puce électronique** ou d’un **collier** avec des informations d’identification claires pour faciliter le retour en cas de perte. Si votre chien à tendance à fuguer, pensez aussi au **collier GPS** comme solution préventive.
+## Diffuser l'annonce : affiche et réseaux
 
-## Comment déclarer un chien perdu à l’I\-CAD ?
+### L'affiche qui se lit de loin
 
-Si votre chien est **pucé ou tatoué**, la déclaration auprès de l’I\-CAD (fichier national des carnivores domestiques) est indispensable. Cette procédure permet à toute personne qui retrouve votre chien de vous contacter en scannant sa puce électronique​.
+Une affiche est lue en deux secondes, souvent depuis une voiture. Ce qui marche :
 
-**Étapes de la déclaration :**
+- **une seule photo**, récente, du chien en entier et de profil, qui occupe la moitié de la feuille ;
+- « CHIEN PERDU » en très gros, sur un bandeau de couleur ;
+- le nom, la race ou le gabarit, la couleur, **un signe distinctif** (oreille cassée, collier rouge, tache blanche) ;
+- le lieu et la date de disparition ;
+- **« Ne le poursuivez pas, appelez-nous »** : un chien effrayé fuit les inconnus qui courent vers lui ;
+- votre numéro en très grand, et en languettes détachables en bas de la feuille.
 
-1. Accédez au site [I\-CAD](https://www.i-cad.fr) pour signaler la perte de votre chien.
-2. Fournissez les informations essentielles comme son numéro d’identification, sa description et votre localisation.
+Évitez d'écrire le numéro de puce complet et votre adresse : ils n'aident personne à retrouver le chien et peuvent servir à des arnaques.
 
-Si votre chien n’est pas identifié, il est d’autant plus crucial de le signaler aux vétérinaires, fourrières et refuges locaux.
+![Modèle d'affiche chien perdu à imprimer : bandeau rouge « CHIEN PERDU », grand cadre pour la photo, nom, race et couleur, signe distinctif, lieu et date de perte, consigne « Ne le poursuivez pas : appelez-nous tout de suite », numéro de téléphone en grand et languettes détachables](media/affiche-chien-perdu-modele.png)
 
-## Que faire si votre chien n’est pas identifié ?
+Imprimez ce modèle en A4, collez une photo dans le cadre et remplissez les champs au feutre noir épais. Posez les affiches aux carrefours, devant les écoles, les boulangeries, les cabinets vétérinaires et les animaleries, dans un rayon de quelques kilomètres autour du lieu de perte. Demandez l'autorisation aux commerçants.
 
-Même sans identification, il existe plusieurs démarches à entreprendre pour augmenter vos chances de le retrouver :
+### Les réseaux et applications
 
-- **Contactez les autorités locales** comme la mairie, la police municipale, et la fourrière. Ces services sont souvent les premiers informés des chiens errants​([Canipédia](https://canipedia.fr/chien-perdu/)).
-- **Prévenez les refuges** et associations de protection animale, qui recueillent régulièrement des animaux égarés.
+- **Les groupes Facebook de votre département** dédiés aux animaux perdus et trouvés, et ceux de votre commune ou de votre quartier.
+- **Les plateformes d'annonces d'animaux perdus**, comme Pet Alert ou les groupes Filalapat signalés par I-CAD.
+- **Les applications de voisinage** de votre quartier.
 
-![chien seul errant perdu](https://guidecanin.fr/wp-content/uploads/2024/10/chien-errant.jpg)
-### Exemple d’avis de recherche de chien perdu
+Republiez l'annonce régulièrement, avec la même photo, pour qu'elle reste en haut des fils. Et surveillez les annonces d'animaux **trouvés** : la personne qui a recueilli votre chien cherche peut-être à vous joindre de son côté.
 
-### **Déclaration de perte de chien**
+## Les arnaques à éviter
 
-**Date** : *\[Date de la perte]*
+Des escrocs repèrent les annonces de chiens perdus. Méfiez-vous de quelqu'un qui :
 
-**Lieu de la perte** : *\[Ville, quartier, rue ou endroit spécifique où le chien a été vu pour la dernière fois]*
+- demande de l'argent (récompense, frais de transport, frais de vétérinaire) **avant** que vous ayez vu votre chien ;
+- refuse de vous envoyer une photo du chien prise maintenant ;
+- vous demande des codes de vérification reçus par SMS.
 
-**Description du chien** :
+Demandez un détail qui n'est pas sur l'affiche (une cicatrice, le comportement face à un mot précis) et rendez-vous dans un lieu public, ou mieux, chez un vétérinaire qui lira la puce.
 
-- **Nom** : *\[Nom du chien]*
-- **Race** : *\[Race ou croisement]*
-- **Âge** : *\[Âge du chien]*
-- **Taille** : *\[Petit, moyen, grand]*
-- **Poids** : *\[Poids approximatif]*
-- **Couleur** : *\[Couleur du pelage]*
-- **Signes distinctifs** : *\[Taches, cicatrices, collier, etc.]*
-- **Sexe** : *\[Mâle/Femelle]*
-- **Puce électronique/tatouage** : *\[Indiquer si le chien est pucé ou tatoué, avec le numéro si possible]*
+## Votre chien est retrouvé
 
-**Dernière fois vu** : *\[Indiquez l’heure et le lieu exact où vous avez vu votre chien pour la dernière fois]*
+- **Déclarez-le « retrouvé » dans votre espace I-CAD.** Sinon, il reste signalé comme perdu dans le fichier.
+- Prévenez la mairie, la fourrière, les vétérinaires et les groupes où vous avez publié l'annonce, et retirez vos affiches.
+- Faites-le examiner s'il est resté dehors plus d'une journée : blessures, coussinets abîmés, tiques (voir [que faire en cas de tique](/tiques-chien-que-faire/)), déshydratation.
+- Pour la suite, travaillez le rappel : notre méthode pour [apprendre le rappel à son chien](/apprendre-rappel-a-son-chien/) commence à la maison, sans distraction.
 
-**Caractère** : *\[Précisez si votre chien est sociable, craintif, peureux, agressif envers d’autres animaux, etc.]*
+<section class="faq" markdown="1">
 
-**Collier et accessoires** : *\[Précisez s’il portait un collier, une médaille, une laisse ou tout autre accessoire]*
+## Questions fréquentes
 
-**Contact** : Si vous avez des informations ou si vous avez aperçu *\[Nom du chien]*, merci de me contacter au *\[Numéro de téléphone]* ou par email à *\[Adresse email]*.
+### Qui appeler en premier quand on a perdu son chien ?
 
-**Informations supplémentaires** : *\[Indiquez toute autre information utile, par exemple, s’il prend des médicaments ou a des besoins spécifiques]*
+La mairie du lieu de perte, qui vous donne les coordonnées de la fourrière, puis les vétérinaires du secteur. Le même jour, déclarez la perte sur i-cad.fr.
 
-**Merci de partager cette annonce et de m’aider à retrouver mon compagnon !**
+### Mon chien n'est pas pucé : que faire ?
 
-Cet exemple peut être personnalisé avec les informations spécifiques de votre chien et diffusé via les réseaux sociaux, des affiches ou auprès des autorités compétentes (vétérinaires, refuges, services municipaux).
+Les mêmes démarches, sauf la déclaration I-CAD, qui n'est pas possible. Comptez davantage sur les affiches, les réseaux et les appels quotidiens à la fourrière. Une fois votre chien retrouvé, faites-le identifier : c'est obligatoire, et c'est ce qui permet à une fourrière de vous appeler.
 
-### Rester Optimiste et Continuer les Recherches
+### J'ai trouvé un chien perdu, que faire ?
 
-Ne perdez pas espoir ! La majorité des chiens perdus sont **retrouvés**. Même si votre chien ne revient pas immédiatement, continuez à **diffuser l’alerte** et à **explorer les lieux familiers**. Pensez à toujours laisser quelqu’un à la **maison** au cas où votre chien retrouverait **seul** le chemin.
+Faites lire sa puce par un vétérinaire, ou contactez la mairie qui vous orientera vers la fourrière. Notre article [Que faire d'un chien errant](/chien-errant-que-faire/) détaille les démarches.
 
-### Autres questions posées sur les chiens perdus
+### Une puce GPS ou une balise sur le collier, ça marche ?
 
-#### **Combien de temps faut\-il à un chien perdu pour retrouver son chemin ?**
+La puce d'identification n'est pas un GPS : elle ne se lit qu'avec un lecteur, à quelques centimètres. Un traceur GPS ou une balise accrochée au collier permet de localiser le chien, mais le collier peut se perdre. Les deux sont complémentaires.
 
-Le temps qu’un chien met pour retrouver son chemin varie selon plusieurs facteurs. Certains chiens, avec un bon sens de l’orientation, peuvent rentrer en **quelques heures**, surtout dans un environnement familier. D’autres, s’étant éloignés plus loin ou perdus dans une zone inconnue, peuvent mettre **plusieurs jours**. Certaines races, comme les chiens de berger ou de chasse, sont plus douées pour se repérer. Cependant, le **stress**, la **fatigue** ou l’environnement (ville, distractions) peuvent compliquer leur retour. Réagir rapidement en lançant les **recherches** est donc essentiel.
+</section>
 
-#### **Quelles sont les chances de retrouver un chien perdu ?**
+## Sources
 
-Les chances de retrouver un chien perdu dépendent de la rapidité de la recherche, de la zone où il s’est égaré, et des moyens utilisés (réseaux sociaux, affiches, puce électronique). Les premières **24 à 48 heures** sont cruciales, car les chiens restent souvent proches de l’endroit où ils ont disparu. Les chiens équipés de **puces** ou de médailles **d’identification** sont plus facilement retrouvés. En général, plus les recherches sont actives et bien **coordonnées**, plus les chances de retrouver le chien sont élevées.
-
-#### **Dois\-je offrir une récompense pour le retour de mon chien ?**
-
-Offrir une récompense pour le retour de votre chien peut inciter davantage de personnes à vous aider dans vos recherches. Cela montre également **l’importance** que vous attachez à retrouver votre animal, ce qui peut motiver des passants ou voisins à être plus vigilants. Cependant, la récompense ne doit pas remplacer des actions essentielles comme la **diffusion d’affiches** ou la **recherche** active. Soyez clair sur les conditions de la **récompense**, mais assurez\-vous que l’objectif reste de retrouver votre chien sain et sauf.
-
-#### **Que faire si je retrouve mon chien ?**
-
-Si vous retrouvez votre chien, assurez\-vous d’abord qu’il est en **bonne santé** en vérifiant s’il présente des blessures ou des **[signes de stress](https://guidecanin.fr/stress-chien-comment-gerer/)**. Donnez\-lui de **l’eau** et de la **nourriture**, surtout s’il est resté perdu longtemps. Ensuite, emmenez\-le chez le **vétérinaire** pour un examen, même s’il semble en forme, afin de s’assurer qu’il n’a pas subi de traumatismes ou de parasites. **Informez** toutes les personnes impliquées dans la recherche (**alerte chien perdu Facebook, refuges, voisins**) que votre chien a été retrouvé. Enfin, renforcez ses mesures de sécurité, comme le port d’une **médaille** ou l’actualisation des informations de sa **puce électronique.**
-
-#### Le collier GPS pour chien : une solution préventive
-
-Le **collier GPS pour chien** est une excellente solution pour éviter de perdre son chien, car il permet de suivre sa position en temps réel via une **application**. En cas de fuite ou de perte, vous pouvez **localiser** rapidement votre chien, réduisant ainsi le stress et le temps de **recherche**. Il offre également une tranquillité d’esprit, surtout lors de promenades sans laisse ou dans des zones non clôturées. De plus, certains **colliers GPS** permettent de définir des **zones de sécurité** et envoient une alerte si le chien en sort. Cela augmente les chances de **retrouver** votre animal rapidement.
-
-![chien heureux clin d'oeil](https://guidecanin.fr/wp-content/uploads/2024/10/chien-heureux.jpg)
+- I-CAD, fichier national d'identification des carnivores domestiques, « J'ai perdu mon animal : quelles sont les démarches ? » : [i-cad.fr](https://www.i-cad.fr/articles/animal_perdu)
+- Service-public.fr, « Que faire quand on trouve un chien ou un chat errant ? », vérifié le 11 septembre 2026 : [service-public.gouv.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F32338)
+- Code rural et de la pêche maritime, article L211-25, consultable sur [legifrance.gouv.fr](https://www.legifrance.gouv.fr)

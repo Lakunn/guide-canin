@@ -1,138 +1,110 @@
 ---
-title: 'Stress chez les chiens : Signes, prévention et traitement'
+title: "Chien stressé : reconnaître les signes et l'aider à se calmer"
 slug: stress-chien-comment-gerer
 status: publish
 date: '2024-09-09T16:14:09'
-origin: import
+origin: rewrite
 wp_id: 294
 url: https://guidecanin.fr/stress-chien-comment-gerer/
-seo_title: 'Stress chez les chiens : Signes, prévention et traitement - Guide Canin'
-meta_description: Les coussins anti-stress chiens, souvent conçus avec des matériaux doux et des formes enveloppantes, offrent un lieu de repos rassurant. Leur design peut
+seo_title: "Chien stressé : les signes, les causes et quoi faire"
+meta_description: "Bâillements, babines léchées, oreilles en arrière : les signes d'un chien stressé, ce qui le calme vraiment (et ce qui ne sert à rien), et quand consulter."
 categories:
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 521
+dek: "Un chien stressé le montre d'abord par de petits signaux : il bâille, se lèche les babines, détourne la tête. Éloignez-le de ce qui l'inquiète, restez calme, et rendez sa journée prévisible. Un changement brusque de comportement se montre d'abord au vétérinaire : la douleur stresse aussi."
+essentiel:
+  - "Les premiers signes sont discrets : bâillement hors fatigue, léchage de babines, regard détourné, corps qui se fige. Ils viennent toujours à plusieurs."
+  - "Le plus efficace : **augmenter la distance** avec ce qui fait peur, puis réhabituer par petites étapes, avec des récompenses."
+  - "Une étude de 2017 sur des chiens en refuge a mesuré moins de stress avec de la musique, surtout soft rock et reggae ; l'effet est modeste."
+  - "Chien qui change d'un coup, ne mange plus, se lèche sans arrêt ou devient agressif : vétérinaire d'abord, puis vétérinaire comportementaliste si besoin."
+sources:
+  - "Turid Rugaas, Les signaux d'apaisement : la base de la communication canine (éd. originale On Talking Terms with Dogs: Calming Signals)"
+  - "Bowman A., Dowell F. J., Evans N. P., The effect of different genres of music on the stress levels of kennelled dogs, Physiology & Behavior, 2017, 171 : 207-215 : https://pubmed.ncbi.nlm.nih.gov/28093218/"
+  - "Vieira de Castro A. C. et al., Does training method matter? Evidence for the negative impact of aversive-based methods on companion dog welfare, PLOS ONE, 2020 : https://doi.org/10.1371/journal.pone.0225023"
 ---
 
-Les chiens, nos fidèles compagnons, peuvent souffrir de stress comme les humains. Le stress canin peut être déclenché par divers facteurs, notamment des changements d’environnement, des bruits forts, des interactions sociales négatives ou des problèmes de santé.
+Un chien stressé ne tremble pas forcément. Il commence par de petits signaux qu'on remarque peu : il bâille alors qu'il n'est pas fatigué, se lèche les babines, détourne la tête ou se fige. Si vous les repérez tôt, éloignez-le de ce qui l'inquiète, parlez calmement, et laissez-le souffler. Si le stress devient fréquent, cherchez la cause, et pensez d'abord à la douleur.
 
-## Stress chez le chien : D’où ça peut venir ?
+## Les signes du stress, du plus discret au plus visible
 
-Le stress chez le chien peut être déclenché par une variété de facteurs environnementaux et sociaux. Parmi les causes les plus courantes figurent :
+L'éducatrice norvégienne Turid Rugaas a décrit ces petits gestes sous le nom de **signaux d'apaisement** : le chien les utilise pour calmer une situation qui le met mal à l'aise. Un signal seul ne veut rien dire (un chien bâille aussi quand il est fatigué, se lèche après avoir mangé). C'est leur accumulation, dans un contexte précis, qui doit vous alerter.
 
-- les **changements d’environnement**, comme un déménagement ou l’arrivée d’un nouvel animal dans le foyer qui peuvent perturber leurs repères.
-- Les **bruits forts**, tels que les orages, les feux d’artifice ou les klaxons, peuvent également provoquer une anxiété significative chez certains chiens.
-- De plus, les **périodes de séparation** prolongée d’avec leurs propriétaires peuvent engendrer un sentiment de solitude et d’angoisse du à l’**[anxiété de séparation](https://guidecanin.fr/anxiete-separation-chien/)**
-- Les **interactions sociales**, notamment avec des chiens ou des personnes inconnues, peuvent également être stressantes, surtout pour les animaux moins sociables.
-- Enfin, des **problèmes de santé** sous\-jacents ou des douleurs physiques peuvent exacerber le stress, rendant encore plus essentiel d’être attentif à leur bien\-être général
+| Niveau | Ce que vous voyez | Ce que ça veut dire |
+|---|---|---|
+| **Discret** | Bâillement hors fatigue, léchage de babines ou de truffe, tête ou regard détourné, reniflement soudain du sol, patte avant levée | « Je suis mal à l'aise, je cherche à apaiser » |
+| **Net** | Oreilles plaquées en arrière, queue basse ou entre les pattes, corps bas, halètement sans chaleur ni effort, blanc de l'œil visible, tremblements | « J'ai peur, je voudrais partir » |
+| **Fort** | Évitement (il se cache, tire pour fuir), immobilité totale, grognement, babines retroussées, poils hérissés | « Je ne supporte plus, je vais me défendre ou fuir » |
+| **Dans la durée** | Léchage ou mâchonnement d'une patte, destructions quand il est seul, malpropreté, perte d'appétit, sommeil agité | Stress répété ou chronique : cherchez la cause |
 
-![petit chien stressé](https://guidecanin.fr/wp-content/uploads/2024/10/chien-stressse.jpg)
-## Signes de stress chez les chiens
+Un chien qui grogne vous prévient. Ne le punissez pas pour ça : vous lui apprendriez à mordre sans prévenir.
 
-Reconnaître les signes de stress chez votre chien est essentiel pour le gérer efficacement. Les signes courants incluent :
+## Pourquoi votre chien est stressé
 
-- Agitation, **aboiements** excessifs ou gémissements
-- **Léchage** excessif des pattes ou des autres parties du corps
-- **Bâillements** fréquents
-- Comportements [**destructeurs**](https://guidecanin.fr/chien-destructeur-que-faire/), comme mâcher des meubles
-- Changements **d’appétit** ou de soif
-- Troubles du **sommeil**, comme un sommeil agité ou des difficultés à s’endormir
-- Des tentatives répétées de **[fugue](https://guidecanin.fr/fugue-chien/)**
+Les causes les plus fréquentes :
 
-Ces signes peuvent être provoqués par d’autres problème comportementaux ou hormonaux. C’est donc important d’évaluer toutes les pistes quand votre chien vous semble différents de d’habitude.
+- **Les bruits** : orage, pétards, travaux, aspirateur.
+- **La solitude** : un chien qui ne supporte pas d'être seul (voir [l'anxiété de séparation](/anxiete-separation-chien/)).
+- **Les changements** : déménagement, arrivée d'un bébé ou d'un autre animal, nouvelle maison après une adoption.
+- **Les transports** : voiture, train, souvent liés au mal des transports ou à un mauvais souvenir.
+- **Les rencontres** : autres chiens, inconnus, enfants qui le sollicitent trop.
+- **Le manque d'activité** : un chien qui s'ennuie accumule de la tension.
+- **La douleur ou une maladie** : un chien qui a mal devient irritable, nerveux, et peut réagir à des contacts qu'il acceptait avant.
+- **Les méthodes d'éducation par la contrainte** : une étude portugaise de 2020 a observé plus de signes de stress chez les chiens éduqués avec des méthodes aversives (cris, coups de laisse, colliers à pointes ou électriques) que chez ceux éduqués par la récompense.
 
-![Chien débarrassé de son stress](https://guidecanin.fr/wp-content/uploads/2024/10/chien-stress.jpg)
-## Comment calmer un chien stressé ?
+### La règle des 3-3-3 après une adoption
 
-Le **stress** est fréquemment lié à une incapacité du chien à gérer ses **émotions** en présences de certains stimuli. En fait, le stress vient souvent d’une **appréhension** ou d’un mauvais souvenir face à ces stimuli. On ne se débarrasse donc pas du stress chez le chien simplement en supprimant ces interactions mais plutôt en aidant votre chien à mieux gérer ses **émotions** en leurs présences. Si vous remarquez de l’**anxiété**  chez votre chien, il est important de prendre des mesures pour le gérer. Voici quelques stratégies anti\-stress efficaces :
+On la cite souvent pour un chien qui arrive dans un nouveau foyer : environ 3 jours pour décompresser, 3 semaines pour comprendre la routine, 3 mois pour se sentir chez lui. Ce n'est pas une règle scientifique, mais un bon rappel : un chien adopté qui semble stressé les premières semaines est souvent un chien normal qui s'adapte. Donnez-lui du calme, un coin à lui et une routine stable.
 
-### **1\. Identifiez et éliminez les déclencheurs de stress**
+## Que faire sur le moment
 
-Si possible, identifiez les situations ou les facteurs qui déclenchent de **l’anxiété** chez votre chien et essayez de les éviter ou de les atténuer. Le plus souvent, confronter le chien à ces facteurs permet, au fur et à mesure, de diminuer la réponse et la montée en excitation du chien.
+1. **Créez de la distance** avec ce qui l'inquiète : changez de trottoir, faites demi-tour, sortez de la pièce. C'est le geste le plus efficace.
+2. **Restez calme et lent.** Votre voix posée et des gestes tranquilles le rassurent mieux que des caresses insistantes.
+3. **Ne le forcez pas** à « affronter » sa peur. Le confronter de près ne l'habitue pas, cela le sensibilise.
+4. **Proposez-lui une activité qui apaise** : chercher des croquettes dans l'herbe, lécher un tapis de léchage, mâchonner un jouet. Flairer et lécher font baisser la tension.
+5. **Laissez-lui un refuge** : un panier dans un coin calme, où personne ne le dérange.
 
-### **2\. Fournissez un environnement calme et sûr**
+Le réconforter quand il a peur ne « renforce » pas sa peur : la peur est une émotion, pas un comportement qu'on récompense. Vous pouvez le rassurer, sans en faire trop.
 
-Créez un espace sûr et **tranquille** pour votre chien, loin des bruits forts ou des perturbations. Assurez\-vous qu’il dispose d’un endroit **confortable** pour se reposer et dormir. Encore une fois, si vous vivez en ville, il est important d’emmener votre chien se promener au plus prêt des facteurs de stress pour l’habituer, mais aussi lui offrir la possibilité d’évoluer dans un environnement anti\-stress, comme en foret, de temps à autre.
+## Ce qui l'aide sur la durée
 
-### **3\. Faites beaucoup d’exercice**
+- **Une journée prévisible** : repas, sorties et moments seuls à heures à peu près fixes.
+- **Assez d'activité, et la bonne** : de la marche où il peut renifler, des jeux de flair, de la mastication. Nos idées pour [fatiguer son chien](/fatiguer-son-chien/) sans le surexciter.
+- **La désensibilisation par petites étapes** : exposer le chien à ce qui l'effraie à une intensité si faible qu'il reste détendu (bruit d'orage enregistré très bas, autre chien à 50 mètres), l'associer à quelque chose qu'il adore, puis rapprocher très progressivement sur plusieurs semaines.
+- **La musique** : une étude écossaise de 2017 sur 38 chiens de refuge a mesuré des indicateurs de stress plus bas pendant la diffusion de musique, surtout de soft rock et de reggae, avec un effet plus faible pour la musique classique. Les chercheurs conseillent de varier les morceaux, car l'effet s'émousse. C'est un complément, pas un traitement.
+- **Les produits « anti-stress »** (diffuseurs de phéromones, compléments, colliers apaisants) : les résultats des études sont partagés. Parlez-en avec votre vétérinaire avant d'en acheter plusieurs. L'homéopathie n'a pas montré d'effet au-delà du placebo.
 
-**L’exercice** physique peut aider à réduire les niveaux de stress chez les chiens. **Promenez** votre chien régulièrement, **jouez** à des jeux avec lui ou emmenez\-le dans un parc pour chiens.
+Si le stress conduit à des destructions, lisez aussi [Chien destructeur : que faire](/chien-destructeur-que-faire/).
 
-### **4\. Stimulez mentalement votre chien**
+<div class="callout" markdown="1">
 
-Les activités qui stimulent mentalement votre chien, comme les **jeux de recherche** de nourriture ou les puzzles, peuvent aider à réduire l’ennui et l’anxiété. Il faut noter que la simple **promenade** amènera votre chien à suivre des pistes ou explorer de nouveaux endroits, c’est de la dépense mentale autant que physique.
+### Quand consulter
 
-### **5\. Socialisez votre chien**
+- **Vétérinaire, rapidement** : changement brusque de comportement, chien qui ne mange plus, se lèche une zone jusqu'à la plaie, grogne quand on le touche à un endroit, ou dont le stress apparaît avec l'âge. La douleur et certaines maladies sont des causes fréquentes.
+- **Vétérinaire comportementaliste** : peur qui empire malgré vos efforts, panique quand il est seul, agressivité. Lui seul peut, si nécessaire, prescrire un traitement médicamenteux, à associer à un travail d'éducation. Ne donnez jamais à votre chien un calmant ou un médicament humain de vous-même.
 
-Les chiens ont besoin d’**interactions sociales positives** pour être heureux et en bonne santé. Socialisez votre chien avec d’autres chiens et personnes dès son plus jeune âge pour l’aider à développer une confiance sociale. Découvrez notre guide sur la **[socialisation du chien](https://guidecanin.fr/soclisation-chiot-chien/)**.
+</div>
 
-![chien qui jouent](https://guidecanin.fr/wp-content/uploads/2024/09/chien-qui-joue-300x200.jpg)
+<section class="faq" markdown="1">
 
- 
+## Questions fréquentes
 
-## Astuces pour réduire le stress lié aux voyages chez les chiens : mon chien est stressé en voiture
+### Comment calmer un chien stressé par l'orage ?
 
-Les voyages peuvent être une expérience stressante pour les chiens. Voici quelques conseils pour réduire leur stress :
+Préparez-lui un refuge sans fenêtre (salle de bain, dessous d'une table recouverte d'une couverture), mettez de la musique ou la télévision pour masquer le bruit, et proposez-lui un jouet à lécher. En dehors des orages, travaillez la désensibilisation avec des enregistrements diffusés très bas. Si la panique est forte, parlez-en à votre vétérinaire avant la saison des orages.
 
-- Habituez **progressivement** votre chien aux voyages en voiture en commençant par de courts trajets.
-- Emmenez votre chien dans des **promenades** en voiture agréables, en l’emmenant dans des endroits qu’il apprécie.
-- Fournissez à votre chien un endroit sûr et **confortable** dans la voiture, comme une caisse ou un **[harnais de sécurité](https://letourno.com/produit/chiens/accessoires-chiens/harnais-colliers-laisses/rc-pets-harnais-de-voiture-pour-chien/)**.
-- Faites des **pauses** fréquentes pendant les longs trajets pour permettre à votre chien de se dégourdir et de faire ses besoins.
-- Offrez\-lui des **jouets anti\-stress** afin qu’il puisse s’occuper pendant le trajet.
+### Mon chien est stressé en voiture, que faire ?
 
-## Meilleurs anti\-stress pour chien
+Vérifiez d'abord qu'il n'a pas le mal des transports (bave, vomissements) : votre vétérinaire peut le traiter. Puis réhabituez-le par étapes : monter dans la voiture à l'arrêt avec une friandise, puis moteur allumé, puis quelques mètres, puis un trajet court vers un endroit agréable.
 
-Les **meilleurs antistress** pour chiens comprennent différentes solutions naturelles, comportementales et médicales. Voici une selection de solution préventives pour chiens anxieux :
+### Un chien stressé peut-il tomber malade ?
 
-### Diffuseurs et sprays calmants
+Un stress qui dure peut s'accompagner de troubles digestifs, de léchages qui abîment la peau ou d'une baisse d'appétit. C'est une raison de plus pour traiter la cause tôt.
 
-Les diffuseurs ou colliers contenant des **phéromones apaisantes**, comme « **[Adaptil](https://www.adaptil.fr/collections/frontpage?gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL-nLBllcvFgHy2B1t59xZae7HZ5fOdjT_pX_4Uf9mZetwwueAaWRFxoCOfcQAvD_BwE)**« , reproduisent les odeurs produites par une chienne qui allaite. Ces phéromones ont un effet **calmant** et peuvent aider à réduire le **stress** dans des situations comme un déménagement ou l’arrivée d’un nouveau membre dans la famille. C’est une solution **douce**, souvent utilisée en complément d’autres techniques de **gestion du stress**.
+</section>
 
-### **Musique relaxante**
+## Sources
 
-Certaines études montrent que les chiens réagissent bien à la **musique apaisante**, surtout les sons doux comme le classique ou des **fréquences** spécifiques pour les animaux. Jouer de la musique relaxante peut aider à réduire **l’anxiété** lors d’événements stressants, comme les feux d’artifice ou les orages. Vous pouvez également trouver des **playlists** spécialement conçues pour les chiens, qui les aident à se détendre.
-
-### **Compléments alimentaires**
-
-Il existe des compléments alimentaires naturels à base de **plantes** comme la **camomille**, la **valériane**, ou même des produits à base de **CBD**, connus pour leurs propriétés relaxantes et anti stress. Ces suppléments peuvent être utilisés pour calmer **l’anxiété légère à modérée**, en particulier dans les situations temporaires comme les voyages ou les visites chez le vétérinaire. Ils doivent être administrés sous les conseils d’un **vétérinaire** pour éviter tout risque d’interaction ou de surdosage.
-
-### **Thérapie comportementale**
-
-La thérapie comportementale consiste à aider votre chien à gérer son stress à travers des techniques de **désensibilisation** progressive et de renforcement positif. Par exemple, si votre chien a peur des bruits forts, vous pouvez l’habituer progressivement en augmentant doucement le volume dans un environnement contrôlé. Avec le temps et des récompenses **positives**, votre chien peut apprendre à associer ces situations à des expériences moins effrayantes, réduisant ainsi son **stress** adopter un comportement calme et détendu.
-
-### Coussin anti stress chien
-
-Les **[coussins anti\-stress](https://mrfluffyfriend.fr/collections/produits/products/coussin-chien?gc_id=21677552052&h_ad_id=&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL2uMdL89txp2L3zEQRcAUYa5I9ikKrOb9igs3bwEOmHnL-0BLS0tmBoCJQMQAvD_BwE)**chiens, souvent conçus avec des matériaux doux et des formes enveloppantes, offrent un lieu de repos **rassurant**. Leur design peut imiter un **nid** **douillet**, ce qui aide à réduire l’anxiété en créant un sentiment de **sécurité** et de confort. Ces coussins sont particulièrement bénéfiques pour les chiens souffrant de **stress**, car ils leur offrent un espace apaisant où se détendre, surtout après des situations stressantes ou en cas de **solitude**.
-
-### Colliers anti\-stress
-
-Les **colliers** anti\-stress pour chiens, comme ceux contenant des **phéromones apaisantes**, sont efficaces car ils diffusent en continu des substances qui imitent les hormones **calmantes** naturelles des chiennes allaitantes. Cela aide à réduire **l’anxiété** et à créer un sentiment de sécurité chez le chien, sans effet sédatif. Faciles à utiliser, ils peuvent être portés en **permanence** et sont particulièrement utiles lors de situations stressantes, comme un déménagement ou des changements de routine.
-
-### Jouets à mâcher
-
-Les jouets à mâcher sont excellents pour **réduire le stress** chez les chiens, car ils répondent à leur besoin naturel de mastiquer, ce qui les aide à se **détendre**. La mastication libère des **endorphines**, les hormones du bien\-être, procurant un effet apaisant et anti\-stress tout en les occupant mentalement. De plus, ces jouets renforcent la **santé** **dentaire** en nettoyant les dents et en massant les gencives, tout en réduisant les comportements destructeurs liés à l’ennui ou à **l’anxiété**.
-
- 
-
-![chien mange friandise](https://guidecanin.fr/wp-content/uploads/2024/09/friandise-chien-300x200.jpg)
-
- 
-
-## **Questions fréquemment posées sur le stress des chiens**
-
-- ### **Quels sont les déclencheurs de stress les plus courants chez les chiens ?**
-
-	- Les déclencheurs de stress les plus courants comprennent les changements d’environnement, les bruits forts, les interactions sociales négatives, les problèmes de santé et l’ennui. Cette liste n’est pas exhaustive, chaque chien peut avoir des sources d’anxiété très différente !
-- ### **Comment savoir si mon chien est stressé ?**
-
-	- Les signes de stress chez les chiens comprennent l’agitation, l’aboiement excessif, le léchage excessif, les comportements destructeurs, les changements d’appétit et les troubles du sommeil. Il est essentiel n’analyser le comportement de votre chien et d’identifier les sources de son anxiété.
-- ### **Quels sont les meilleurs produits pour réduire le stress chez les chiens ?**
-
-	- Les produits pour réduire le stress chez les chiens comprennent les diffuseurs et les sprays calmants, les colliers anti\-stress, les jouets à mâcher et les suppléments naturels.
-
-- ### **Comment choisir le bon produit pour mon chien ?**
-
-	- Le meilleur produit pour réduire le stress chez votre chien dépend de ses besoins et de ses préférences individuels. Consultez un vétérinaire pour obtenir des conseils sur le produit le plus approprié. Vous pouvez aussi opter pour des produit anti stress pour chien comme des coussin anti\-stress ou des colliers.
-- ### **Quand dois\-je demander l’aide d’un professionnel ?**
-
-	- Si le stress de votre chien est sévère ou chronique, ou si vous ne parvenez pas à le gérer efficacement à la maison, il est important de demander l’aide d’un vétérinaire ou d’un comportementaliste animalier.
+- Turid Rugaas, *Les signaux d'apaisement : la base de la communication canine* (édition originale : *On Talking Terms with Dogs: Calming Signals*)
+- Bowman A., Dowell F. J., Evans N. P., « The effect of different genres of music on the stress levels of kennelled dogs », *Physiology & Behavior*, 2017, vol. 171, p. 207-215 : [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/28093218/)
+- Vieira de Castro A. C. et al., « Does training method matter&#63; Evidence for the negative impact of aversive-based methods on companion dog welfare », *PLOS ONE*, 2020 : [doi.org/10.1371/journal.pone.0225023](https://doi.org/10.1371/journal.pone.0225023)

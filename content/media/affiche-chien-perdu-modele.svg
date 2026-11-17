@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842" width="1240" height="1754" role="img" aria-labelledby="t d">
+  <title id="t">Modèle d'affiche chien perdu</title>
+  <desc id="d">Affiche A4 : bandeau « CHIEN PERDU », grande zone photo, nom du chien, signes distinctifs, lieu et date de disparition, consigne de ne pas le poursuivre, numéro de téléphone en très grand et languettes détachables.</desc>
+  <rect width="595" height="842" fill="#ffffff"/>
+  <rect x="0" y="0" width="595" height="110" fill="#c62828"/>
+  <text x="297.5" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#ffffff">CHIEN PERDU</text>
+  <rect x="40" y="130" width="515" height="300" fill="#eeeeee" stroke="#9e9e9e" stroke-dasharray="8 6"/>
+  <text x="297.5" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#616161">Photo récente, en entier, de profil</text>
+  <text x="297.5" y="300" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#757575">(une seule photo, nette, qui occupe tout le cadre)</text>
+  <text x="40" y="475" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#212121">NOM : ............................</text>
+  <text x="40" y="515" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#212121">Race / gabarit / couleur : ..........................................</text>
+  <text x="40" y="547" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#212121">Signe distinctif : .............................................................</text>
+  <text x="40" y="579" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#212121">Perdu le ......./......./......... à .........................................</text>
+  <rect x="40" y="600" width="515" height="56" fill="#fff3e0"/>
+  <text x="297.5" y="636" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#e65100">Ne le poursuivez pas : appelez-nous tout de suite</text>
+  <text x="297.5" y="712" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" fill="#212121">06 .. .. .. ..</text>
+  <text x="297.5" y="742" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#616161">Chien identifié (puce) · déclaré perdu au fichier I-CAD</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#212121">
+    <line x1="0" y1="762" x2="595" y2="762" stroke="#9e9e9e" stroke-dasharray="4 4"/>
+    <g id="l"><line x1="74" y1="762" x2="74" y2="842" stroke="#9e9e9e" stroke-dasharray="4 4"/><text transform="translate(42 834) rotate(-90)">06 .. .. .. ..</text></g>
+    <use href="#l" x="74"/><use href="#l" x="148"/><use href="#l" x="222"/><use href="#l" x="296"/><use href="#l" x="370"/><use href="#l" x="444"/>
+    <text transform="translate(560 834) rotate(-90)">06 .. .. .. ..</text>
+  </g>
+</svg>
