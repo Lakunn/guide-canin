@@ -240,3 +240,54 @@ add_action(
 	},
 	0
 );
+
+/*
+ * Depuis que Rank Math n'écrit plus dans le <head>, les contenus importés perdaient leur meta description (elle
+ * était saisie dans Rank Math, pas dans Yoast). Yoast reprend donc, dans l'ordre : sa propre description, celle de
+ * git, celle de Rank Math, puis un extrait du contenu.
+ */
+function vr_fallback_description() {
+	$clean = function ( $s ) {
+		$s = trim( wp_strip_all_tags( strip_shortcodes( (string) $s ) ) );
+		return ( '' === $s || false !== strpos( $s, '%' ) ) ? '' : $s;
+	};
+	if ( is_singular() ) {
+		$id = get_queried_object_id();
+		foreach ( array( get_post_meta( $id, 'vr_meta_description', true ), get_post_meta( $id, 'rank_math_description', true ), get_post_field( 'post_excerpt', $id ) ) as $cand ) {
+			if ( '' !== $clean( $cand ) ) {
+				return $clean( $cand );
+			}
+		}
+		return wp_trim_words( $clean( get_post_field( 'post_content', $id ) ), 26, '…' );
+	}
+	if ( is_category() || is_tag() || is_tax() ) {
+		$term = get_queried_object();
+		foreach ( array( get_term_meta( $term->term_id, 'rank_math_description', true ), term_description( $term ) ) as $cand ) {
+			if ( '' !== $clean( $cand ) ) {
+				return $clean( $cand );
+			}
+		}
+		return sprintf( 'Tous les articles de Guide Canin sur le thème « %s » : conseils pratiques, sources vétérinaires et outils gratuits.', $term->name );
+	}
+	if ( is_front_page() || is_home() ) {
+		return $clean( get_bloginfo( 'description' ) );
+	}
+	return '';
+}
+add_filter(
+	'wpseo_metadesc',
+	function ( $desc ) {
+		return '' !== trim( (string) $desc ) ? $desc : vr_fallback_description();
+	},
+	100
+);
+
+/* Certains titres importés contiennent des balises (« <h1>Apprendre le rappel…</h1> ») : H1 imbriqués dans les
+   cartes et les pages. On n'affiche que le texte. */
+add_filter(
+	'the_title',
+	function ( $title ) {
+		return is_admin() ? $title : wp_strip_all_tags( (string) $title );
+	},
+	1
+);
