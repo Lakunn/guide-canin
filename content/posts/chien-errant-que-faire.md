@@ -63,6 +63,23 @@ Si le chien n'a pas de puce, si personne ne répond, ou si vous ne pouvez pas l'
 
 C'est la fourrière qui récupère les animaux errants et recherche leur propriétaire, qu'ils soient identifiés ou non.
 
+## La nuit, le week-end ou un jour férié
+
+C'est la situation la plus fréquente, et celle où l'on se sent le plus seul : la mairie est fermée, le vétérinaire aussi.
+
+- **Appelez quand même la mairie** : beaucoup de communes ont un numéro d'astreinte, indiqué sur leur répondeur ou leur site, et une convention avec une fourrière qui intervient le soir et le week-end.
+- **À défaut, le commissariat ou la gendarmerie** : ce sont eux qui prennent le relais en dehors des heures d'ouverture, notamment pour un chien qui divague sur la route.
+- **Les cliniques vétérinaires de garde** ont un lecteur de puce. Le service de garde de votre secteur est indiqué sur le répondeur de votre vétérinaire habituel.
+- **La déclaration sur I-CAD**, elle, se fait à toute heure, en ligne ou dans l'appli Filalapat, dès que vous avez le numéro.
+
+Si vous pouvez héberger le chien jusqu'au lendemain matin en sécurité, faites-le, puis appelez la mairie à l'ouverture. Prévenez quand même la gendarmerie ou la police le soir même : si le propriétaire les appelle pendant la nuit, ils pourront le mettre en relation avec vous.
+
+## Le chien a l'air dangereux, ou il vous a mordu
+
+Un chien qui grogne, montre les dents ou charge ne s'approche pas, même pour lire sa puce. Mettez-vous à l'abri (voiture, portail, magasin), éloignez les enfants, et appelez la police ou la gendarmerie en donnant l'endroit précis et la direction qu'il prend. Ne lui jetez rien et ne criez pas : cela augmente son stress.
+
+Si le chien vous a mordu, lavez la plaie à l'eau et au savon pendant plusieurs minutes, désinfectez, et **consultez un médecin le jour même** : avec un chien inconnu, impossible de savoir s'il est vacciné, et le médecin doit évaluer le risque. Notez le plus de détails possible sur le chien (taille, couleur, collier) et signalez la morsure à la mairie ou à la gendarmerie, pour qu'il puisse être retrouvé et placé sous surveillance vétérinaire. Les démarches sont détaillées dans notre article [morsure de chien : que faire](/que-faire-en-cas-de-morsures-de-chien/).
+
 ## Peut-on garder le chien chez soi ?
 
 Pour une nuit, le temps que la mairie ou la fourrière ouvre, c'est un service rendu. Mais **le garder sans le déclarer** prive le propriétaire de toute chance de le retrouver : il appelle la fourrière et I-CAD, pas les particuliers. Un chien trouvé reste le chien de son maître.
@@ -109,6 +126,10 @@ La plupart des vétérinaires la font sans frais pour un animal trouvé. Appelez
 ### Que faire si le chien trouvé est agressif ?
 
 Ne le touchez pas. Éloignez-vous, notez l'endroit et l'heure, et appelez la mairie ou, à défaut, la police ou la gendarmerie, qui feront intervenir la fourrière.
+
+### Où vont les chiens après la fourrière ?
+
+S'ils ne sont pas réclamés dans le délai de 8 jours ouvrés, ils sont confiés, sur avis d'un vétérinaire, à une association ou une fondation de protection animale, qui les propose à l'adoption.
 
 ### Peut-on déposer un chien trouvé dans un refuge ?
 

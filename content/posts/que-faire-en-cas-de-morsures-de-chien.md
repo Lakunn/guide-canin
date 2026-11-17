@@ -104,6 +104,14 @@ Parlez-en au vétérinaire évaluateur, et faites-vous accompagner par un éduca
 
 ## Questions fréquentes
 
+### Une morsure superficielle, sans saignement, doit-elle être soignée ?
+
+Oui : lavez à l'eau et au savon et désinfectez, même si la peau est à peine marquée. Surveillez les jours suivants. Si la peau a été percée, que le vaccin antitétanique n'est pas à jour, ou qu'une rougeur ou un gonflement apparaît, consultez.
+
+### Que faire si mon chien a été mordu par un autre chien ?
+
+Séparez les chiens sans mettre les mains entre eux, puis examinez votre chien : les morsures se cachent souvent sous le poil, et une petite plaie en surface peut cacher des dégâts plus profonds. Consultez votre vétérinaire le jour même, même si la plaie paraît minime : les morsures entre chiens s'infectent facilement. Échangez vos coordonnées avec l'autre propriétaire pour l'assurance. Notre article sur [la bagarre entre chiens](/gerer-bagarre-chien/) explique comment les séparer sans se faire mordre.
+
 ### Faut-il déclarer une morsure sur un membre de la famille ?
 
 Oui. L'obligation de déclaration et de surveillance vaut quelle que soit la personne mordue, y compris dans le foyer.
