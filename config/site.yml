@@ -71,7 +71,9 @@ categories:
     name: Classements de races
     on_home: false
 
-canonical_overrides: {}
+canonical_overrides:
+  calmants-chien-destructeur: /chien-destructeur-que-faire/
+  les-erreurs-deducation-canine-courantes-et-a-eviter-avec-un-chien-destructeur: /chien-destructeur-que-faire/
 legacy_redirects: []
 
 nav:

@@ -1,184 +1,108 @@
 ---
-title: 'Chien destructeur : que faire, comment réagir ?'
+title: "Chien destructeur : trouver la cause et le faire arrêter"
 slug: chien-destructeur-que-faire
 status: publish
 date: '2024-05-01T13:46:15'
-origin: import
+origin: rewrite
 wp_id: 259
 url: https://guidecanin.fr/chien-destructeur-que-faire/
-seo_title: 'Chien destructeur : que faire, comment réagir ? - Guide Canin'
-meta_description: Découvrez comment gérer un chien destructeur grâce à nos conseils pratiques et exercices concrets. Identifiez les causes du comportement destructeur et apprenez à y remédier pour un chien plus heureux et un foyer harmonieux.
+seo_title: "Chien destructeur : causes, solutions et erreurs à éviter"
+meta_description: "Chien qui détruit tout : dents du chiot, ennui ou peur d'être seul ? Les signes de chaque cause, quoi faire, les erreurs qui aggravent et les calmants."
 categories:
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 745
+dek: "Un chien ne détruit pas par vengeance. Il mâchonne parce qu'il fait ses dents, s'ennuie, manque d'activité ou panique quand il est seul. Trouvez la cause avec les indices ci-dessous : la solution en découle, et la punition après coup aggrave presque toujours les choses."
+essentiel:
+  - "Quatre causes principales : dentition du chiot, ennui ou manque d'activité, anxiété de séparation, exploration d'un chien jeune ou peu éduqué."
+  - "Indice clé : un chien qui ne détruit **que quand il est seul**, surtout portes et fenêtres, et dans la première demi-heure, souffre probablement d'anxiété de séparation."
+  - "Gronder un chien en rentrant ne sert à rien : il ne relie pas la punition à ce qu'il a fait il y a une heure."
+  - "Les calmants ne s'achètent pas au hasard : seul un vétérinaire peut prescrire un traitement, en complément d'un travail d'éducation."
+sources:
+  - "Vieira de Castro A. C. et al., Does training method matter? Evidence for the negative impact of aversive-based methods on companion dog welfare, PLOS ONE, 2020 : https://doi.org/10.1371/journal.pone.0225023"
+  - "AVSAB, position statements (méthodes d'éducation, socialisation) : https://avsab.org/resources/position-statements/"
 ---
 
-Les chiens destructeurs peuvent être une source de frustration pour de nombreux propriétaires, mais ce comportement cache souvent des besoins non satisfaits. Que ce soit dû à l’ennui, à l’anxiété de séparation ou à un manque d’exercice, un chien qui détruit meubles, chaussures ou autres objets exprime un mal\-être. Comprendre les causes de cette attitude est essentiel pour y remédier efficacement. Dans cet article, nous allons explorer les raisons derrière les comportements destructeurs chez les chiens et proposer des solutions pour y mettre fin, tout en assurant leur bien\-être. Apprenez à reconnaître les signaux et à transformer ces comportements.
+Un chien qui détruit ne se venge pas et ne « sait » pas qu'il a mal fait. Il mâchonne parce qu'il a besoin de mâcher, qu'il s'ennuie, qu'il a trop d'énergie ou qu'il panique quand il est seul. La première étape est donc de trouver la cause : selon ce qu'il détruit, quand et comment, la solution n'est pas la même.
 
-## **Mon chien détruit tout, pourquoi ?**
+## Pourquoi votre chien détruit : les 4 causes et leurs indices
 
-Les chiens peuvent devenir destructeurs pour diverses raisons, notamment l’anxiété de séparation, le manque de stimulation mentale et physique, ou des besoins non satisfaits. Comme pour les [chiens aggressifs](https://guidecanin.fr/chien-agressif-que-faire/), ces différentes exercices peuvent vous aider à mieux comprendre et aider votre chien.
+| Cause | Indices | Ce qui aide |
+|---|---|---|
+| **Le chiot fait ses dents** (environ 3 à 7 mois) | Il mâchonne tout ce qui est à sa hauteur, en votre présence comme en votre absence, objets mous de préférence | Jouets à mâcher adaptés, objets interdits hors de portée, échange contre un jouet |
+| **Ennui, manque d'activité** | Destructions surtout les jours sans vraie sortie, chien jeune ou de race active, objets variés | Plus de flair et de dépense, jouets à garnir, rotation des jouets |
+| **Anxiété de séparation** | **Uniquement quand il est seul**, souvent dans la première demi-heure, près des portes et fenêtres, avec aboiements, hurlements, bave ou pipi | Travail progressif de la solitude, vétérinaire si sévère |
+| **Exploration, règles floues** | Chien jeune ou adopté récemment, il prend chaussures et télécommandes devant vous, souvent pour jouer | Rangement, apprentissage du « donne », activités proposées |
 
-### 1\. Anxiété de séparation : votre chien est destructeur quand il est seul
+Deux autres pistes à ne pas oublier : la **douleur** (un chien qui se met soudain à mâchonner, surtout s'il est adulte, peut avoir mal aux dents ou au ventre) et la **faim** (régime trop strict, chien qui vole et déchire les emballages). Dans le doute, une visite chez le vétérinaire écarte une cause médicale.
 
-Certains chiens souffrent d’anxiété lorsqu’ils sont laissés seuls, ce qui les pousse à mâcher, gratter ou détruire des objets pour gérer leur stress. Si votre chien est destructeur et adopte les comportements suivant, il souffre certainement d’anxiété de séparation :
+## Ce qu'il faut faire, selon la cause
 
-1. **Comportements destructeurs en votre absence** : Le chien peut détruire des objets, gratter les portes ou les fenêtres, creuser, ou mâcher des meubles lorsqu’il est seul.
-2. **Vocalisations excessives** : Aboyer, gémir ou hurler de manière excessive dès que vous quittez la maison est un signe courant d’anxiété de séparation.
-3. **Agitation avant votre départ** : Un chien anxieux peut vous suivre partout, montrer des signes d’inquiétude comme trembler ou haleter, et réagir de manière excessive à vos gestes préparant votre départ (comme prendre les clés).
-4. **Problèmes d’élimination** : Certains chiens souffrant d’anxiété de séparation peuvent faire leurs besoins à l’intérieur, même s’ils sont normalement bien éduqués.
-5. **Refus de manger ou de boire** : Un chien anxieux peut refuser de manger ou boire tant que vous n’êtes pas à la maison.
+### Un chiot qui fait ses dents
 
-### **Solutions pour régler ce problème de comportement de chien destructeur :**
+- Rangez ce qui compte (chaussures, câbles, télécommandes) et barrez l'accès aux pièces à risque avec une barrière.
+- Donnez-lui deux ou trois jouets à mâcher de textures différentes, et changez-les régulièrement. Pour choisir des jouets sûrs, voyez [notre guide des jouets résistants](/jouets-indestructibles-chien/).
+- Quand il attrape un objet interdit, ne lui courez pas après : proposez un jouet ou une friandise en échange, et félicitez-le quand il lâche.
 
-1. **Désensibilisation progressive** : Apprenez à votre chien à tolérer vos absences en commençant par de courtes périodes de solitude (quelques minutes), puis en augmentant progressivement la durée. Ne faites pas un grand départ ou un retour spectaculaire pour ne pas renforcer son anxiété.
-2. **Créez une routine rassurante** : Donnez\-lui un jouet interactif, comme un jouet distributeur de friandises, ou laissez une musique apaisante pour le distraire pendant votre absence.
-3. **Entraînement à l’indépendance** : Encouragez votre chien à passer du temps seul, même lorsque vous êtes à la maison, en le laissant dans une autre pièce avec des jouets ou friandises pour qu’il s’habitue à être séparé de vous.
-4. **Utiliser un espace sécurisé** : Si votre chien se sent mieux dans un espace confiné, utilisez une cage d’entraînement ou une pièce sécurisée pour qu’il se sente en sécurité lorsqu’il est seul.
-5. **Consultez un professionnel** : Si le problème persiste malgré ces efforts, un comportementaliste canin ou un vétérinaire pourra vous aider avec des méthodes plus adaptées, ou des traitements spécifiques en cas d’anxiété sévère et de comportement de chien destructeur.
+### Un chien qui s'ennuie
 
-En agissant progressivement et de manière positive, il est possible de réduire l’anxiété de séparation de votre chien et d’améliorer son bien\-être lors de vos absences.
+La destruction est souvent un trop-plein d'énergie. Ajoutez avant les moments où il reste seul :
 
-![chien destructeur chaussures](https://guidecanin.fr/wp-content/uploads/2024/10/chien-destructeur-chaussure.jpg)
-#### **Exercice de Désensibilisation et Contre\-Conditionnement**
+- une promenade où il peut **renifler** librement, plus fatigante qu'une marche rapide en laisse courte ;
+- un jeu de flair (croquettes cachées dans l'herbe ou dans un tapis de fouille) ;
+- un jouet en caoutchouc garni d'une partie de sa ration, éventuellement congelé.
 
-- **Étape 1** : Commencez par de courtes absences. Laissez votre [chien seul](https://guidecanin.fr/chien-rester-seul-journee/) pendant quelques minutes, puis revenez avant qu’il ne devienne anxieux.
-- **Étape 2** : Augmentez progressivement la durée de vos absences.
-- **Étape 3** : Associez vos départs à quelque chose de positif, comme un jouet Kong rempli de friandises.
+Nos idées concrètes sont dans [Comment fatiguer son chien](/fatiguer-son-chien/).
 
-#### **Entraînement au Calme**
+### Un chien qui panique quand il est seul
 
-- **Étape 1** : Apprenez à votre chien destructeur à rester calme sur un tapis ou dans un panier. Utilisez des commandes comme « reste » ou « au panier ».
-- **Étape 2** : Récompensez le calme et ignorez les comportements d’agitation.
+C'est la cause la plus difficile, et celle que la punition aggrave le plus. Le travail consiste à lui apprendre que vos départs ne sont pas un drame, par absences très courtes et rallongées progressivement, en ne dépassant jamais son seuil de panique. La méthode pas à pas est dans notre article sur [l'anxiété de séparation](/anxiete-separation-chien/), et les durées raisonnables dans [Combien de temps un chien peut-il rester seul ?](/chien-rester-seul-journee/).
 
-### 2\. Manque de stimulation mentale et physique : votre chien est destructeur car il manque d’occupation
+Une caméra ou un enregistrement audio pendant votre absence vous dit vite s'il dort, joue ou panique.
 
-Si un chien destructeur n’est pas suffisamment stimulé mentalement ou physiquement, il peut se tourner vers des comportements destructeurs pour se divertir.
+## Les erreurs qui aggravent les destructions
 
-1. **Signes de comportements destructeurs** : Un chien qui s’ennuie peut mâcher des meubles, creuser dans le jardin ou gratter aux portes. Il peut aussi s’en prendre à des objets inappropriés comme des chaussures ou des vêtements.
-2. **Hyperactivité** : Le chien peut devenir excessivement excité, courir sans raison dans la maison ou sauter sur les gens pour attirer l’attention.
-3. **Aboiements ou pleurs fréquents** : Un chien destructeur qui s’ennuie peut vocaliser davantage, cherchant à combler le manque de stimulation par des aboiements ou des pleurs.
-4. **Manque d’attention** : Il peut sembler peu intéressé par les jouets habituels ou par les interactions sociales, signe d’un besoin de nouveauté ou de défis.
+1. **Gronder ou punir en rentrant.** Le chien ne relie pas votre colère à ce qu'il a fait il y a une heure ; il associe votre retour à quelque chose de désagréable. Son air « coupable » est une réaction à votre attitude, pas un aveu.
+2. **Lui mettre le nez dans les dégâts.** Même chose : aucun lien compris, stress en plus.
+3. **Laisser tout à sa portée « pour qu'il apprenne ».** Chaque objet détruit est une expérience agréable de plus : il mâchonnera encore.
+4. **Ne lui laisser aucun jouet.** Un chien a besoin de mâcher : sans objet autorisé, il en trouvera un.
+5. **Les méthodes par la contrainte** (cris, colliers électriques ou à pointes). Une étude de 2020 a observé plus de signes de stress chez les chiens éduqués ainsi que chez ceux éduqués par la récompense. Un chien plus stressé détruit davantage.
+6. **Le laisser seul trop longtemps trop tôt**, surtout un chiot ou un chien qui vient d'arriver.
 
-### **Solutions pour régler le problème d’ennui et de destruction chez le chien :**
+## Et les calmants ?
 
-1. **Augmenter l’activité physique** : Les chiens qui s’ennuient ont souvent besoin de plus d’exercice. Augmenter la durée des promenades, les laisser courir en liberté dans un espace sécurisé ou jouer à des jeux actifs (comme le lancer de balle) peuvent les aider à se dépenser.
-2. **Stimulation mentale** : Introduisez des jouets interactifs comme des puzzles, des jouets à friandises ou des jeux d’odorat. Ces activités occupent leur esprit et les tiennent engagés plus longtemps.
-3. **Entraînement régulier** : Pratiquer des sessions d’entraînement d’obéissance ou apprendre de nouveaux tours est une bonne façon de stimuler mentalement un chien et de renforcer votre relation avec lui.
-4. **Socialisation et interaction** : Permettre à votre chien de rencontrer d’autres chiens ou personnes pendant les promenades, ou de participer à des activités sociales, aide à le divertir et à l’occuper de manière positive.
+On trouve en animalerie et en pharmacie des « calmants » pour chiens : compléments alimentaires, diffuseurs de phéromones, colliers apaisants, produits à base de plantes. Les études à leur sujet donnent des résultats partagés : ils peuvent aider un peu certains chiens, jamais remplacer le travail sur la cause.
 
-Ces solutions, combinant stimulation physique et mentale, peuvent prévenir l’ennui et réduire les comportements destructeurs chez votre chien.
+Pour une vraie anxiété de séparation ou une peur intense, le vétérinaire peut prescrire un **médicament vétérinaire**, toujours associé à une thérapie comportementale. Seul lui peut juger s'il est utile et à quelle dose. Ne donnez jamais à votre chien un anxiolytique, un somnifère ou une plante destinés aux humains : certains sont toxiques pour lui. Pour reconnaître les signes de stress, voyez [Chien stressé : reconnaître les signes](/stress-chien-comment-gerer/).
 
-#### **Jeux de Réflexion**
+<div class="callout" markdown="1">
 
-- **Jeu de Cachette** : Cachez des friandises dans la maison et encouragez votre chien à les trouver.
-- **Puzzle Toys** : Utilisez des jouets interactifs qui stimulent mentalement votre chien.
+### Quand consulter
 
-#### **Exercice Physique Quotidien**
+- **Vétérinaire, rapidement** : chien adulte qui se met à détruire sans changement de vie, chien qui s'est blessé (dents, griffes, pattes) en cherchant à sortir, chien qui a avalé des morceaux (vomissements, ventre douloureux, plus de selles : urgence).
+- **Vétérinaire comportementaliste** : panique à chaque absence, destructions qui ne diminuent pas après quelques semaines de travail.
 
-- **Balades Régulières** : Faites des promenades quotidiennes d’au moins 30 minutes.
-- **Jeux de Rapport** : Jouez à rapporter la balle ou le frisbee pour dépenser son énergie.
+</div>
 
-![](https://guidecanin.fr/wp-content/uploads/2024/10/chien-destructeur-mastication-1.jpg)
-### 3\. Besoins de Mastication des chiens destructeurs
+<section class="faq" markdown="1">
 
-Les chiens ont naturellement besoin de mastiquer. Fournir des objets appropriés peut prévenir le comportement de chien destructeur.
+## Questions fréquentes
 
-1. **Besoins physiologiques** : Les chiens ont un instinct de mâcher, hérité de leurs ancêtres, qui les aide à renforcer leur mâchoire et à maintenir leurs dents en bonne santé. En mâchant, ils nettoient leurs dents et réduisent la plaque dentaire, aidant ainsi à prévenir les maladies bucco\-dentaires.
-2. **Réduction du stress** : Mâcher est une activité apaisante pour les chiens. Elle leur permet de se détendre et de libérer des endorphines, ce qui aide à diminuer le stress, l’anxiété, et les tensions. C’est particulièrement utile pour les chiens qui s’ennuient ou souffrent d’anxiété de séparation.
-3. **Stimulation mentale** : La mastication occupe l’esprit du chien, lui offrant une forme de stimulation mentale. Un chien qui mâche est moins susceptible de s’ennuyer et de développer des comportements destructeurs, car cela le garde occupé et satisfait.
+### Mon chien détruit seulement quand je pars : est-ce de la vengeance ?
 
-En fournissant à votre chien des jouets de mastication adaptés, vous comblez un besoin naturel tout en favorisant son bien\-être physique et mental.
+Non. Un chien ne raisonne pas en termes de vengeance. Des destructions uniquement en votre absence, près des portes, orientent vers l'anxiété de séparation ou l'ennui.
 
-#### **Jouets de Mastication** pour chien destructeur
+### À quel âge un chien arrête-t-il de tout détruire ?
 
-- **Os et Bois de Cerf** : Offrez des os adaptés et des bois de cerf pour mastiquer.
-- **Jouets en Caoutchouc** : Des jouets solides comme les Kongs peuvent être remplis de friandises.
+La phase de dentition se termine vers 6 à 7 mois, mais l'exploration peut durer jusqu'à 2 ans chez les races actives. Avec des jouets autorisés et assez d'activité, la plupart des chiens se calment nettement en grandissant.
 
-En effet, les [**jouets Kong**](https://www.kongcompany.com/fr/) pour chien destructeurs sont réputés pour être indestructibles ! Retrouver d’autres **[idées de jouets indestructibles](https://guidecanin.fr/jouets-indestructibles-chien/)** de ce type dans notre article dédié.
+### Faut-il prendre un deuxième chien pour qu'il ne s'ennuie pas ?
 
-### 4\. 6\. **Problèmes de comportement ou d’éducation** : socialisation et entraînement positif
+Ce n'est pas une solution à l'anxiété de séparation : le chien est souvent attaché à vous, pas à un congénère. Pour l'ennui, cela peut aider, mais c'est un engagement de plus de dix ans à ne pas prendre pour régler un problème de comportement.
 
-Un chien bien socialisé et correctement entraîné est moins susceptible d’adopter des comportements destructeurs.
+</section>
 
-1. **Comportement craintif ou agressif envers les autres** : Un chien mal socialisé peut réagir avec peur ou agressivité envers d’autres chiens, des personnes ou des situations nouvelles. Il peut aboyer, grogner ou se montrer sur la défensive en présence de nouveaux stimuli.
-2. **Isolation ou attachement excessif** : Le chien peut se montrer trop dépendant de son propriétaire, refusant d’interagir avec d’autres personnes ou chiens, ou au contraire, devenir destructeur quand il se sent isolé, faute de contacts sociaux réguliers.
-3. **Destruction après des interactions sociales ratées** : Le chien peut devenir destructeur après des expériences stressantes avec d’autres chiens ou des personnes, ou après avoir été laissé seul sans compagnie régulière.
+## Sources
 
-### **Solutions socialiser un chien destructeur :**
-
-1. **Réintroduire des contacts sociaux progressivement** : Commencez par des interactions courtes et positives avec des chiens ou des personnes calmes et amicales. Utilisez des récompenses pour encourager les comportements positifs et créez des expériences agréables pour le chien, afin de réduire son anxiété sociale.
-2. **Inscrire le chien à des cours de socialisation** : Participer à des classes de socialisation ou des groupes de jeux canins encadrés peut aider votre chien à apprendre à interagir correctement avec d’autres chiens et personnes, dans un environnement sécurisé et contrôlé.
-3. **Offrir des alternatives à la destruction** : Fournissez des jouets de mastication ou d’enrichissement pour occuper son esprit et prévenir les comportements destructeurs. En combinant socialisation et stimulation mentale, vous pourrez mieux gérer ses frustrations.
-4. **Restez patient et cohérent** : La réhabilitation d’un chien mal socialisé prend du temps. Soyez patient et cohérent dans votre approche pour encourager des interactions positives et diminuer son comportement destructeur.
-
-En réintroduisant progressivement des interactions sociales et en offrant des activités stimulantes, vous aiderez votre chien à se sentir plus à l’aise dans son environnement et à réduire les comportements destructeurs liés à la socialisation.
-
-![chien destructeur méchant](https://guidecanin.fr/wp-content/uploads/2024/10/chien-destructeur-mechant.jpg)
-### 7\. **Stress ou peur** : comment atténuer les comportements destructeurs de son chien
-
-Des bruits forts, des changements dans l’environnement ou la routine peuvent stresser un chien et provoquer des comportements destructeurs comme une réponse à ces situations.
-
-1. **Comportements destructeurs ciblés** : Un chien stressé peut commencer à mâcher des objets spécifiques, comme des chaussures, des meubles ou des portes, souvent en lien avec des moments de solitude ou d’anxiété.
-2. **Signes physiques de stress** : Le chien peut présenter des comportements comme un halètement excessif, des tremblements, un léchage excessif, ou un comportement agité. Les oreilles tirées en arrière, une posture tendue et une queue entre les jambes sont aussi des signes fréquents.
-3. **Changements dans la routine** : Si le stress survient après un changement récent (déménagement, absence prolongée du propriétaire, nouveau membre dans la famille), il peut déclencher des comportements destructeurs.
-4. **Hypervigilance et agitation** : Le chien peut avoir du mal à se calmer, être constamment en alerte, ou sursauter à des bruits ou des mouvements normaux.
-
-### **Solutions pour régler le problème de stress d’un chien destructeur :**
-
-1. **Créer un environnement apaisant** : Aménagez un espace calme et sécurisé où le chien peut se réfugier lorsqu’il est stressé. Vous pouvez utiliser des coussins anti\-stress ou des diffuseurs de phéromones apaisantes pour aider à réduire l’anxiété.
-2. **Augmenter les activités physiques et mentales** : Offrez des promenades régulières, des jeux d’enrichissement mental, ou des sessions d’entraînement pour canaliser l’énergie et réduire le stress. L’exercice est un excellent moyen d’évacuer la tension accumulée.
-3. **Encourager la relaxation avec des exercices de détente** : Des techniques comme le massage canin ou des sessions de relaxation guidée avec des sons apaisants peuvent aider à calmer votre chien. Certains chiens réagissent bien à la musique relaxante ou aux bruits blancs.
-4. **Consulter un vétérinaire ou comportementaliste** : Si le stress est intense ou persistant, un professionnel peut évaluer si des thérapies comportementales ou des traitements (comme des compléments anti\-stress ou, dans certains cas, des médicaments) sont nécessaires pour aider à gérer l’anxiété de votre chien.
-
-En réduisant les facteurs de stress, en créant un environnement rassurant et en stimulant physiquement et mentalement votre chien, vous pourrez atténuer ses comportements destructeurs liés au stress.
-
-## Les solutions médicamenteuses
-
-**Uniquement sur avis médical d’un vétérinaire**
-
-Les problèmes de comportement de chien destructeur persiste malgré les exercices ci\-dessus ? Vous pouvez discuter avec votre vétérinaire afin d’envisager des [calmants pour chiens destructeurs](https://guidecanin.fr/calmants-chien-destructeur/).
-
-Attention, en fonction de la cause du comportement à traiter, le calmants peut être différent, c’est pourquoi c’est primordiale de demander un avis médical.
-
-###
-
-## Chien destructeur : Causes et symptômes
-
-Un chien destructeur peut être un véritable cauchemar pour son propriétaire. Les causes de ce comportement sont multiples, et il est important de les comprendre pour trouver les solutions adéquates.
-
-Les causes peuvent être liées à des facteurs physiologiques ou psychologiques, tels que :
-
-- Ennui ou manque d’activité physique
-- Anxiété de séparation
-- Peur ou [stress](https://guidecanin.fr/stress-chien-comment-gerer/)
-- Troubles compulsifs
-- Problèmes dentaires ou médicaux
-
-Les symptômes d’un chien destructeur comprennent :
-
-- Mâcher des meubles, des jouets ou d’autres objets
-- Creuser des trous dans le jardin ou à l’intérieur de la maison
-- Aboyer ou hurler excessivement
-- Lécher ou gratter des surfaces de manière répétitive
-
-![chien destructeur jouet](https://guidecanin.fr/wp-content/uploads/2024/05/chien-jouet-indestructible-300x200.jpg)
-
-## Autres questions posées autour de cette thématique
-
-### **Pourquoi mon chien détruit\-il des objets la nuit ?**
-
-Les chien destructeur peuvent être plus actifs la nuit, surtout s’ils sont ennuyés ou anxieux. Assurez\-vous de leur fournir suffisamment d’exercice et de stimulation mentale pendant la journée, et créez un environnement apaisant pour la nuit.
-
-### **Mon chien détruit tout lorsqu’il est seul, que faire ?**
-
-L’[anxiété de séparation](https://guidecanin.fr/anxiete-separation-chien/) est une cause courante de comportements destructeurs chez les chiens. Suivez les conseils ci\-dessus pour gérer l’anxiété de votre chien et l’aider à se sentir plus à l’aise lorsqu’il est seul.
-
-### **Mon chiot est très destructeur, est\-ce normal ?**
-
-Les chiots ont tendance à être plus destructeurs que les chiens adultes, car ils sont encore en train d’apprendre à contrôler leurs comportements. Fournissez\-leur beaucoup de jouets à mâcher appropriés et soyez patient pendant qu’ils grandissent.
-
-### **Comment empêcher mon chien de creuser des trous dans le jardin ?**
-
-Les chiens creusent des trous pour diverses raisons, notamment l’ennui, la recherche de fraîcheur ou pour enterrer des objets. Fournissez à votre chien suffisamment d’activité physique et mentale, et créez des zones désignées dans le jardin où il est autorisé à creuser.
+- Vieira de Castro A. C. et al., « Does training method matter&#63; Evidence for the negative impact of aversive-based methods on companion dog welfare », *PLOS ONE*, 2020 : [doi.org/10.1371/journal.pone.0225023](https://doi.org/10.1371/journal.pone.0225023)
+- American Veterinary Society of Animal Behavior (AVSAB), prises de position sur les méthodes d'éducation : [avsab.org](https://avsab.org/resources/position-statements/)

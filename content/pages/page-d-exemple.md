@@ -7,7 +7,7 @@ origin: rewrite
 wp_id: 2
 url: https://guidecanin.fr/page-d-exemple/
 noindex: true
-seo_title: Page technique - Guide Canin
+seo_title: Page technique du site Guide Canin
 meta_description: Page technique de Guide Canin, sans contenu éditorial. Retrouvez nos conseils pratiques pour vivre avec votre chien sur la page d'accueil.
 ---
 
