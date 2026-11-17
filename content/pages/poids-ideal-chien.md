@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Évaluez l'état corporel de votre chien en deux minutes avec l'échelle vétérinaire en 9 points, et obtenez une estimation de son poids idéal."
+tool_steps:
+  - "Regardez et touchez votre chien"
+  - "Choisissez la silhouette qui lui ressemble"
+  - "Obtenez sa note et son poids idéal estimé"
+tool_chips:
+  - "Gratuit"
+  - "Échelle vétérinaire en 9 points"
+  - "2 minutes"
 seo_title: "Poids idéal du chien : le calculateur d'état corporel"
 meta_description: "Estimez le poids idéal de votre chien avec l'échelle d'état corporel en 9 points de la WSAVA : comment palper les côtes et combien de kilos perdre."
 essentiel:

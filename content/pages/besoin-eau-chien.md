@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Indiquez le poids de votre chien et son alimentation : le calculateur donne la quantité d'eau habituelle par jour et vous dit si ce que vous avez mesuré doit vous alerter."
+tool_steps:
+  - "Entrez le poids de votre chien"
+  - "Précisez croquettes ou pâtée"
+  - "Comparez avec ce qu'il boit vraiment"
+tool_chips:
+  - "Gratuit"
+  - "Repères vétérinaires"
+  - "Résultat immédiat"
 seo_title: "Combien d'eau doit boire un chien ? Le calculateur"
 meta_description: "Calculez la quantité d'eau qu'un chien boit normalement par jour selon son poids et son alimentation, et repérez une consommation anormale."
 essentiel:

@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Tapez un aliment pour savoir s'il est sans danger, à donner avec précaution ou à éviter absolument, avec l'explication. Et que faire si votre chien a mangé un aliment toxique."
+tool_steps:
+  - "Tapez le nom d'un aliment"
+  - "Voyez s'il est sûr, à limiter ou interdit"
+  - "En cas d'ingestion, suivez la conduite à tenir"
+tool_chips:
+  - "Gratuit"
+  - "Sources vétérinaires"
+  - "Réponse immédiate"
 seo_title: "Mon chien peut-il manger… ? Aliments autorisés et interdits"
 meta_description: "Chocolat, raisin, oignon, avocat, fromage, carotte : vérifiez en un instant si votre chien peut manger un aliment, et que faire en cas d'ingestion toxique."
 essentiel:

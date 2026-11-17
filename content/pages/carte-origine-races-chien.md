@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Survolez le nom d'une race pour voir sa région d'origine s'allumer sur la carte du monde, ou survolez un pays pour découvrir les races qui en sont issues."
+tool_steps:
+  - "Survolez ou touchez une race"
+  - "Voyez sa région d'origine s'allumer"
+  - "Ou partez d'un pays pour voir ses races"
+tool_chips:
+  - "Gratuit"
+  - "Interactif"
+  - "100 races, origines FCI"
 seo_title: "Origine des races de chiens : la carte du monde interactive"
 meta_description: "Carte interactive de l'origine de 100 races de chiens : survolez une race pour voir son pays d'origine selon la FCI, ou un pays pour voir ses races."
 essentiel:

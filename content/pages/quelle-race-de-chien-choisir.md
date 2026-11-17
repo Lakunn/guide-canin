@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Logement, temps disponible, enfants, expérience, entretien : répondez à sept questions et découvrez les trois races les plus compatibles avec votre mode de vie."
+tool_steps:
+  - "Répondez à 7 questions sur votre vie"
+  - "Logement, temps, enfants, expérience"
+  - "Découvrez vos 3 races les plus compatibles"
+tool_chips:
+  - "Gratuit"
+  - "7 questions"
+  - "Résultat immédiat"
 seo_title: "Quelle race de chien choisir ? Le test en 7 questions"
 meta_description: "Faites le test pour trouver la race de chien adaptée à votre logement, votre temps, vos enfants et votre expérience, avec les points de vigilance de chacune."
 essentiel:

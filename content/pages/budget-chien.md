@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Adoption, équipement, alimentation, vétérinaire, assurance, garde : listez vos propres montants et obtenez le coût réel d'un chien, la première année puis chaque année."
+tool_steps:
+  - "Choisissez la taille de votre chien"
+  - "Ajustez chaque poste à vos prix"
+  - "Obtenez le coût de la 1re année et des suivantes"
+tool_chips:
+  - "Gratuit"
+  - "Sans inscription"
+  - "Poste par poste"
 seo_title: "Budget d'un chien : calculateur du coût annuel"
 meta_description: "Calculez le budget de votre chien poste par poste : frais de départ, alimentation, soins vétérinaires, assurance, toilettage, garde, puis les années suivantes."
 essentiel:

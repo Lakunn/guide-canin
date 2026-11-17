@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "Indiquez le poids et le profil de votre chien, puis l'énergie de ses croquettes : le calculateur donne ses besoins en calories et la quantité quotidienne en grammes."
+tool_steps:
+  - "Entrez le poids et le profil du chien"
+  - "Ajoutez l'énergie de ses croquettes (kcal/kg)"
+  - "Lisez la ration en grammes par jour"
+tool_chips:
+  - "Gratuit"
+  - "Formule vétérinaire"
+  - "Résultat immédiat"
 seo_title: "Calculateur de ration chien : combien de croquettes par jour ?"
 meta_description: "Calculez la ration quotidienne de votre chien en calories et en grammes de croquettes selon son poids et son profil, avec la formule vétérinaire de référence."
 essentiel:

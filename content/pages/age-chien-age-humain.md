@@ -5,6 +5,14 @@ parent: outils
 status: publish
 origin: new
 dek: "La règle du « un an égale sept ans » est fausse. Le calculateur applique les deux méthodes reconnues aujourd'hui et indique le stade de vie de votre chien."
+tool_steps:
+  - "Indiquez l'âge de votre chien"
+  - "Précisez sa taille adulte"
+  - "Lisez son âge humain et son stade de vie"
+tool_chips:
+  - "Gratuit"
+  - "Deux méthodes reconnues"
+  - "Résultat immédiat"
 seo_title: "Âge du chien en âge humain : calculateur et méthodes"
 meta_description: "Convertissez l'âge de votre chien en âge humain avec la règle de l'AVMA et la formule épigénétique de 2020, et découvrez son stade de vie."
 essentiel:
