@@ -306,3 +306,18 @@ add_action(
 	},
 	0
 );
+
+/* Yoast gère le robots et le sitemap : il doit respecter le noindex posé depuis git (vr_noindex). */
+add_filter(
+	'wpseo_robots',
+	function ( $robots ) {
+		return ( is_singular() && get_post_meta( get_queried_object_id(), 'vr_noindex', true ) ) ? 'noindex, follow' : $robots;
+	}
+);
+add_filter(
+	'wpseo_exclude_from_sitemap_by_post_ids',
+	function ( $ids ) {
+		$noindex = get_posts( array( 'post_type' => 'any', 'fields' => 'ids', 'posts_per_page' => 200, 'meta_key' => 'vr_noindex', 'meta_value' => '1' ) );
+		return array_merge( (array) $ids, $noindex );
+	}
+);
