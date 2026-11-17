@@ -1,5 +1,5 @@
 ---
-title: "Morsure de chien : que faire, que vous soyez mordu ou propriétaire du chien"
+title: "Morsure de chien : que faire si vous êtes mordu, et si c'est votre chien qui a mordu"
 slug: que-faire-en-cas-de-morsures-de-chien
 status: publish
 date: '2024-04-30T12:29:33'
