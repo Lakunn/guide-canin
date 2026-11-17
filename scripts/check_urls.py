@@ -65,6 +65,9 @@ def check(url: str, kind: str) -> tuple[str, str, str]:
         return url, "OK", ""
     soup = BeautifulSoup(r.text, "html.parser")
     can = soup.find("link", rel="canonical")
+    robots = soup.find("meta", attrs={"name": "robots"})
+    if (not can or not can.get("href")) and robots and "noindex" in (robots.get("content") or ""):
+        return url, "OK", "noindex (pas de canonical, normal avec Yoast)"
     if not can or not can.get("href"):
         return url, "KO", "pas de balise canonical"
     if norm_url(can["href"]) != EXPECTED_CANONICAL.get(norm_url(url), norm_url(url)):

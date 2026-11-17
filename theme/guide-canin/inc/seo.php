@@ -321,3 +321,21 @@ add_filter(
 		return array_merge( (array) $ids, $noindex );
 	}
 );
+
+/* Yoast n'imprime pas de balise robots sur ce site : le noindex posé depuis git est écrit ici, en balise et en
+   en-tête HTTP, quelle que soit l'extension SEO active. */
+add_action(
+	'template_redirect',
+	function () {
+		if ( is_singular() && get_post_meta( get_queried_object_id(), 'vr_noindex', true ) ) {
+			header( 'X-Robots-Tag: noindex, follow', true );
+			add_action(
+				'wp_head',
+				function () {
+					echo "<meta name=\"robots\" content=\"noindex, follow\">\n";
+				},
+				1
+			);
+		}
+	}
+);
