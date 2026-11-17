@@ -333,6 +333,8 @@ add_action(
 				'wp_head',
 				function () {
 					echo "<meta name=\"robots\" content=\"noindex, follow\">\n";
+					// Yoast omet le canonical sur une page noindex : on le pose quand même (contrôle zéro 301).
+					printf( "<link rel=\"canonical\" href=\"%s\">\n", esc_url( get_permalink( get_queried_object_id() ) ) );
 				},
 				1
 			);
