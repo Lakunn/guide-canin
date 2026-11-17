@@ -2,3 +2,4 @@ theme/guide-canin/site.json
 __pycache__/
 *.pyc
 .env
+.ugc/

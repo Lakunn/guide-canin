@@ -1,170 +1,128 @@
 ---
-name: "guide-canin-contenu"
-description: "Créer ou réécrire un contenu pour guide-canin.fr ou valentinrouault.com : idéation, fact-checking, brief, rédaction au format du dépôt git, maillage interne, médias, puis humanisation (tirets longs, voix passive, formules d'IA)."
+name: guide-canin-contenu
+description: "Créer ou réécrire un contenu pour guidecanin.fr : alimentation fondée sur les études scientifiques, accessoires et races fondés sur les avis d'utilisateurs et l'UGC réseaux sociaux, conseils d'éducation fondés sur les livres et contenus d'éducateurs ; brief SEO sémantique, rédaction humanisée, maillage, contrôle algoproof, veille et programmation."
 ---
 
-# Création de contenu : guide-canin.fr et valentinrouault.com
+# Contenu guidecanin.fr
 
-Ces lignes directrices s'appliquent aux deux sites de l'utilisateur, chacun piloté par un dépôt git où chaque contenu est un fichier Markdown publié automatiquement :
+Guide pratique sur les chiens, **non monétisé**. Domaine : guidecanin.fr, sans tiret (guide-canin.fr est un site tiers : ne jamais s'en inspirer). Lire `CLAUDE.md` puis la grille commune [`algoproof.md`](algoproof.md) : ce skill l'applique au chien.
 
-| Site | Dépôt | Sujet |
+Cycle en sept étapes, **dans l'ordre**. On ne rédige pas avant que Valentin ait validé le brief.
+
+## 1. Idée, type d'article et existant
+
+1. Sources d'idées : suggestions et « Autres questions » Google, UGC (étape 2), veille hebdomadaire (`veille/AAAA-MM-JJ.md`, workflow « 4 · Veille » chaque lundi), saisonnalité (chaleur, chenilles processionnaires, pétards du Nouvel An, chasse), export Search Console pour les réécritures (les plus visités d'abord).
+2. Chercher dans `content/` et `urls.csv` un contenu de même intention : **mettre à jour** plutôt que créer. Un article `origin: import` se réécrit en gardant `slug`, `wp_id`, `date`, `url` et `categories`, et passe à `origin: rewrite`.
+3. Choisir le **pôle** et le modèle de `templates/` :
+
+| Pôle | Modèles | Matière principale (étape 2) |
 |---|---|---|
-| guide-canin.fr | `Lakunn/guide-canin` | Guide pratique sur les chiens |
-| valentinrouault.com | `Lakunn/valentinrouault-media` | Média SEO / GEO |
+| Alimentation et santé | `news.md`, `fun-facts.md`, modèle libre | Études scientifiques, recommandations vétérinaires |
+| Accessoires | `reco-accessoires.md` | Avis d'utilisateurs, UGC, essais documentés, normes |
+| Races | `guide-race.md` | Standards FCI / SCC, études de santé par race, UGC de propriétaires |
+| Éducation et comportement | modèle libre, `fun-facts.md` | Livres et contenus d'éducateurs, études en comportement |
+| Réglementation | `reglementation.md` | Légifrance, service-public.fr, ministère de l'Agriculture |
 
-Commencer par identifier le site concerné, puis lire la section « Spécificités par site » en fin de document : signature, sources de référence et règles d'URL diffèrent.
+4. Livrer 5 à 10 idées en tableau : sujet, requête, intention, pôle, rubrique existante, gain d'information envisagé, priorité (santé urgente en premier).
 
-Le cycle d'un contenu compte six étapes, **dans l'ordre**. Ne pas sauter une étape, ne pas rédiger avant d'avoir validé le brief.
+Attendre le choix de Valentin.
 
-Règles communes aux deux sites : aucune expérience personnelle inventée, aucune monétisation (pas d'affiliation, pas de recommandation payée, pas d'appel commercial), et **aucun slug, aucune rubrique d'un contenu existant ne change** (zéro redirection 301).
+## 2. Matière par pôle
 
-## Étape 1 : idéation
-
-Objectif : choisir un sujet qui répond à une vraie demande et qui n'existe pas déjà sur le site.
-
-1. **Sources de sujets** : questions des « Autres questions posées » de Google, requêtes de la Search Console si l'utilisateur les fournit, rubriques peu fournies du site, questions récurrentes sur les forums canins, saisonnalité (chaleur l'été, chenilles processionnaires au printemps, pétards au Nouvel An).
-2. **Vérifier l'existant** : chercher dans `content/posts/*.md` (titres, slugs, mots-clés) et dans `urls.csv`. Si un article couvre déjà la même intention, proposer de le **mettre à jour** plutôt que d'en créer un nouveau (cannibalisation).
-3. **Livrer une liste** de 5 à 10 idées sous forme de tableau : sujet, requête principale, intention (info, comparaison, urgence, pratique), rubrique existante (slug de `config/site.yml`), angle distinctif, priorité. Les sujets de santé urgente (intoxication, coup de chaleur) passent en priorité haute.
-
-Demander à l'utilisateur de choisir avant de continuer.
-
-## Étape 2 : fact-checking
-
-Objectif : rassembler les faits **avant** d'écrire, chacun avec sa source. Faire les recherches web nécessaires, une par point de fait important.
-
-Hiérarchie des sources pour guide-canin.fr (pour valentinrouault.com, voir les spécificités par site), de la plus fiable à la moins fiable :
-
-1. **Organismes vétérinaires et sanitaires** : WSAVA, AAHA, ANSES, Ordre national des vétérinaires, centres antipoison vétérinaires (CNITV Lyon, CAPAE-Ouest), écoles vétérinaires (ENVA, VetAgro Sup, Oniris, ENVT).
-2. **Publications scientifiques** : articles évalués par des pairs (PubMed), avec année.
-3. **Textes officiels** pour le droit : Légifrance, service-public.fr, ministère de l'Agriculture (identification, chiens catégorisés, voyages, vaccins obligatoires).
-4. **Références reconnues** : ASPCA (aliments toxiques), Société Centrale Canine et FCI (standards de races), Merck Veterinary Manual.
-
-À éviter comme source : blogs, sites marchands, forums, contenus générés, articles sans auteur ni date.
-
-Produire un **tableau de faits** : affirmation, source (nom + URL), date de la source, niveau de certitude. Toute affirmation sans source fiable est retirée ou formulée comme une opinion clairement signalée.
-
-Règles santé (guide-canin.fr), non négociables :
-- **jamais de dose de médicament**, humain ou vétérinaire ; renvoyer au vétérinaire ;
-- jamais de « dose acceptable » pour un toxique ; en cas d'ingestion : vétérinaire ou centre antipoison immédiatement ;
-- chaque article santé contient un encadré « Quand consulter en urgence » ;
-- les remèdes naturels ne sont présentés que si une source sérieuse les documente, avec leurs limites.
-
-## Étape 3 : brief
-
-Avant de rédiger, écrire le brief et le faire valider :
-
-```
-Sujet / requête principale :
-Intention de recherche :
-Lecteur visé et sa situation :
-Ce que la première page de Google propose déjà (formats, angles) :
-Notre angle distinctif :
-Plan (H2 / H3) avec la réponse attendue sous chaque titre :
-Faits sourcés à utiliser (renvoi au tableau de l'étape 2) :
-Outil du site à intégrer, s'il y en a un (guide-canin : ration, âge, quiz race, budget, aliments) :
-Liens internes sortants prévus (3 à 6, URL existantes uniquement) :
-Pages existantes à modifier pour ajouter un lien vers ce contenu (2 à 4) :
-Médias prévus (images, schéma, vidéo YouTube) et leur rôle :
-Questions de la FAQ :
-Rubrique (slug) :
-```
-
-## Étape 4 : rédaction
-
-Format du fichier `content/posts/<slug>.md` :
-
-```markdown
----
-title: "Titre (H1), explicite, sans point d'exclamation"
-slug: slug-court-sans-mots-vides
-status: draft
-date: AAAA-MM-JJT09:00:00
-origin: new
-categories: [slug-rubrique]
-dek: "Chapô de 1 à 2 phrases qui répond à la question."
-seo_title: "30 à 65 caractères"
-meta_description: "110 à 160 caractères"
-essentiel:
-  - "3 à 4 points clés, chacun autoportant."
-sources:
-  - "Nom de la source, titre, année : URL"
----
-```
-
-Règles :
-- **réécriture d'un article existant** : garder `slug`, `wp_id`, `date`, `url` et **les rubriques à l'identique** (sur guide-canin.fr la rubrique fait partie de l'URL), passer `origin: rewrite` ;
-- **vouvoiement** partout ;
-- réponse directe dans la première phrase sous chaque H2 ;
-- un paragraphe = une idée, 2 à 4 phrases ;
-- listes pour les étapes, tableaux pour les comparaisons ;
-- les outils s'insèrent avec leur shortcode, sur une ligne seule : `[gc_ration]`, `[gc_age]`, `[gc_race]`, `[gc_budget]`, `[gc_aliments]` ;
-- une section `## Sources` en fin d'article, liste des sources citées avec liens ;
-- FAQ éventuelle dans `<section class="faq" markdown="1">` avec des H3 ;
-- images : texte alternatif descriptif obligatoire.
-
-## Étape 5 : maillage interne et médias
-
-### Maillage interne
-
-1. **Liens sortants** : 3 à 6 liens vers des contenus existants du même site, placés dans le texte là où le lecteur en a besoin (pas en liste à la fin). Ancres descriptives, jamais « cliquez ici », jamais la même ancre vers deux pages différentes.
-2. **Liens entrants** : identifier 2 à 4 contenus existants qui parlent du sujet (recherche dans `content/`), et y ajouter un lien contextuel vers le nouveau contenu. Ces fichiers sont modifiés dans le même commit.
-3. **Pages piliers** : chaque contenu est relié au guide de référence de sa rubrique, et le guide pointe vers lui.
-4. **Vérification** : tous les liens sont relatifs et pointent vers des URL qui existent (`urls.csv` ou fichiers de `content/`). Lancer `python scripts/validate.py`, qui signale les liens internes cassés.
-
-### Médias
-
-- **Images** : photos de l'utilisateur ou images sous licence libre vérifiée, avec attribution, déposées dans `content/media/` et insérées en Markdown `![texte alternatif descriptif](media/nom-explicite.webp)`. La synchro les téléverse dans WordPress. WebP ou JPG, 1600 px de large au maximum, nom de fichier en français avec tirets. Jamais d'image trouvée sur le web sans licence vérifiée, ni de photo d'une personne réelle.
-- **Schémas et infographies** : quand une explication gagne à être visualisée (étapes, comparaison, chiffres), créer un schéma SVG simple dans `content/media/`, avec un texte alternatif qui en reprend l'information.
-- **Vidéos YouTube** : seulement si une vidéo apporte un vrai plus (geste de soin, exercice d'éducation, démonstration) et vient d'une source fiable (vétérinaire, école, institution, chaîne reconnue). Coller l'URL seule sur sa ligne : le thème affiche un lecteur léger qui ne charge YouTube qu'au clic. Ajouter une phrase qui résume ce que montre la vidéo.
-- **Image de couverture** : champs `cover: media/…` et `cover_alt:` dans l'en-tête.
-
-## Étape 6 : humanisation
-
-Relire le texte entier pour supprimer les tics d'écriture des IA, puis lancer le contrôle :
+Collecte de base pour tout article, depuis `marketing-intelligence` (SERP ~0,002 $, le reste gratuit) :
 
 ```bash
-python scripts/style_check.py content/posts/<slug>.md
+cd ../marketing-intelligence
+.venv/Scripts/python.exe -m scripts.ugc_collect "harnais anti traction chien" --videos 8 --comments 40 --out ../guide-canin/.ugc
 ```
 
-Corriger **toutes** les alertes ✗ (bloquantes) et traiter les alertes · une par une :
+Le relevé (`.ugc/`, hors git) donne le top 10 Google, les blocs, Autres questions, l'AI Overview et ses sources, les suggestions, les vidéos YouTube avec commentaires, et Pinterest.
 
-- **tirets cadratins et demi-cadratins** comme ponctuation (« les chiens — nos amis — ») : remplacer par une virgule, des parenthèses, deux-points ou une nouvelle phrase ;
-- **voix passive** (« le chien est nourri par ») : remettre un sujet qui agit (« vous nourrissez le chien ») ; garder le passif seulement quand l'agent est inconnu ou sans intérêt ;
-- **formules creuses** : « il est important de noter », « dans un monde où », « n'hésitez pas à », « véritable allié », « incontournable », « en conclusion »… : supprimer ou dire la chose directement ;
-- **énumérations systématiques en trois** et structures parallèles à répétition : varier ;
-- **gras** : au plus un ou deux passages par section, pour ce qui doit vraiment ressortir ;
-- **rythme** : alterner phrases courtes et longues ; couper toute phrase de plus de 30 mots ;
-- **questions rhétoriques** enchaînées : les remplacer par des affirmations ;
-- **adverbes en -ment** : en supprimer la moitié ;
-- **emojis** : aucun ;
-- **conclusion qui résume** : supprimer ; finir sur une action concrète ou la FAQ ;
-- **typographie française** : espace avant `; : ! ?`, guillemets « », pas de majuscule après deux-points ;
-- **registre** : un seul, le vouvoiement, sur les deux sites.
+### Alimentation et santé : les études d'abord
 
-Relancer `style_check.py` jusqu'à zéro alerte bloquante, puis lire le texte à voix haute mentalement : si une phrase ne serait pas dite par un humain qui connaît bien les chiens, la réécrire.
+```bash
+.venv/Scripts/python.exe -m scripts.ugc_collect "grain-free diet dilated cardiomyopathy dogs" --only pubmed --pubmed 15 --lang en --country US --out ../guide-canin/.ugc
+```
 
-## Livraison
+- Chercher en anglais (termes MeSH : *dogs*, *diet*, *obesity*, *atopic dermatitis*…). Le relevé donne titre, revue, année, type (revue systématique, essai, étude de cohorte) et résumé.
+- **Hiérarchie de preuve** : recommandations d'organismes (WSAVA Global Nutrition Guidelines et outils « Selecting the best food for your pet », FEDIAF Nutritional Guidelines, NRC 2006, AAFCO), puis revues systématiques et méta-analyses, puis essais contrôlés, puis études d'observation. Une étude financée par un fabricant le dit dans le texte.
+- Écrire ce que l'étude **montre et ne montre pas** : taille de l'échantillon, races, durée, corrélation ou causalité. Exemple type : l'enquête de la FDA sur les cardiomyopathies et les régimes « sans céréales » (2018-2022) n'a pas établi de lien de cause à effet ; le dire avec la date.
+- Gain d'information typique : tableau « ce que dit la science » par idée reçue (vrai, faux, pas prouvé), lecture d'une étiquette de croquettes pas à pas, calcul de ration avec l'outil `[gc_ration]`.
+- Règles santé non négociables : **jamais de dose de médicament** ; jamais de « dose acceptable » d'un toxique ; ingestion = vétérinaire ou centre antipoison (CNITV Lyon, CAPAE-Ouest) immédiatement ; encadré « Quand consulter en urgence » dans tout article santé ; remède naturel seulement s'il est documenté, avec ses limites.
 
-1. `python scripts/validate.py` sans erreur.
-2. `python scripts/style_check.py --strict content/posts/<slug>.md` sans alerte bloquante.
-3. Passer `status: publish` seulement si l'utilisateur a validé le texte.
-4. Commit avec un message qui nomme le contenu, puis push sur `main` (déploiement automatique).
-5. Donner à l'utilisateur : l'URL finale, le tableau des sources, les liens internes ajoutés (sortants et entrants), et les alertes de style restantes jugées acceptables.
+### Accessoires et races : avis d'utilisateurs et UGC
 
-## Spécificités par site
+- **Avis d'utilisateurs** : lire à la main les avis publics (fiches produit des grandes enseignes, Trustpilot, comparatifs de magazines de consommateurs) ; ne pas les aspirer automatiquement. Les **classer par problème récurrent** (taille qui baille, frottement aux aisselles, boucle qui casse, chien qui s'échappe), avec un ordre de grandeur (« sur une soixantaine d'avis lus, le frottement revient le plus souvent »). Ne jamais citer un avis mot pour mot ni nommer son auteur.
+- **UGC** : commentaires YouTube du relevé, `site:reddit.com` (r/dogs, r/DogTraining, r/puppy101, subreddit de la race), forums de race et clubs affiliés à la SCC. Chercher les problèmes vécus, les regrets, les astuces de réglage, les questions sans réponse.
+- **Races** : standard FCI et fiche SCC (taille, poids, caractère attendu), études de santé par race (PubMed, VetCompass au Royaume-Uni, programmes de dépistage des clubs : dysplasie, BOAS, myélopathie), puis l'UGC des propriétaires pour la vie quotidienne (besoin d'activité réel, poils, cohabitation, coût). Dire pour qui la race **n'est pas** faite.
+- Sécurité et bien-être d'abord : colliers étrangleurs, à pointes, électriques, harnais qui entravent l'épaule : risques et cadre légal, sources vétérinaires ou comportementales.
+- Le site n'est pas monétisé : on recommande des **critères et des types**, une marque n'est citée que comme exemple objectif.
 
-### guide-canin.fr
+### Éducation et comportement : livres et éducateurs
 
-- **Signature** : « La rédaction de Guide Canin ». Aucun auteur individuel, aucune anecdote personnelle (« mon chien », « j'ai testé »).
-- **Ton** : chaleureux et rassurant, sans infantiliser.
-- **Sources** : hiérarchie vétérinaire de l'étape 2, règles santé non négociables, section `## Sources` en fin d'article.
-- **URL** : elles contiennent la rubrique (`/sante/premiers-secours/slug/`). Un article existant ne change **jamais** de rubrique.
-- **Outils** : intégrer l'outil pertinent par son shortcode (`[gc_ration]`, `[gc_age]`, `[gc_race]`, `[gc_budget]`, `[gc_aliments]`) et faire un lien vers sa page dans `/outils/`.
+- **Références de fond** (vérifier l'édition avant de citer, citer page ou chapitre) : Karen Pryor, *Ne tirez pas sur le chien* ; Turid Rugaas, *Les signaux d'apaisement* ; Patricia McConnell, *De l'autre côté de la laisse* ; Jean Donaldson, *The Culture Clash* ; Ian Dunbar, *Before and After Getting Your Puppy* ; John Bradshaw, *Dans la tête d'un chien* ; Joël Dehasse, *Tout sur la psychologie du chien* ; Steven R. Lindsay, *Handbook of Applied Dog Behavior and Training*.
+- **Positions scientifiques** : déclarations de l'AVSAB (socialisation du chiot, méthodes aversives), revues sur l'éducation par renforcement positif contre méthodes aversives (PubMed : *aversive training dogs welfare*).
+- **Contenus d'éducateurs** : vidéos d'éducateurs et de comportementalistes reconnus (diplôme, formation citée, méthode positive). Transcrire pour en extraire la méthode, pas pour la recopier :
 
-### valentinrouault.com
+```bash
+.venv/Scripts/python.exe -m scripts.ugc_collect "apprendre le rappel chien" --videos 6 --transcripts 3 --comments 30 --out ../guide-canin/.ugc
+```
 
-- **Signature** : Valentin Rouault. La première personne est permise pour **ses** retours d'expérience réels, fournis par lui ; ne jamais en inventer.
-- **Ton** : éditorial de média ; aucune offre de prestation, aucun appel à prendre rendez-vous.
-- **Sources** : documentation officielle (Google Search Central, Bing Webmaster, éditeurs d'IA), études identifiables avec auteur et année (Ahrefs, Semrush, SparkToro…), annonces datées. Toute affirmation datable est datée.
-- **URL** : `/slug/` à la racine ; rubriques `blog` (GEO & IA), `seo`, `contenu-seo`, `actus-seo` et rubriques historiques. Pas d'outils interactifs.
-- **Doublons** : ils se consolident par `canonical_overrides` dans `config/site.yml`, jamais par redirection.
+- Les commentaires sous ces vidéos disent **où les maîtres bloquent** : en faire les sections « Si ça ne marche pas ».
+- Toute méthode est décrite en étapes observables (durée de séance, critère pour passer à l'étape suivante, signe d'arrêt). Jamais de méthode aversive présentée comme option ; renvoi vers un vétérinaire comportementaliste pour l'agressivité et l'anxiété sévère.
+
+## 3. Fact-checking
+
+Tableau de faits : affirmation, source (nom + URL), date, niveau de preuve. Sources par ordre de fiabilité : organismes vétérinaires et sanitaires (WSAVA, AAHA, ANSES, Ordre des vétérinaires, écoles vétérinaires ENVA, VetAgro Sup, Oniris, ENVT, centres antipoison), publications évaluées par des pairs, textes officiels (Légifrance, service-public.fr, ministère de l'Agriculture), références reconnues (ASPCA pour les toxiques, FCI et SCC, Merck Veterinary Manual), livres d'éducateurs cités. Blogs, sites marchands, forums et UGC servent à trouver des questions, jamais à prouver.
+
+## 4. Brief
+
+Suivre `algoproof.md` § 2, puis :
+
+```
+Requête principale / intention / requêtes secondaires :
+Pôle et modèle (templates/…) :
+Lecteur et sa situation (âge du chien, race, problème vécu) :
+SERP : formats, blocs, AI Overview et sources citées :
+Entités attendues (races, nutriments, organismes, matériels, comportements) :
+Sous-questions retenues (SERP, suggestions, UGC) → H2/H3 :
+Ce que le top 10 dit déjà :
+GAIN D'INFORMATION (au moins un, nommé : étude décortiquée, synthèse d'avis, méthode pas à pas, tableau vrai/faux…) :
+Avis tranché de la rédaction :
+Faits sourcés (renvoi au tableau) et niveau de preuve :
+Outil du site : [gc_ration] [gc_age] [gc_race] [gc_budget] [gc_aliments] :
+Plan H2/H3 avec la réponse attendue sous chaque titre :
+Encadré « Quand consulter en urgence » (santé) :
+Liens internes sortants (3 à 6) / pages à modifier pour lier ce contenu (2 à 4) :
+Médias et FAQ :
+seo_title / meta_description :
+```
+
+## 5. Rédaction humanisée
+
+Format du dépôt : front matter `title`, `slug`, `type` (selon le modèle), `status: draft`, `date`, `origin`, `categories`, `dek`, `seo_title` (30 à 65 car.), `meta_description` (110 à 160 car.), `essentiel` (3 à 4 points), `sources`, `cover`/`cover_alt`. Section `## Sources` en fin d'article, FAQ dans `<section class="faq" markdown="1">` avec des H3, outils par leur shortcode sur une ligne seule.
+
+Voix de Guide Canin :
+
+- **Vouvoiement**, signature « La rédaction de Guide Canin ». Aucune anecdote personnelle (« mon chien », « j'ai testé »).
+- **Chaleureux et net** : rassurer sans infantiliser, et dire clairement ce qu'il ne faut pas faire.
+- **Le chien réel** : âge, gabarit, race, tempérament changent la réponse ; le dire (« pour un chiot de moins de 6 mois… », « chez un chien qui tire fort… »).
+- **Les mots des maîtres** (UGC) dans les intertitres : « Mon chien tire en laisse, quel harnais ? » plutôt que « Choix du harnais ».
+- **La science en clair** : une étude se résume en une phrase (« Sur 1 200 chiens suivis pendant 4 ans, … »), avec son année et sa limite.
+- Réponse dans la première phrase sous chaque H2 ; sections autoportantes ; tableaux pour comparer ; étapes numérotées pour les méthodes.
+
+Interdits propres au chien (en plus de `style_check.py`) : « meilleur ami de l'homme », « boule de poils », « compagnon à quatre pattes » à répétition, « nos amis canins », « véritable membre de la famille », « bien-être de votre fidèle compagnon », introductions « Vous venez d'adopter… ? Félicitations ! », conclusions qui résument. Test du nom propre : remplacez « berger australien » par « border collie » ; si le paragraphe reste vrai, il est vide.
+
+## 6. Maillage et médias
+
+- 3 à 6 liens internes contextuels, 2 à 4 liens entrants ajoutés dans le même commit, lien vers le guide de la rubrique et vers l'outil dans `/outils/`.
+- Images libres de droits vérifiées ou photos de Valentin, dans `content/media/` (WebP, 1600 px max), texte alternatif descriptif ; schéma SVG pour un réglage de harnais, une ration, une progression d'éducation.
+- Vidéo YouTube seulement si elle montre un geste utile et vient d'une source fiable : URL seule sur sa ligne, une phrase qui résume ce qu'elle montre.
+
+## 7. Contrôle, programmation et livraison
+
+1. Contrôle final de `algoproof.md` § 4.
+2. `python scripts/style_check.py --strict content/posts/<slug>.md` sans alerte bloquante ; traiter les alertes « vocabulaire IA », « transitions » et « moule ».
+3. `python scripts/validate.py` sans erreur.
+4. Après validation du texte par Valentin : `status: publish`, ou `status: future` avec `date: 'AAAA-MM-JJT09:00:00'` pour programmer (WP-Cron publie à l'heure dite). Une actualité tirée de la veille : cocher la case dans `veille/AAAA-MM-JJ.md`. Le push sur `main` publie : le demander avant.
+5. Rendre : URL, tableau des sources avec niveau de preuve, gain d'information, liens ajoutés, alertes restantes.

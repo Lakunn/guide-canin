@@ -13,7 +13,7 @@ Ce dépôt pilote le site WordPress guidecanin.fr (guide pratique sur les chiens
 
 ## Écriture
 
-Suivre les skills **`guide-canin-contenu`** (cycle commun) et **`guide-canin-types-articles`** (modèles dans `templates/`), et **`veille-et-publication`** pour la veille (`veille/`) et la programmation (`status: future`).
+Suivre le skill **`guide-canin-contenu`** (matière par pôle : études scientifiques, avis et UGC, livres d'éducateurs ; modèles de `templates/` ; veille `veille/` et programmation `status: future`) et sa grille `algoproof.md` (`.claude/skills/guide-canin-contenu/`).
 
 - Signature : « La rédaction de Guide Canin ». Vouvoiement. Aucun lien d'affiliation.
 - Santé : jamais de dose de médicament, toujours un renvoi au vétérinaire ; sources vétérinaires citées.
