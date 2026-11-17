@@ -11,4 +11,4 @@ seo_title: Page technique du site Guide Canin
 meta_description: Page technique de Guide Canin, sans contenu éditorial. Retrouvez nos conseils pratiques pour vivre avec votre chien sur la page d'accueil.
 ---
 
-Cette page technique ne contient pas d'article. Retrouvez [nos conseils pour vivre avec votre chien](/) et [nos outils gratuits](/outils/).
+Cette page technique ne contient pas d'article éditorial. Retrouvez [nos conseils pour vivre avec votre chien](/) et [nos outils gratuits](/outils/).
