@@ -1,83 +1,122 @@
 ---
-title: Que faire si vous trouvez un chien errant ?
+title: "Chien errant : que faire si vous trouvez un chien seul, étape par étape"
 slug: chien-errant-que-faire
 status: publish
 date: '2024-04-30T12:36:00'
-origin: import
+origin: rewrite
 wp_id: 229
 url: https://guidecanin.fr/chien-errant-que-faire/
-seo_title: Que faire si vous trouvez un chien errant ? - Guide Canin
-meta_description: Les chiens errants peuvent avoir été abandonné, être en fugue ou simplement être né à l'état sauvage, voici comment réagir quand vous en rencontrez un.
+seo_title: "Chien errant trouvé : que faire, qui appeler, peut-on le garder"
+meta_description: "Vous avez trouvé un chien seul ? L'approcher, faire lire sa puce, le déclarer à I-CAD, prévenir la mairie, et ce qui se passe à la fourrière."
 categories:
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 236
+dek: "Si le chien se laisse approcher, faites lire sa puce par un vétérinaire et déclarez-le sur I-CAD : le fichier prévient le propriétaire. Sinon, ou si personne ne se manifeste, appelez la mairie, qui fait intervenir la fourrière. Ne le gardez pas chez vous sans rien dire : son maître le cherche peut-être à deux rues de là."
+essentiel:
+  - "Un chien seul est le plus souvent un **chien en fugue**, pas un chien abandonné : son maître le cherche probablement tout près."
+  - "Tout cabinet vétérinaire peut **lire la puce** ; avec le numéro, déclarez le chien trouvé sur **I-CAD** (site ou appli Filalapat)."
+  - "Pas de puce, pas de réponse ? La **mairie** fait venir la fourrière ; si elle ne répond pas, la police ou la gendarmerie."
+  - "À la fourrière, un chien non réclamé au bout de **8 jours ouvrés** est considéré comme abandonné et confié à une association, sur avis d'un vétérinaire."
+sources:
+  - "Service-public.fr, Que faire quand on trouve un chien ou un chat errant ? (vérifié le 11 septembre 2026) : https://www.service-public.gouv.fr/particuliers/vosdroits/F32338"
+  - "I-CAD, fichier national d'identification des carnivores domestiques : https://www.i-cad.fr/"
 ---
 
-Trouver un chien errant peut être stressant, mais en agissant rapidement et avec méthode, vous pouvez aider ce chien à retrouver son propriétaire. Cet article vous guide étape par étape sur ce qu’il faut faire si vous croisez un chien perdu.
+Vous croisez un chien seul, sans maître en vue. Dans la grande majorité des cas, c'est un chien qui s'est échappé et dont le propriétaire le cherche à quelques rues de là. Votre rôle est de faire le lien : approcher le chien sans danger, retrouver son identification, et prévenir les bonnes personnes. Voici l'ordre à suivre, tel que le prévoit la réglementation.
 
-La plupart du temps, il s’agira d’un [chien en fugue](https://guidecanin.fr/fugue-chien/) qui ne sera pas très loin de chez son maître ou sa maîtresse. Mais d’autres cas peuvent survenir, suivez le guide étape par étape.
+## 1. Observer avant d'approcher
 
-## Comment reconnaître un chien errant ?
+Prenez quelques secondes avant d'aller vers lui. Un chien perdu est souvent stressé, et un chien stressé peut mordre, même s'il est gentil d'habitude.
 
-Il y a des signes qui ne trompent pas pour reconnaître un chien errant. Il aura souvent **l’air anxieux** sans se rapprocher d’aucun humain alentours. Vous n’entendez personne l’appeler. Il reste très immobile ou prostrer à l’abri. Ce sont, en général, les signes les plus courant qui montrent que vous avez affaire à un chien errant.
+- **Il vient vers vous, corps souple, queue basse et détendue** : vous pouvez l'approcher.
+- **Il recule, se fige, montre les dents, a les oreilles plaquées** : n'insistez pas. Restez à distance, notez l'endroit et passez directement à l'étape 4 (mairie, fourrière).
 
-## 1\. Approchez le chien avec prudence
+Pour approcher : de côté plutôt que de face, sans le regarder fixement, en vous accroupissant. Laissez-le venir renifler votre main. Ne lui courez jamais après : il fuirait, parfois vers la route.
 
-Lorsque vous rencontrez un chien errant, la première règle est de **rester calme** et d’évaluer la situation. Voici quelques conseils :
+Sur une **autoroute** ou une voie rapide, ne descendez pas pour l'attraper. Utilisez une borne d'appel d'urgence (sur les aires et environ tous les 2 km), l'appli SOS Autoroute, ou le 112.
 
-- **Vérifiez si le chien est blessé** ou en danger immédiat.
-- Approchez\-vous lentement et laissez\-le vous sentir avant de tenter de l’attraper.
-- **Évitez les mouvements brusques**, surtout si le chien semble stressé ou apeuré.
+## 2. Chercher son identification
 
-Gardez à l’esprit qu’il est possible que ce soit un chien abandonné, parfois depuis peu. C’est donc un chien qui souffre souvent [d’anxiété de séparation](https://guidecanin.fr/anxiete-separation-chien/). Cette anxiété peut le rendre imprévisible avec des humains qu’il ne connaît pas, donc restez prudents.
+En France, chiens et chats doivent être identifiés.
 
-Si le chien a l’air agressif ou extrêmement craintif, il est préférable de contacter les autorités locales, comme la fourrière ou un service d’assistance animalier, plutôt que d’essayer de l’attraper.
+- **La puce électronique** est sous la peau, au niveau du cou. Elle ne se voit pas : il faut un lecteur. **Tout cabinet vétérinaire** en a un, et certaines associations de protection animale aussi.
+- **Le tatouage**, sur les chiens plus âgés, se trouve le plus souvent à l'intérieur de l'oreille.
+- **La médaille** du collier porte parfois un numéro de téléphone : appelez-le directement.
 
-## 2\. Vérifiez les signes d’identification
+Si le chien est calme et que vous pouvez le tenir en laisse (une ceinture ou une sangle de sac fait l'affaire), passez chez le vétérinaire le plus proche. La lecture prend une minute.
 
-Après avoir gagné la confiance du chien, vérifiez s’il porte une médaille ou un collier d’identification :
+## 3. Le déclarer sur I-CAD
 
-- **Puce électronique** : Même si le chien n’a pas de collier, il peut avoir une puce électronique. Rendez\-vous chez un vétérinaire ou un refuge, qui pourra scanner la puce et retrouver les coordonnées du propriétaire.
-- **Tatouage** : Certains chiens sont tatoués avec un numéro d’identification sur l’oreille ou à l’intérieur de la cuisse. Ce numéro peut être utilisé pour retrouver le propriétaire.
+Avec le numéro de puce ou de tatouage, déclarez le chien trouvé sur **I-CAD**, le fichier national d'identification, en ligne ou avec l'application **Filalapat**. I-CAD contacte le propriétaire. Pour un maître qui cherche son chien, c'est le canal le plus rapide : vétérinaires, refuges et fourrières consultent le même fichier.
 
-## 3\. Signalez le chien errant aux autorités
+En parallèle, cherchez si quelqu'un a signalé sa disparition :
 
-Si vous ne pouvez pas identifier directement le propriétaire, il est important de **signaler la découverte du chien** :
+- demandez aux voisins et aux commerçants du quartier ;
+- regardez les affiches sur les poteaux et dans les commerces ;
+- consultez les groupes locaux d'animaux perdus sur les réseaux sociaux, et les annonces des associations ;
+- appelez les vétérinaires du secteur, y compris dans les communes voisines.
 
-- **Contactez la mairie ou la fourrière locale**, qui ont souvent des bases de données sur les chiens perdus.
-- **Prévenez les refuges et vétérinaires du quartier**, car ils sont souvent informés des animaux manquants.
-- En France, signalez également la trouvaille sur [I\-CAD](https://www.i-cad.fr), le fichier national d’identification des carnivores domestiques.
+## 4. Prévenir la mairie
 
-## 4\. Diffusez l’information sur les réseaux sociaux
+Si le chien n'a pas de puce, si personne ne répond, ou si vous ne pouvez pas l'approcher, **contactez la mairie** : elle vous dit comment fonctionne la fourrière de la commune (horaires, prise en charge, procédure hors heures d'ouverture). Si vous n'arrivez pas à joindre la mairie, appelez le **commissariat ou la gendarmerie**.
 
-Les réseaux sociaux jouent un rôle crucial pour retrouver rapidement les propriétaires des chiens perdus. Voici comment maximiser la portée de votre annonce :
+C'est la fourrière qui récupère les animaux errants et recherche leur propriétaire, qu'ils soient identifiés ou non.
 
-- **Publiez sur Facebook**, notamment dans des groupes locaux dédiés aux animaux perdus (ex : **Pet Alert**).
-- Incluez une **photo claire du chien**, avec sa localisation et les détails de l’heure à laquelle vous l’avez trouvé.
-- Demandez à vos contacts de **partager l’annonce** afin d’atteindre le plus de personnes possible.
+## Peut-on garder le chien chez soi ?
 
-## 5\. Que faire si vous ne trouvez pas le propriétaire ?
+Pour une nuit, le temps que la mairie ou la fourrière ouvre, c'est un service rendu. Mais **le garder sans le déclarer** prive le propriétaire de toute chance de le retrouver : il appelle la fourrière et I-CAD, pas les particuliers. Un chien trouvé reste le chien de son maître.
 
-Si, malgré vos efforts, vous ne parvenez pas à retrouver le propriétaire du chien, plusieurs solutions s’offrent à vous :
+Si vous l'hébergez quelques heures :
 
-- **Contactez un refuge** ou une association de protection animale, qui pourra prendre le relais.
-- Si vous souhaitez garder le chien, vous devrez attendre que la période légale de recherche du propriétaire soit écoulée (généralement entre 8 et 15 jours). Durant ce temps, continuez à diffuser l’information.
+- isolez-le de vos propres animaux, dont vous ne connaissez pas la compatibilité avec lui ni son état de santé ;
+- donnez-lui de l'eau, et un peu de nourriture si l'attente se prolonge ;
+- fermez bien portes et portail : un chien perdu cherche à repartir.
 
-## 6\. Pourquoi ne pas adopter un chien trouvé immédiatement ?
+Si personne ne le réclame et que vous souhaitez l'adopter, dites-le à la fourrière ou à l'association qui le prendra en charge : c'est par elle que l'adoption pourra se faire.
 
-Il peut être tentant d’adopter un chien errant, mais il est essentiel de laisser le temps au propriétaire de le rechercher. Voici quelques raisons pour lesquelles l’adoption immédiate n’est pas recommandée :
+## Ce qui se passe à la fourrière
 
-- **Propriétaire en recherche active** : Le chien peut être perdu depuis peu et son propriétaire pourrait être en train de le chercher désespérément.
-- **Problèmes légaux** : La loi stipule généralement qu’un délai doit être respecté avant de pouvoir adopter un chien trouvé.
+| Étape | Ce que prévoit la réglementation |
+|---|---|
+| Arrivée | Le gestionnaire recherche le propriétaire, que l'animal soit identifié ou non |
+| Pendant la garde | Le propriétaire qui vient le chercher paie des frais de garde (nourriture, soins, entretien) |
+| Après 8 jours ouvrés | Un chien non réclamé est considéré comme abandonné (le délai court à partir du lendemain de l'arrivée) |
+| Ensuite | Sur avis d'un vétérinaire, il est confié gratuitement à une association ou une fondation de protection animale, seule habilitée à le proposer à l'adoption ; à défaut, il peut être euthanasié |
 
-### FAQ : Questions fréquentes sur les chiens errants
+Ce dernier point est une raison de plus pour faire vite : plus le propriétaire est prévenu tôt, plus le chien a de chances de rentrer chez lui.
 
-**Comment savoir si un chien errant appartient à quelqu’un ?**
-Un chien qui a un collier, est bien entretenu ou sociable a probablement un propriétaire. Même s’il semble négligé, vérifiez s’il a une puce ou un tatouage d’identification.
+<div class="callout" markdown="1">
 
-**Dois\-je amener un chien errant chez le vétérinaire ?**
-Oui, si le chien est blessé ou malade, emmenez\-le immédiatement chez un vétérinaire. De plus, le vétérinaire pourra scanner la puce électronique pour retrouver le propriétaire.
+### Quand appeler un vétérinaire en urgence
 
-**Puis\-je garder un chien errant que j’ai trouvé ?**
-En général, vous ne pouvez pas adopter un chien trouvé immédiatement. Il est important de suivre la procédure légale et d’attendre que la recherche du propriétaire soit épuisée avant de le garder.
+Si le chien est **blessé**, a été **heurté par une voiture**, saigne, boite fortement, respire mal ou ne tient pas debout, appelez le vétérinaire le plus proche avant tout le reste. Ne le manipulez qu'avec précaution : un chien qui a mal peut mordre. Glissez une couverture ou un vêtement sous lui pour le déplacer.
+
+</div>
+
+## Si c'est votre chien qui a disparu
+
+Les démarches sont symétriques : déclaration de perte sur I-CAD, appel quotidien à la mairie et à la fourrière, affiches. Tout est détaillé dans notre article [chien perdu : que faire heure par heure](/chien-perdu-que-faire/), avec un modèle d'affiche à imprimer. Et pour éviter que ça se reproduise, voyez [pourquoi un chien fugue et comment l'en empêcher](/fugue-chien/).
+
+<section class="faq" markdown="1">
+
+## Questions fréquentes
+
+### La lecture de la puce chez le vétérinaire est-elle payante ?
+
+La plupart des vétérinaires la font sans frais pour un animal trouvé. Appelez avant de passer pour vérifier qu'il peut vous recevoir.
+
+### Que faire si le chien trouvé est agressif ?
+
+Ne le touchez pas. Éloignez-vous, notez l'endroit et l'heure, et appelez la mairie ou, à défaut, la police ou la gendarmerie, qui feront intervenir la fourrière.
+
+### Peut-on déposer un chien trouvé dans un refuge ?
+
+Le circuit prévu passe par la fourrière, qui recherche le propriétaire. Beaucoup de refuges ne peuvent pas accepter directement un animal trouvé : appelez la mairie d'abord.
+
+</section>
+
+## Sources
+
+- Service-public.fr, « Que faire quand on trouve un chien ou un chat errant ? », vérifié le 11 septembre 2026 : [service-public.gouv.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F32338)
+- I-CAD, fichier national d'identification des carnivores domestiques : [i-cad.fr](https://www.i-cad.fr/)
