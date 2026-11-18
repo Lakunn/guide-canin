@@ -9,6 +9,8 @@ Guide pratique sur les chiens, **non monétisé**. Domaine : guidecanin.fr, sans
 
 Cycle en sept étapes, **dans l'ordre**. On ne rédige pas avant que Valentin ait validé le brief.
 
+**Pause des nouveaux articles (depuis le 18/11/2026)** : prendre le prochain contenu de `keywords/reecritures.md`, pas le calendrier. Le calendrier sert seulement à choisir la requête principale de la réécriture.
+
 ## 0. Carte des mots-clés, veille et volumes (commun aux 4 sites)
 
 - **Sujets de fond** : `config/keywords.yml` (calendrier lisible dans `keywords/calendrier.md`), régénéré le 1er du mois par le workflow « Carte des mots-clés » (`scripts/keyword_map.py`, identique dans les 4 dépôts ; graines, rubriques et exclusions dans `config/keyword_seeds.yml`). Prendre le prochain sujet du calendrier ; `statut: existe_peut_etre` = un article existant couvre peut-être déjà le sujet : vérifier et **mettre à jour** plutôt que créer.

@@ -13,6 +13,8 @@ Ce dépôt pilote le site WordPress guidecanin.fr (guide pratique sur les chiens
 
 ## Écriture
 
+**Pause des nouveaux articles depuis le 18/11/2026** : on réécrit d'abord les 17 contenus importés, dans l'ordre de `keywords/reecritures.md`. Aucun nouvel article tant que cette file n'est pas vide.
+
 Les sujets de fond viennent de la carte des mots-clés (`config/keywords.yml`, `keywords/calendrier.md`), régénérée le 1er du mois ; l'actualité, de `veille/`. Voir l'étape 0 du skill de contenu.
 
 Suivre le skill **`guide-canin-contenu`** (matière par pôle : études scientifiques, avis et UGC, livres d'éducateurs ; modèles de `templates/` ; veille `veille/` et programmation `status: future`) et sa grille `algoproof.md` (`.claude/skills/guide-canin-contenu/`).
