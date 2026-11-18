@@ -103,7 +103,7 @@ Après chaque sortie dans l'herbe, passez la main à rebrousse-poil sur ces zone
 ## Comment protéger votre chien des tiques
 
 - **Un antiparasitaire actif contre les tiques** : collier, pipette (spot-on), spray ou comprimé. Le bon choix dépend du poids du chien, de son mode de vie (baignades, enfants à la maison) et de la région. Choisissez-le avec votre vétérinaire, et respectez le rythme de renouvellement indiqué : un produit périmé ne protège plus.
-- **L'inspection après chaque sortie**, même avec un antiparasitaire : certains produits tuent la tique après qu'elle s'est fixée, et le retrait reste plus sûr.
+- **L'inspection après chaque sortie**, même avec un antiparasitaire : certains produits tuent la tique après qu'elle s'est fixée, et le retrait reste plus sûr. Le [brossage avec un peigne ou une carde adaptés au poil](/top-des-brosses-pour-chien/) aide à les repérer sur un pelage épais.
 - **Le vaccin contre la piroplasmose** existe. Il ne protège pas à 100 % et atténue surtout la gravité de la maladie. Il se discute avec votre vétérinaire si vous vivez ou partez dans une zone très touchée.
 - **Les remèdes « naturels »** (huiles essentielles, vinaigre, ail) n'ont pas montré d'efficacité comparable, et certaines huiles essentielles sont toxiques pour le chien. Ne les utilisez pas à la place d'un antiparasitaire.
 

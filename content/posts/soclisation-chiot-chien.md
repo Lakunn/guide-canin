@@ -55,7 +55,7 @@ L'objectif n'est pas de tout cocher, mais de multiplier les **petites expérienc
 | **Bruits** | Aspirateur, sèche-cheveux, orage et pétards enregistrés très bas, sonnette, circulation, travaux |
 | **Lieux** | Voiture, rue animée, terrasse de café, ascenseur, escalier, gare, cabinet vétérinaire (juste pour une friandise) |
 | **Surfaces** | Carrelage, herbe mouillée, graviers, grille, pont, sable |
-| **Manipulations** | Toucher les pattes, les oreilles, la bouche, le brosser, le poser sur une table, couper un bout de griffe |
+| **Manipulations** | Toucher les pattes, les oreilles, la bouche, le brosser (avec une [brosse douce](/top-des-brosses-pour-chien/)), le poser sur une table, couper un bout de griffe |
 | **Solitude** | Courtes périodes seul dans une pièce, puis à la maison (voir [l'anxiété de séparation](/anxiete-separation-chien/)) |
 
 Un rythme réaliste : **deux ou trois découvertes courtes par jour**, entrecoupées de longues siestes. Un chiot dort 16 à 20 heures par jour ; trop de stimulations le fatiguent et le rendent irritable.
