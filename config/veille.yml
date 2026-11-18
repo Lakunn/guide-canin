@@ -16,8 +16,9 @@ feeds:
     url: "https://news.google.com/rss/search?q=rappel+croquettes+OR+%22aliment+pour+chien%22+rappel&hl=fr&gl=FR&ceid=FR:fr"
     filter: false
   # Sources officielles et institutionnelles
-  - name: "Service-public.fr (actualités)"
-    url: "https://www.service-public.fr/abonnements/rss/actu-actu-part.rss"
+  # service-public.fr n'a plus de flux RSS (404 depuis le passage en .gouv.fr) : lu via Google Actualités filtré sur le domaine
+  - name: "Service-public.fr (via Google Actualités)"
+    url: "https://news.google.com/rss/search?q=site:service-public.gouv.fr+(chien+OR+animal+OR+animaux)&hl=fr&gl=FR&ceid=FR:fr"
   - name: "ANSES (actualités)"
     url: "https://www.anses.fr/fr/flux-actualites.rss"
   - name: "Ministère de l'Agriculture"
