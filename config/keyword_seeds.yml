@@ -1,0 +1,89 @@
+# Graines de la carte des mots-clés de guidecanin.fr (scripts/keyword_map.py, script commun aux 4 sites).
+# Ligne éditoriale : santé, alimentation, éducation et vie quotidienne avec un chien, sources vérifiées.
+
+langue: fr
+pays: FR
+par_semaine: 3
+semaines: 10
+serp_max: 40      # SerpAPI gratuit : 250 par mois pour les 4 sites ; DataForSEO dès que la clé est là
+facteur_bing: 20
+contenus: [content/posts]
+
+graines:
+  - chien
+  - chiot
+  - mon chien
+  - pourquoi mon chien
+  - comment
+  - éduquer son chien
+  - race de chien
+  - chien peut il manger
+  - croquettes chien
+  - maladie chien
+  - vaccin chien
+  - harnais chien
+  - chien qui
+  - adopter un chien
+
+declinaisons: [pourquoi, comment, quand, quel, quelle, combien, normal, danger, remède, prix, âge, taille, toute la journée]
+
+# Second niveau : chaque race repérée (« berger australien caractère ») est déclinée en sujets de fiche.
+second_niveau_desactive:
+  motif: '^(.+?)\s+(?:caractere|caractère|chiot|prix|taille|poids|education|éducation|esperance de vie|espérance de vie)$'
+  gabarits: ["{d} caractère", "{d} santé", "{d} éducation", "{d} espérance de vie"]
+  max: 20
+  exclure_mots: [chien, chiot, mon, son, un, quel, quelle, petit, grand, race, croquettes, harnais, prix]
+
+rubriques:
+  - {slug: guide-achat-accessoires-chien, adequation: 0.7, motif: '\b(meilleur|meilleure|comparatif|avis|test)\b.*\b(harnais|laisse|collier|panier|gamelle|jouet|niche|cage|croquettes?|coussin|manteau)\b'}
+  - {slug: accessoires-chien, adequation: 0.75, motif: '\b(harnais|laisse|collier|panier|gamelle|jouets?|niche|cage|coussin|manteau|muselieres?|brosse|caisse)\b'}
+  - {slug: race-de-chien, adequation: 0.9, motif: '\b(race|races|caractere|esperance de vie|berger|bouledogue|labrador|golden|husky|chihuahua|cavalier|teckel|shih tzu|beagle|malinois|staff|spitz|carlin|caniche|jack russell|border collie|yorkshire)\b'}
+  - {slug: education-canine, adequation: 1.0, motif: '\b(eduquer|education|apprendre|dresser|dressage|propre|propreté|aboie|aboiements?|mord|morsure|tire|rappel|seul|destructeur|socialisation|ordre|assis|obeissance|anxiete|stress|peur)\b'}
+  - {slug: blog, adequation: 1.0, motif: '\b(chiens?|chiots?)\b'}
+rubrique_defaut: {slug: a-classer, adequation: 0.3}
+rubriques_coeur: [education-canine, blog]
+
+mots_habillage: [chien, chiens, chiot, chiots, mon, son, comment, pourquoi, quel, quelle, ou, que, quoi, faire, normal, est, ce, qu]
+
+exclure_mots:
+  - chat
+  - chats
+  - coloriage
+  - dessin
+  - film
+  - série
+  - chanson
+  - paroles
+  - jeu
+  - leboncoin
+  - vendre
+  - vente
+  - à donner
+  - andalou
+  - hot dog
+  - chiendent
+  - zara
+  - meme
+  - streamer
+  - fortnite
+  - minecraft
+  - pokemon
+  - signification
+  - rêve
+  - rêver
+  - tatouage
+  - astrologie
+  - chinois
+  - traduction
+  - anglais
+  - définition
+  - synonyme
+  # bruit relevé au premier passage (18/11/2026)
+  - rennes
+  - bretagne
+  - quimper
+  - vannes
+  - brest
+  - lorient
+  - nantes
+  - lettre

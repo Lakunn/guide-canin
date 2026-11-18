@@ -1,0 +1,2694 @@
+# Carte des mots-clés, générée par scripts/keyword_map.py le 2026-11-18. Ne pas éditer à la main :
+# volumes manuels dans config/volumes.yml, graines et règles dans config/keyword_seeds.yml.
+genere_le: '2026-11-18'
+sources_volumes:
+  indice Suggest: 39
+calendrier:
+- date: '2026-11-23'
+  requete: vaccin chien prix
+  volume: null
+  rubrique: blog
+- date: '2026-11-25'
+  requete: chiot france
+  volume: null
+  rubrique: blog
+- date: '2026-11-27'
+  requete: chien peut il manger du melon
+  volume: null
+  rubrique: blog
+- date: '2026-11-30'
+  requete: éduquer son chien au rappel
+  volume: null
+  rubrique: education-canine
+- date: '2026-12-02'
+  requete: chien qui aboie
+  volume: null
+  rubrique: education-canine
+- date: '2026-12-04'
+  requete: chien dangereux race
+  volume: null
+  rubrique: race-de-chien
+- date: '2026-12-07'
+  requete: chien-loup
+  volume: null
+  rubrique: blog
+- date: '2026-12-09'
+  requete: éduquer son chien pour les nuls
+  volume: null
+  rubrique: education-canine
+- date: '2026-12-11'
+  requete: chien qui boit beaucoup
+  volume: null
+  rubrique: blog
+- date: '2026-12-14'
+  requete: adopter un chiot quel age
+  volume: null
+  rubrique: blog
+- date: '2026-12-16'
+  requete: mon chien se gratte beaucoup
+  volume: null
+  rubrique: blog
+- date: '2026-12-18'
+  requete: éduquer son chien à ne pas aboyer
+  volume: null
+  rubrique: education-canine
+- date: '2026-12-21'
+  requete: chien qui ressemble à un renard
+  volume: null
+  rubrique: blog
+- date: '2026-12-23'
+  requete: pourquoi mon chien me lèche
+  volume: null
+  rubrique: blog
+- date: '2026-12-25'
+  requete: vaccin chien quelle maladie
+  volume: null
+  rubrique: blog
+- date: '2026-12-28'
+  requete: eduquer son chien au clicker
+  volume: null
+  rubrique: education-canine
+- date: '2026-12-30'
+  requete: chien qui tousse
+  volume: null
+  rubrique: blog
+- date: '2027-01-01'
+  requete: mon chien ne mange plus ses croquettes
+  volume: null
+  rubrique: blog
+- date: '2027-01-04'
+  requete: croquettes chien stérilisé
+  volume: null
+  rubrique: blog
+- date: '2027-01-06'
+  requete: vaccin chien obligatoire
+  volume: null
+  rubrique: blog
+- date: '2027-01-08'
+  requete: pourquoi mon chien mange son caca
+  volume: null
+  rubrique: blog
+- date: '2027-01-11'
+  requete: chien a adopter
+  volume: null
+  rubrique: blog
+- date: '2027-01-13'
+  requete: mon chien a la diarrhée
+  volume: null
+  rubrique: blog
+- date: '2027-01-15'
+  requete: maladie chien moustique
+  volume: null
+  rubrique: blog
+- date: '2027-01-18'
+  requete: vaccin chien quel age
+  volume: null
+  rubrique: blog
+- date: '2027-01-20'
+  requete: harnais chien y
+  volume: null
+  rubrique: accessoires-chien
+- date: '2027-01-22'
+  requete: mon chien tremble pourquoi
+  volume: null
+  rubrique: blog
+- date: '2027-01-25'
+  requete: chien qui ne perd pas ses poils
+  volume: null
+  rubrique: blog
+- date: '2027-01-27'
+  requete: croquettes chien sans céréales
+  volume: null
+  rubrique: blog
+- date: '2027-01-29'
+  requete: eduquer son chien a la proprete
+  volume: null
+  rubrique: education-canine
+articles:
+- cle: vaccin chien prix
+  requete: vaccin chien prix
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 4.8
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - vaccin chien rappel prix
+  - vaccin chien prix vétérinaire
+  - vaccin chien prix maroc
+  - vaccin chien prix québec
+  - vaccin chien prix tunisie
+  - vaccin chien prix belgique
+  - vaccin chien prix france
+  - vaccin chien obligatoire prix
+  - vaccin chien chppil prix
+  - vaccin chien leishmaniose prix
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 1.2
+  date_prevue: '2026-11-23'
+- cle: chiot france
+  requete: chiot france
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 4.8
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien de france
+  - adopter un chiot ile de france
+  - adopter un chiot france
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 1.2
+  date_prevue: '2026-11-25'
+- cle: chien peut il manger du melon
+  requete: chien peut il manger du melon
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 4.2
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - mon chien peut il manger du melon
+  - un chien peut il manger du melon d eau
+  - un chien peut il manger du melon jaune
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 1.05
+  date_prevue: '2026-11-27'
+- cle: éduquer son chien au rappel
+  requete: éduquer son chien au rappel
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 3.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - comment éduquer son chien au rappel
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.93
+  date_prevue: '2026-11-30'
+- cle: chien qui aboie
+  requete: chien qui aboie
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 3.4
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien qui aboie quand il est seul
+  - chien qui aboie toute la journée voisinage
+  - chien petite taille qui n aboie pas
+  - chien qui aboie toute la journée
+  - chien dangereux qui aboie
+  - chien qui aboie quel recours
+  - chien qui aboie toute la journée spa
+  - chien qui n'aboie pas
+  - chien westie qui aboie
+  - chien qui aboie la nuit
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.85
+  date_prevue: '2026-12-02'
+- cle: éduquer son chien pour les nuls
+  requete: éduquer son chien pour les nuls
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 3.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - eduquer son chien pour les nuls pdf
+  - eduquer son chien pour les nuls avis
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.82
+  date_prevue: '2026-12-09'
+- cle: chien quelle race choisir
+  requete: chien quelle race choisir
+  rubrique: race-de-chien
+  volume: null
+  volume_source: null
+  demande: 3.6
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - quelle race de chien choisir quand on travaille
+  variantes: {}
+  questions: []
+  associees: []
+  statut: existe_peut_etre
+  slug: quelle-race-chien-choisir
+  score: 0.81
+- cle: chien qui boit beaucoup
+  requete: chien qui boit beaucoup
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 3.1
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien âgé qui boit beaucoup
+  - maladie chien qui boit beaucoup
+  - chien qui boit beaucoup d'eau
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.78
+  date_prevue: '2026-12-11'
+- cle: chien dangereux race
+  requete: chien dangereux race
+  rubrique: race-de-chien
+  volume: null
+  volume_source: null
+  demande: 3.4
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - race de chien dangereux en france
+  - race de chien dangereux liste
+  - race de chien dangereux rottweiler
+  - race de chien dangereux au québec
+  - race de chien dangereux en belgique
+  - race de chien dangereux pour les enfants
+  - race de chien dangereux en suisse
+  - race de chien les plus dangereux
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.77
+  date_prevue: '2026-12-04'
+- cle: chien qui ressemble à un renard
+  requete: chien qui ressemble à un renard
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.9
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires: []
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.72
+  date_prevue: '2026-12-21'
+- cle: éduquer son chien à ne pas aboyer
+  requete: éduquer son chien à ne pas aboyer
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 2.8
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - comment eduquer son chien a ne pas aboyer
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.7
+  date_prevue: '2026-12-18'
+- cle: chien-loup
+  requete: chien-loup
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien qui imite le loup
+  - adopter un chien loup
+  - chien loup tchécoslovaque
+  - pourquoi mon chien fait le loup
+  - chien qui fait le loup
+  - chien qui hurle comme un loup
+  - race de chien loup
+  - mon chien hurle comme un loup
+  - pourquoi mon chien hurle comme un loup
+  - chien qui ressemble a un loup
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-07'
+- cle: adopter un chiot quel age
+  requete: adopter un chiot quel age
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires: []
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-14'
+- cle: mon chien se gratte beaucoup
+  requete: mon chien se gratte beaucoup
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires: []
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-16'
+- cle: pourquoi mon chien me lèche
+  requete: pourquoi mon chien me lèche
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien me lèche les pieds
+  - pourquoi mon chien me lèche tout le temps
+  - pourquoi mon chien me lèche les jambes
+  - pourquoi mon chien me lèche le visage
+  - pourquoi mon chien me lèche les mains
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-23'
+- cle: vaccin chien quelle maladie
+  requete: vaccin chien quelle maladie
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - vaccin chien contre quelle maladie
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-25'
+- cle: eduquer son chien au clicker
+  requete: eduquer son chien au clicker
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 2.7
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires: []
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.68
+  date_prevue: '2026-12-28'
+- cle: chien qui tousse
+  requete: chien qui tousse
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.6
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien qui tousse remède de grand mère
+  - chien qui tousse remède naturel
+  - remède chien qui tousse
+  - chien agé qui tousse
+  - maladie chien qui tousse
+  - chien qui tousse pourquoi
+  - chien qui tousse beaucoup
+  - chien qui tousse cardiaque
+  - chien qui tousse et crache
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.65
+  date_prevue: '2026-12-30'
+- cle: mon chien ne mange plus ses croquettes
+  requete: mon chien ne mange plus ses croquettes
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.5
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien ne mange plus ses croquettes
+  - mon chien ne mange plus ses croquettes du jour au lendemain
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.62
+  date_prevue: '2027-01-01'
+- cle: croquettes chien stérilisé
+  requete: croquettes chien stérilisé
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.5
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - croquettes chien senior stérilisé
+  - croquettes chien stérilisé taille moyenne
+  - croquettes chien stérilisé petite taille
+  - croquettes chien stérilisé royal canin
+  - croquettes chien stérilisé proplan
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.62
+  date_prevue: '2027-01-04'
+- cle: maladie chien tique
+  requete: maladie chien tique
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.5
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - maladie chien tique symptome
+  - maladie chien transmise par tique
+  variantes: {}
+  questions: []
+  associees: []
+  statut: existe_peut_etre
+  slug: tiques-chien-que-faire
+  score: 0.62
+- cle: vaccin chien obligatoire
+  requete: vaccin chien obligatoire
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.5
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - vaccin chien obligatoire camping
+  - vaccin obligatoire chien italie
+  - vaccin chien obligatoire âge
+  - vaccin chien obligatoire suisse
+  - vaccin chien est ce obligatoire
+  - vaccin chien obligatoire tous les ans
+  - vaccin chien obligatoire france
+  - vaccin chien obligatoire espagne
+  - vaccin chien rage obligatoire
+  - vaccin chien obligatoire belgique
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.62
+  date_prevue: '2027-01-06'
+- cle: pourquoi mon chien mange son caca
+  requete: pourquoi mon chien mange son caca
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.4
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien adulte mange son caca
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.6
+  date_prevue: '2027-01-08'
+- cle: chien a adopter
+  requete: chien a adopter
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.4
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - adopter un chien spa
+  - adopter un chien petite taille
+  - adopter un chien quelle race
+  - adopter un chien spa prix
+  - adopter un chien quand on travaille
+  - adopter un chien retraité d'élevage avis
+  - adopter un chien a quel age
+  - adopter un chien prix
+  - adopter un chien senior
+  - adopter un chien finistère
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.6
+  date_prevue: '2027-01-11'
+- cle: mon chien a la diarrhée
+  requete: mon chien a la diarrhée
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien a la diarrhée
+  - mon chien a la diarrhée que faire
+  - mon chien vomit et diarrhée
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.57
+  date_prevue: '2027-01-13'
+- cle: mon chien tremble pourquoi
+  requete: mon chien tremble pourquoi
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien quand il dort il tremble
+  - pourquoi mon chien âgé tremble
+  - pourquoi mon chien il tremble
+  - pourquoi mon chien tremble quand il dort
+  - pourquoi mon chien tremble quand je lui parle
+  - pourquoi mon chien tremble tout le temps
+  - pourquoi mon chien tremble t il
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.57
+  date_prevue: '2027-01-22'
+- cle: maladie chien moustique
+  requete: maladie chien moustique
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - maladie chien moustique sud
+  - maladie chien piqure moustique
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.57
+  date_prevue: '2027-01-15'
+- cle: vaccin chien quel age
+  requete: vaccin chien quel age
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - vaccin chien jusqu à quel âge
+  - vaccin rage chien quel age
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.57
+  date_prevue: '2027-01-18'
+- cle: race de chien moyen
+  requete: race de chien moyen
+  rubrique: race-de-chien
+  volume: null
+  volume_source: null
+  demande: 2.5
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - race de chien moyen calme et affectueux
+  - race de chien petit moyen
+  - race de chien du moyen âge
+  - race de chien moyen calme et obéissant
+  - race de chien petit moyen calme
+  - race de chien taille petit moyen
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.56
+- cle: harnais chien y
+  requete: harnais chien y
+  rubrique: accessoires-chien
+  volume: null
+  volume_source: null
+  demande: 3.0
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - harnais chien y ou h
+  - harnais chien y anti traction
+  - harnais chien forme y
+  - harnais chien y dog copenhagen
+  - harnais chien y ou t
+  - harnais chien y avec poignée
+  - harnais chien y rose
+  - harnais chien y cuir
+  - harnais chien y julius
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.56
+  date_prevue: '2027-01-20'
+- cle: chien qui ne perd pas ses poils
+  requete: chien qui ne perd pas ses poils
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.2
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien petite taille qui ne perd pas ses poils
+  - race de chien qui ne perd pas ses poils
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.55
+  date_prevue: '2027-01-25'
+- cle: croquettes chien sans céréales
+  requete: croquettes chien sans céréales
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.2
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - croquettes sans cereales chien danger
+  - croquettes chien senior sans céréales
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.55
+  date_prevue: '2027-01-27'
+- cle: eduquer son chien a la proprete
+  requete: eduquer son chien a la proprete
+  rubrique: education-canine
+  volume: null
+  volume_source: null
+  demande: 2.2
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - comment eduquer son chien a la proprete
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.55
+  date_prevue: '2027-01-29'
+- cle: race de chien z
+  requete: race de chien z
+  rubrique: race-de-chien
+  volume: null
+  volume_source: null
+  demande: 2.4
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - race de chien de a à z photos
+  - race de chien tele z
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.54
+- cle: mon chien vomit jaune
+  requete: mon chien vomit jaune
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.1
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - pourquoi mon chien vomit jaune
+  - mon chien vomit de la bile jaune
+  - mon chien vomit un liquide jaune
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.53
+- cle: croquettes chien royal canin
+  requete: croquettes chien royal canin
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.1
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - croquettes chien royal canin gastro intestinal
+  - croquettes chien royal canin sterilised
+  - croquettes chien royal canin puppy
+  - croquettes chien royal canin gastro intestinal low fat
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.53
+- cle: maladie chien rat
+  requete: maladie chien rat
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.1
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - maladie chien urine de rat
+  - maladie chien transmise par rat
+  - vaccin chien maladie rat
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.53
+- cle: race de chien grand
+  requete: race de chien grand
+  rubrique: race-de-chien
+  volume: null
+  volume_source: null
+  demande: 2.3
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - race de chien le plus grand du monde
+  - race de chien très grand
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.52
+- cle: chien qui vomit
+  requete: chien qui vomit
+  rubrique: blog
+  volume: null
+  volume_source: null
+  demande: 2.0
+  faisabilite: 0.5
+  saison: []
+  tranco_median_top10: null
+  resultats_faibles_top10: null
+  officiels_top5: null
+  ai_overview: null
+  top3: []
+  secondaires:
+  - chien qui vomit de la bile
+  - chien qui vomit jaune
+  - chien qui vomit du sang
+  - chien qui vomit de la mousse blanche
+  - chien qui vomit quand s inquiéter
+  - maladie chien qui vomit
+  - chien qui vomit de la bile jaune
+  - chien qui vomit de la mousse
+  - chien qui vomit toute la journee
+  - chien qui vomit du liquide jaune
+  variantes: {}
+  questions: []
+  associees: []
+  statut: idee
+  slug: null
+  score: 0.5
+idees_paa: []
+reserve:
+- requete: chien peut il manger raisin
+  demande: 3.4
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger des noix
+  demande: 3.0
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger pomme
+  demande: 2.7
+  volume: null
+  rubrique: blog
+- requete: vaccin chien rappel prix
+  demande: 2.6
+  volume: null
+  rubrique: education-canine
+- requete: chien race
+  demande: 2.7
+  volume: null
+  rubrique: race-de-chien
+- requete: adopter un chien spa
+  demande: 2.4
+  volume: null
+  rubrique: blog
+- requete: adopter un chien petite taille
+  demande: 2.2
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien me lèche les pieds
+  demande: 2.2
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger du pain
+  demande: 2.1
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien se lèche les pattes
+  demande: 2.1
+  volume: null
+  rubrique: blog
+- requete: comment éduquer son chien pour qu il n aboie pas
+  demande: 2.0
+  volume: null
+  rubrique: education-canine
+- requete: chien taille moyenne
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: chien normal
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: chien dangereux
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: chien âge humain
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: éduquer son chien
+  demande: 2.0
+  volume: null
+  rubrique: education-canine
+- requete: croquettes chien
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien prix
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: maladie chien
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien quand il dort il tremble
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: chien japonais
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien senior
+  demande: 2.0
+  volume: null
+  rubrique: blog
+- requete: race de chien grande taille
+  demande: 2.1
+  volume: null
+  rubrique: race-de-chien
+- requete: chien enfermé toute la journée loi
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien ultima
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien comment choisir
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: maladie chien cushing
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: vaccin chien tout les ans
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: race de chien petit
+  demande: 2.1
+  volume: null
+  rubrique: race-de-chien
+- requete: harnais chien anti traction
+  demande: 2.5
+  volume: null
+  rubrique: accessoires-chien
+- requete: adopter un chien quelle race
+  demande: 2.1
+  volume: null
+  rubrique: race-de-chien
+- requete: adopter un chien spa prix
+  demande: 1.9
+  volume: null
+  rubrique: blog
+- requete: mon chien vomit de la bile
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: mon chien grogne quand il est couché
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: chien comment dessiner
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: chien quelle famille
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: chien âge qui saigne du nez
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: croquette chien prix usine
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: adopter un chiot prix
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: chien qui lit
+  demande: 1.8
+  volume: null
+  rubrique: blog
+- requete: vaccin chien toux du chenil
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: quelle race de chien quand on travaille toute la journée
+  demande: 1.9
+  volume: null
+  rubrique: race-de-chien
+- requete: harnais chien
+  demande: 2.3
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien attaché toute la journée
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: chien de chasse
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: chien prix
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: éduquer son chien gratuitement
+  demande: 1.7
+  volume: null
+  rubrique: education-canine
+- requete: croquettes chien hill's
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: maladie chien piroplasmose
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien mange de l'herbe
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: adopter un chien quand on travaille
+  demande: 1.7
+  volume: null
+  rubrique: blog
+- requete: mon chien a mangé 2 raisins
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger de la pasteque
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien tous les combien
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien quand
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien danger
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien âge
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: adopter un chien retraité d'élevage avis
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: quelle race de chien est faite pour moi
+  demande: 1.8
+  volume: null
+  rubrique: race-de-chien
+- requete: eduquer son chien a faire ses besoins dehors
+  demande: 1.6
+  volume: null
+  rubrique: education-canine
+- requete: chien 51
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: chien comment vider glandes anales
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: chien âge
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: chien taille moyenne calme
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien prix vétérinaire
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: adopter un chien a quel age
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: harnais chien decathlon
+  demande: 2.1
+  volume: null
+  rubrique: accessoires-chien
+- requete: mon chien quand il dort il tremble
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: mon chien se gratte remède de grand mère
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien combien de temps
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: adopter un chien prix
+  demande: 1.6
+  volume: null
+  rubrique: blog
+- requete: vaccin chien pharmacie
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: eduquer son chien au canicross
+  demande: 1.5
+  volume: null
+  rubrique: education-canine
+- requete: eduquer son chien en 15 minutes par jour
+  demande: 1.5
+  volume: null
+  rubrique: education-canine
+- requete: vaccin chien chenil
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: mon chien bave pourquoi
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: eduquer son chien sans friandises
+  demande: 1.5
+  volume: null
+  rubrique: education-canine
+- requete: adopter un chien senior
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien qui mange de l'herbe
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chiot a adopter
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien papillon
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien dangereux du monde
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien dangereux attaque
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien aboie toute la journée
+  demande: 1.5
+  volume: null
+  rubrique: education-canine
+- requete: mon chien boit beaucoup
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: maladie chien urine de rat
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: vaccin chien leptospirose
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: adopter un chien finistère
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: vaccin chien prix maroc
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: race de chien taille moyenne
+  demande: 1.6
+  volume: null
+  rubrique: race-de-chien
+- requete: pourquoi mon chien quand il pète il pue
+  demande: 1.5
+  volume: null
+  rubrique: blog
+- requete: chien qui pleure
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: quelle race de chien
+  demande: 1.6
+  volume: null
+  rubrique: race-de-chien
+- requete: mon chien tousse pourquoi
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: croquettes chien hypoallergénique
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: mon chien pleure quand je pars
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien éternue quand il est content
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: harnais chien personnalisé
+  demande: 1.9
+  volume: null
+  rubrique: accessoires-chien
+- requete: pourquoi mon chien me lèche tout le temps
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: eduquer son chien a ne pas tirer sur la laisse
+  demande: 1.9
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien malade quand s inquiéter
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: chien taille moyenne poil court
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien a les yeux rouges
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: un chien peut il manger des carottes crues
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: adopter un chien vieux
+  demande: 1.4
+  volume: null
+  rubrique: blog
+- requete: chien berger
+  demande: 1.5
+  volume: null
+  rubrique: race-de-chien
+- requete: chien xolo
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger des haricots verts
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger fraise
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: vaccin chien quelle frequence
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien combien de syllabes
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien combien de repas par jour
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien prix pas cher
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien âgé qui boit beaucoup
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien quel age adulte
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien enfermé toute la journée
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: mon chien éternue pourquoi
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: maladie chien sanglier
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: vaccin chien jusqu à quel âge
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: adopter un chien abandonné
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: adopter un chien quand on est seul
+  demande: 1.3
+  volume: null
+  rubrique: education-canine
+- requete: race de chien moyen calme et affectueux
+  demande: 1.4
+  volume: null
+  rubrique: race-de-chien
+- requete: quelle race de chien vit le plus longtemps
+  demande: 1.4
+  volume: null
+  rubrique: race-de-chien
+- requete: mon chien vomit pourquoi
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: chien qui court
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: adopter un chien refuge
+  demande: 1.3
+  volume: null
+  rubrique: blog
+- requete: mon chien stupide
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger peche
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: harnais chien animalis
+  demande: 1.6
+  volume: null
+  rubrique: accessoires-chien
+- requete: vaccin chien senior
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: chien qui tremble pourquoi
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: chiot dort toute la journée
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: chiot age vaccin
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: comment éduquer son chien pour qu il soit propre
+  demande: 1.2
+  volume: null
+  rubrique: education-canine
+- requete: un chien peut il manger des pommes de terre cuites
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger pomme de terre
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: maladie chien arriere train
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: adopter un chien ou une chienne
+  demande: 1.2
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien mange de la terre
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger des mures
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: harnais chien h
+  demande: 1.5
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien de chasse race
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien vieux
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: harnais chien julius
+  demande: 1.5
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien xoloitzcuintle
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: chien xxl
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: eduquer son chien a la truffe
+  demande: 1.1
+  volume: null
+  rubrique: education-canine
+- requete: dresser son chien de chasse
+  demande: 1.1
+  volume: null
+  rubrique: education-canine
+- requete: dresser son chien de troupeau
+  demande: 1.1
+  volume: null
+  rubrique: education-canine
+- requete: entrainer son chien aux soins quotidiens
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: maladie chien diarrhée vomissement
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: vaccin chien dhppi
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: vaccin chien parvovirose
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: chien qui court vite
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: harnais chien taille m
+  demande: 1.5
+  volume: null
+  rubrique: accessoires-chien
+- requete: vaccin chiot quel age
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: chien qui aboie quand il est seul
+  demande: 1.1
+  volume: null
+  rubrique: education-canine
+- requete: chien dangereux qui tue
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: mon chien mange de l'herbe
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: vaccin chien prix québec
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: vaccin chien prix tunisie
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: mon chien stupide quelle race
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: quelle race de chien es tu
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien berger
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: comment éduquer son chien
+  demande: 1.1
+  volume: null
+  rubrique: education-canine
+- requete: mon chien pleure pourquoi
+  demande: 1.1
+  volume: null
+  rubrique: blog
+- requete: harnais chien comment mettre
+  demande: 1.4
+  volume: null
+  rubrique: accessoires-chien
+- requete: pourquoi mon chien aboie quand je pars
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: eduquer son chien au sifflet
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: eduquer son chien pour les nuls pdf
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: un chien peut il manger de la banane
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien france
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien puce et tique
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien france
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: race de chien mots fléchés
+  demande: 1.2
+  volume: null
+  rubrique: race-de-chien
+- requete: maladie chien transmissible homme
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien l4
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien autour de moi
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger des pates
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien adulte les premiers jours
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: race de chien spitz
+  demande: 1.1
+  volume: null
+  rubrique: race-de-chien
+- requete: adopter un chien cavalier king charles
+  demande: 1.1
+  volume: null
+  rubrique: race-de-chien
+- requete: pourquoi chien 51
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien comment se faire larguer en 10 leçons
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien quand on travaille
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien dangereux france
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: remède chien diarrhée
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien taille moyenne poil long
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien taille moyenne calme poil court
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui aboie toute la journée voisinage
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: chiot comment lui apprendre la propreté
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: chiot quand passer a deux repas
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chiot quel age
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: diarrhée chiot remède naturel
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chiot prix
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chiot taille adulte
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien boite comment le soulager
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien a quelque chose qui le gêne dans la gorge
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: combien mon chien doit manger
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien ronfle est ce normal
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien est dangereux que faire
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: castrer mon chien prix
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien age ne tient plus sur ses pattes
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: mon chien dort toute la journée
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: comment savoir pourquoi mon chien se gratte
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien a mordu quelqu un
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien âgé tremble
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien dort toute la journée
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: comment calculer l âge d un chien
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: prix pour eduquer son chien
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: eduquer son chien adulte
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: quel fruit un chien peut il manger
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: combien d œufs un chien peut il manger par jour
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien quelle quantité
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien danger
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien agé
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien taille moyenne
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien pourquoi
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien malade comment savoir
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien quel antibiotique
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien malade combien de temps
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: maladie chien dangereux
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien remède naturel
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: assurance maladie chien prix
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: maladie chien agé
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien comment faire
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui commence par b
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui grogne quand on le touche
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui a quelque chose de coincé dans la gorge
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui respire normalement
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui tousse remède de grand mère
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui grandit pas prix
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien petite taille qui n aboie pas
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: chien qui aboie toute la journée
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi adopter un chien
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien comment faire
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien combien ca coute
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien agé
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien taille moyenne
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chiot golden retriever
+  demande: 1.1
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien calme et obéissant
+  demande: 1.1
+  volume: null
+  rubrique: race-de-chien
+- requete: adopter un chien adulte
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: harnais chien taille l
+  demande: 1.3
+  volume: null
+  rubrique: accessoires-chien
+- requete: eduquer son chien a rester seul
+  demande: 1.0
+  volume: null
+  rubrique: education-canine
+- requete: chien peut il manger des lentilles
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien quel endroit
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: vaccin chien prix belgique
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger chou fleur
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: croquettes chien chasse
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: chien qui couine
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: adopter un chien de roumanie
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: harnais chien true love
+  demande: 1.3
+  volume: null
+  rubrique: accessoires-chien
+- requete: croquette chien quelle marque choisir
+  demande: 1.0
+  volume: null
+  rubrique: blog
+- requete: harnais chien quel age
+  demande: 1.3
+  volume: null
+  rubrique: accessoires-chien
+- requete: pourquoi mon chien bâille quand je lui parle
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien aboie quand je pars
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi mon chien a la diarrhée
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: un chien peut il manger du thon en boîte
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien senior arthrose
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: maladie chien creuse
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: vaccin chien pour aller en italie
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui jappe
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: race de chien vieux berger allemand
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: pourquoi chien 51 s appelle comme ca
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien normal hogwarts legacy
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: diarrhée chien remède naturel
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien seul toute la journée
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: chien qui bave
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chiot quand vermifuger
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chiot combien coûte prix cavalier king charles
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: chiot combien de repas par jour
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chiot age
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chiot taille moyenne
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien souffre comment le soulager
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien a quelque chose de coincé dans la gorge que faire
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien se gratte quelle croquette
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: combien mon chien va peser
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien pete est ce normal
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien devient dangereux que faire
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien est constipé remède naturel
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: pucer mon chien prix
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien âgé boit beaucoup
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: mon chien dort toute la journée est ce normal
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien aboie quand quelqu un rentre
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi mon chien âgé tourne en rond
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien pleure toute la journée
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: comment éduquer son chien au rappel
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: dresser son chien adulte
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi race de chien
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien comment choisir
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien quand on travaille
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: quelle race de chien ne perd pas ses poils
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien combien
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien prix
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien age
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: quels légumes un chien peut il manger
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: combien un chien peut il rester sans manger
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquette chien dangereux
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien agé avis
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chiot taille moyenne
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien comment soigner
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien quand consulter
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien quel traitement
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien combien de temps
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: maladie dangereuse chiot
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien malade remede
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien prix
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: maladie chien vieillissant
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: vaccin chiot combien de rappel
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: vaccin chien dangereux
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui miaule pourquoi
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui commence par a
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui a quelque chose dans la gorge
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui ronfle est ce normal
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien dangereux qui appeler
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui tousse remède naturel
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien qui joue au poker prix
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien petite taille qui ne perd pas ses poils
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: pourquoi adopter un chien de roumanie
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: comment adopter un chien gratuitement
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien saucisse
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: chien combien de temps enceinte
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien leclerc
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: maladie chien diarrhée
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: adopter un chien morbihan
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: quelle association pour adopter un chien
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: harnais chien voiture
+  demande: 1.2
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien de prairie
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: croquettes chien super u
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: race de chien v
+  demande: 1.0
+  volume: null
+  rubrique: race-de-chien
+- requete: chien taille petite
+  demande: 0.9
+  volume: null
+  rubrique: blog
+- requete: comment eduquer son chien a faire pipi dehors
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: chien dangereux qui aboie
+  demande: 0.9
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi mon chien ronfle quand il dort
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien reine d'angleterre
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger oeuf
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: apprendre son chien a marcher en laisse
+  demande: 1.1
+  volume: null
+  rubrique: accessoires-chien
+- requete: entrainer son chien au mordant
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: entrainer son chien au rappel
+  demande: 0.8
+  volume: null
+  rubrique: education-canine
+- requete: croquettes chien saumon
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: maladie chien chasse
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: vaccin chien nobivac kc
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: harnais chien t
+  demande: 1.1
+  volume: null
+  rubrique: accessoires-chien
+- requete: chien qui couine sans raison
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: adopter un chien luxembourg
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: adopter un chien réformé ou retraité
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: adopter un chien quebec
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien se roule dans l'herbe
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: vaccin chien obligatoire camping
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien peut il manger des crevettes
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: muselière chien toute la journée
+  demande: 1.1
+  volume: null
+  rubrique: accessoires-chien
+- requete: harnais chien maxi zoo
+  demande: 1.1
+  volume: null
+  rubrique: accessoires-chien
+- requete: race de chien eurasier
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: chiot prix cavalier king charles
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: comment s'appelle
+  demande: 2.7
+  volume: null
+  rubrique: a-classer
+- requete: pourquoi autant de race de chien
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: combien de race de chien existe t il
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien dangereux en france
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: races de chiens prix observés mastiff tibétain rouge
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: race de chien taille moyenne calme
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: chiot berger australien
+  demande: 0.9
+  volume: null
+  rubrique: race-de-chien
+- requete: pourquoi chien mange caca
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: diarrhée chien quand s inquiéter
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien combien de caca par jour
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien dangereux que faire
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: arthrose chien remède grand mère
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien prix spa
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: quand chiot ouvre les yeux
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chiot combien de caca par jour
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chiot prix spa
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chiot age adoption
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien aboie comment le faire taire
+  demande: 0.8
+  volume: null
+  rubrique: education-canine
+- requete: mon chien fixe quelque chose et aboie
+  demande: 0.8
+  volume: null
+  rubrique: education-canine
+- requete: mon chien se gratte quelle alimentation
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien tremble est ce normal
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: jamais sans mon chien dangereux
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien se gratte remède
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien billy prix
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien age fait caca dans la maison
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: mon chien aboie toute la journée que faire
+  demande: 0.8
+  volume: null
+  rubrique: education-canine
+- requete: pourquoi mon chien grogne sur quelqu'un
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien âgé boit beaucoup
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: pourquoi mon chien aboie toute la journée
+  demande: 0.8
+  volume: null
+  rubrique: education-canine
+- requete: quel légume mon chien peut il manger
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: croquette chiot quelle age
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: croquette chien prix leclerc
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: aliment chien dangereux
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: croquettes chien prix maroc
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: croquettes chien petite taille
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien comment savoir
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien quel medicament
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: maladie de lyme chien combien de temps
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien danger
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: infection urinaire chien remède maison
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: maladie foie chien âge
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: vaccin leptospirose chien danger
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien qui fugue pourquoi
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien qui commence par c
+  demande: 0.8
+  volume: null
+  rubrique: blog
+- requete: chien qui pleure quand il est seul
+  demande: 0.8
+  volume: null
+  rubrique: education-canine

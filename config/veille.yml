@@ -2,6 +2,13 @@
 # filter: false = tout garder (source déjà ciblée) ; sinon seuls les éléments contenant un mot-clé sont gardés.
 
 keywords: [chien, chiens, canin, canine, chiot, vétérinaire, animal de compagnie, animaux de compagnie, fourrière, morsure, i-cad, identification, rage, leishmaniose, tique, chenille processionnaire, maltraitance animale]
+lang_defaut: fr
+days: 8
+history_days: 45
+keep_top: 15
+min_sources: 1
+stop_extra: [chien, chiens, chiot, chiots, animal, animaux]
+
 exclude: [chat errant uniquement]
 
 feeds:

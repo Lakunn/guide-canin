@@ -13,6 +13,8 @@ Ce dépôt pilote le site WordPress guidecanin.fr (guide pratique sur les chiens
 
 ## Écriture
 
+Les sujets de fond viennent de la carte des mots-clés (`config/keywords.yml`, `keywords/calendrier.md`), régénérée le 1er du mois ; l'actualité, de `veille/`. Voir l'étape 0 du skill de contenu.
+
 Suivre le skill **`guide-canin-contenu`** (matière par pôle : études scientifiques, avis et UGC, livres d'éducateurs ; modèles de `templates/` ; veille `veille/` et programmation `status: future`) et sa grille `algoproof.md` (`.claude/skills/guide-canin-contenu/`).
 
 - Signature : « La rédaction de Guide Canin ». Vouvoiement. Aucun lien d'affiliation.
