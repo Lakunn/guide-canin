@@ -4,10 +4,12 @@ Un sujet entre dans le plan quand au moins deux sources en parlent, ou une sourc
 
 | Sujet | Score | Sources | Signal | Type | Contenu existant | Rapport |
 | --- | --- | --- | --- | --- | --- | --- |
-| Notre vétérinaire vous répond : Chien/chat, m'aime-t-il vraiment ? - TF1+ | 2.0 | 1 | – | debat | /chien-errant-que-faire/ | [2026-11-18](2026-11-18.md) |
-| Elle s'absente du travail pour emmener son chien chez le vétérinaire et le faire | 2.0 | 1 | – | debat | /que-faire-en-cas-de-morsures-de-chien/, /chien-le-plus-intelligent/, /chien-destructeur-que-faire/ | [2026-11-18](2026-11-18.md) |
-| Alzheimer : votre chien pourrait-il vous protéger de la maladie ? Ce que révèle  | 1.7 | 1 | – | debat | – | [2026-11-18](2026-11-18.md) |
-| S'occuper d'un chien pourrait diviser le risque de maladies cérébrales par deux, | 1.0 | 1 | – | debat | /meilleur-harnais-anti-traction-pour-chien-2025-comparatif-et-conseils/, /jouets-indestructibles-chien/, /comparatif-harnais-chien/ | [2026-11-18](2026-11-18.md) |
-| Céline Dion : déclic sur sa maladie, chien détecteur d’explosifs, tacle à René A | 1.0 | 1 | – | debat | – | [2026-11-18](2026-11-18.md) |
-| Actualités réglementaires vétérinaires du 7 au 13 novembre 2026 (semaine 46) | 1.0 | 1 | – | debat | – | [2026-11-18](2026-11-18.md) |
-| Vidéos : Maladie d’Aujeszky : qu'est-ce que cette maladie virale mortelle pour l | 1.0 | 1 | – | debat | /meilleur-harnais-anti-traction-pour-chien-2025-comparatif-et-conseils/ | [2026-11-18](2026-11-18.md) |
+| Maladie d'Alzheimer : vivre avec un chien pourrait réduire les risques, selon un | 2.0 | 1 | – | debat | – | [2026-11-23](2026-11-23.md) |
+| Chenille processionnaire et chien : que faire, et qui paie le vétérinaire quand  | 1.7 | 1 | – | debat | /tiques-chien-que-faire/, /chien-destructeur-que-faire/ | [2026-11-23](2026-11-23.md) |
+| Un vétérinaire écarte presque tout lien entre le chien montré par le ministère e | 1.7 | 1 | – | debat | /que-faire-en-cas-de-morsures-de-chien/ | [2026-11-23](2026-11-23.md) |
+| Dossier de demande de délivrance d’un permis provisoire de détention d’un chien  | 1.7 | 1 | – | debat | – | [2026-11-23](2026-11-23.md) |
+| Actualités réglementaires vétérinaires du 14 au 20 novembre 2026 (semaine 47) | 1.0 | 1 | – | debat | – | [2026-11-23](2026-11-23.md) |
+| En ouverture du forum des chefs des services vétérinaires du G7, Annie Genevard  | 1.0 | 1 | – | debat | – | [2026-11-23](2026-11-23.md) |
+| Notre vétérinaire vous répond : Chien/chat, m'aime-t-il vraiment ? - TF1+ | 1.0 | 1 | – | debat | /chien-errant-que-faire/ | [2026-11-23](2026-11-23.md) |
+| Infographie - Écoantibio, réduire l’utilisation des antibiotiques vétérinaires | 1.0 | 1 | – | debat | – | [2026-11-23](2026-11-23.md) |
+| Elle s'absente du travail pour emmener son chien chez le vétérinaire et le faire | 1.0 | 1 | – | debat | /que-faire-en-cas-de-morsures-de-chien/, /chien-le-plus-intelligent/, /chien-destructeur-que-faire/ | [2026-11-23](2026-11-23.md) |
