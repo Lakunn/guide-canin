@@ -50,7 +50,8 @@ $vr_lead = new WP_Query(
 			<?php
 			$vr_lead->the_post();
 			$vr_seen[] = get_the_ID();
-			get_template_part( 'template-parts/card', null, array( 'heading' => 'h2' ) );
+			// Sans photo, pas de grand aplat vide : la carte commence par le titre.
+			get_template_part( 'template-parts/card', null, array( 'heading' => 'h2', 'show_media' => has_post_thumbnail() ) );
 			?>
 		</div>
 		<div class="lead-side">
