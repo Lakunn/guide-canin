@@ -9,6 +9,7 @@ url: https://guidecanin.fr/chien-perdu-que-faire/
 seo_title: "Chien perdu : que faire, qui appeler, affiche à imprimer"
 meta_description: "Chien perdu : les gestes des premières heures, la déclaration I-CAD, la fourrière (8 jours ouvrés) et un modèle d'affiche gratuit à imprimer."
 categories:
+- vie-quotidienne-chien
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 243

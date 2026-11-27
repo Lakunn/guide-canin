@@ -9,6 +9,7 @@ url: https://guidecanin.fr/que-faire-en-cas-de-morsures-de-chien/
 seo_title: "Morsure de chien : soins, déclaration en mairie, 3 visites"
 meta_description: "Mordu par un chien ? Les soins et quand consulter. Votre chien a mordu ? Déclaration en mairie, 3 visites vétérinaires en 15 jours, évaluation comportementale."
 categories:
+- sante-chien
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 232

@@ -35,10 +35,16 @@ publisher_type: Organization
 # Rubriques. slug = slug WordPress existant (NE PAS MODIFIER). parent = rubrique mère.
 # URL des rubriques : /category/<parent>/<slug>/ (base WordPress par défaut).
 categories:
-  - slug: blog
-    name: Blog
-    on_home: false
-    intro: "Tous les articles de Guide Canin : santé, éducation, accessoires et races."
+  - slug: sante-chien
+    name: Santé
+    on_home: true
+    tagline: Parasites, soins, premiers gestes.
+    intro: "Parasites, soins courants et premiers gestes, d'après des sources vétérinaires citées. Aucun article ne remplace l'avis de votre vétérinaire."
+  - slug: vie-quotidienne-chien
+    name: Vie quotidienne
+    on_home: true
+    tagline: Imprévus, sécurité, organisation.
+    intro: "Chien perdu, chien errant, journées seules, sorties : les situations du quotidien et ce qu'il faut faire, étape par étape."
   - slug: education-canine
     name: Éducation canine
     on_home: true
@@ -70,6 +76,10 @@ categories:
     parent: race-de-chien
     name: Classements de races
     on_home: false
+  - slug: blog
+    name: Blog
+    on_home: false
+    intro: "Tous les articles de Guide Canin : santé, éducation, accessoires et races."
 
 canonical_overrides:
   calmants-chien-destructeur: /chien-destructeur-que-faire/
@@ -77,6 +87,7 @@ canonical_overrides:
 legacy_redirects: []
 
 nav:
+  - { label: Santé, url: /category/sante-chien/ }
   - { label: Éducation, url: /category/education-canine/ }
   - { label: Accessoires, url: /category/accessoires-chien/ }
   - { label: Races, url: /category/race-de-chien/ }
@@ -103,7 +114,7 @@ footer:
 analytics: false
 
 # Encadré d'urgence affiché sur les articles de ces rubriques.
-urgence_categories: []   # aucune rubrique santé pour l'instant sur guidecanin.fr
+urgence_categories: [sante-chien]
 urgence:
   texte: "Intoxication, difficulté à respirer, saignement important, convulsions : contactez immédiatement votre vétérinaire ou le service de garde. Intoxication : centres antipoison vétérinaires CNITV 04 78 87 10 40 ou CAPAE-Ouest 02 40 68 77 40 (8 h 30 – minuit)."
 

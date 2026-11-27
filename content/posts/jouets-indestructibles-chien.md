@@ -9,6 +9,7 @@ url: https://guidecanin.fr/jouets-indestructibles-chien/
 seo_title: "Jouet indestructible pour chien : bien choisir sans risque"
 meta_description: "Aucun jouet n'est indestructible. Caoutchouc naturel, corde, nylon : ce qui résiste à un gros mâcheur, et les deux tests qui évitent une dent cassée."
 categories:
+- accessoires-chien
 - blog
 cover_id: 495
 dek: "Aucun jouet n'est vraiment indestructible. Pour un chien qui détruit tout, choisissez un caoutchouc naturel épais, à la bonne taille, qui se marque à l'ongle. Ce qui est trop dur pour votre genou est trop dur pour ses dents."

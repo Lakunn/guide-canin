@@ -3,30 +3,16 @@ title: Contact
 slug: contact
 status: publish
 date: '2024-04-17T14:15:02'
-origin: import
+origin: rewrite
 wp_id: 19
 url: https://guidecanin.fr/contact/
-seo_title: Contact - Guide Canin
-meta_description: ''
-h1_actuel: Let’s get in touch
+dek: "Une erreur, une information dépassée ou une question : écrivez-nous."
+seo_title: "Contacter la rédaction de Guide Canin"
+meta_description: "Signaler une erreur ou une information dépassée, ou proposer une question à traiter : comment écrire à la rédaction de Guide Canin."
 ---
 
-# Let’s get in touch
+Vous avez repéré une erreur ou une information dépassée ? Une question sur votre chien mériterait un article ? Écrivez-nous à **valentinrouault.contact@gmail.com** en précisant la page concernée.
 
-Feel free to reach out to me through any of the following ways.
+Nous ne pouvons pas donner d'avis médical sur un cas particulier : pour la santé de votre chien, adressez-vous à votre vétérinaire.
 
-Email
-
-[![email](https://guidecanin.fr/wp-content/themes/hostinger-blog/build/images/mail.svg)
- valentinrouault.contact@gmail.com](mailto:valentinrouault.contact@gmail.com)
-
-Phone
-
-[![Call](https://guidecanin.fr/wp-content/themes/hostinger-blog/build/images/call.svg)
-0646772446](tel:0646772446)
-
----
-
-### Newsletter
-
-Subscribe to stay up\-to\-date with my latest creative projects, insights, and tips.
+Nous ne publions pas d'article sponsorisé et ne répondons pas aux propositions de liens commerciaux.

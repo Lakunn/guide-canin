@@ -9,6 +9,7 @@ url: https://guidecanin.fr/fugue-chien/
 seo_title: "Chien qui fugue : causes et solutions pour l'en empêcher"
 meta_description: "Chienne en chaleur, ennui, peur, chasse : les vraies raisons des fugues, comment sécuriser le jardin et ce que change la castration, chiffres à l'appui."
 categories:
+- education-canine
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 517

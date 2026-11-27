@@ -9,6 +9,7 @@ url: https://guidecanin.fr/chien-errant-que-faire/
 seo_title: "Chien errant trouvé : que faire, qui appeler, peut-on le garder"
 meta_description: "Vous avez trouvé un chien seul ? L'approcher, faire lire sa puce, le déclarer à I-CAD, prévenir la mairie, et ce qui se passe à la fourrière."
 categories:
+- vie-quotidienne-chien
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 236

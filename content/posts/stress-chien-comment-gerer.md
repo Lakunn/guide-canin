@@ -9,6 +9,7 @@ url: https://guidecanin.fr/stress-chien-comment-gerer/
 seo_title: "Chien stressé : les signes, les causes et quoi faire"
 meta_description: "Bâillements, babines léchées, oreilles en arrière : les signes d'un chien stressé, ce qui le calme vraiment (et ce qui ne sert à rien), et quand consulter."
 categories:
+- education-canine
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 521

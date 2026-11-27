@@ -9,6 +9,7 @@ url: https://guidecanin.fr/tiques-chien-que-faire/
 seo_title: "Tique sur un chien : la retirer et surveiller les signes"
 meta_description: "Retirer une tique avec un crochet, sans huile ni éther, puis surveiller votre chien 3 semaines : fièvre, abattement et urines brunes imposent le vétérinaire."
 categories:
+- sante-chien
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 245

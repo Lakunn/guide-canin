@@ -9,6 +9,7 @@ url: https://guidecanin.fr/apprendre-rappel-a-son-chien/
 seo_title: "Apprendre le rappel à son chien : méthode pas à pas"
 meta_description: "Un rappel fiable s'apprend par étapes : mot unique, récompense de grande valeur, longe de 10 m, distractions progressives. La méthode et les erreurs à éviter."
 categories:
+- education-canine
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 644

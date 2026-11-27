@@ -11,10 +11,32 @@ if ( is_paged() ) {
 get_header();
 
 $vr_seen = array();
+// L'accueil ne met en avant que les contenus publiés depuis le dépôt (réécrits ou nouveaux) :
+// les imports pas encore réécrits et les pages consolidées par canonical n'y figurent pas.
+$vr_home_meta = array(
+	'relation' => 'AND',
+	array(
+		'key'     => 'vr_source_hash',
+		'compare' => 'EXISTS',
+	),
+	array(
+		'relation' => 'OR',
+		array(
+			'key'     => 'vr_canonical',
+			'compare' => 'NOT EXISTS',
+		),
+		array(
+			'key'   => 'vr_canonical',
+			'value' => '',
+		),
+	),
+);
 $vr_lead = new WP_Query(
 	array(
 		'posts_per_page'      => 5,
-		'ignore_sticky_posts' => false,
+		'ignore_sticky_posts' => true,
+		'orderby'             => 'modified',
+		'meta_query'          => $vr_home_meta, // phpcs:ignore
 		'no_found_rows'       => true,
 	)
 );
@@ -86,6 +108,8 @@ $vr_lead = new WP_Query(
 				'posts_per_page'      => 3,
 				'post__not_in'        => $vr_seen,
 				'ignore_sticky_posts' => true,
+				'orderby'             => 'modified',
+				'meta_query'          => $vr_home_meta, // phpcs:ignore
 				'no_found_rows'       => true,
 			)
 		);

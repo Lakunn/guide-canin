@@ -9,6 +9,7 @@ url: https://guidecanin.fr/chien-destructeur-que-faire/
 seo_title: "Chien destructeur : causes, solutions et erreurs à éviter"
 meta_description: "Chien qui détruit tout : dents du chiot, ennui ou peur d'être seul ? Les signes de chaque cause, quoi faire, les erreurs qui aggravent et les calmants."
 categories:
+- education-canine
 - blog
 - tout-savoir-accessoires-chien
 cover_id: 745
